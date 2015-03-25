@@ -118,7 +118,12 @@ h4{
 	font-weight:normal;
 	font-size:19px;
 }
-
+#legend{
+	position:absolute;
+	top:0;
+	right:0;
+	z-index:100000;
+}
 </style>
 <body>
 <script src="d3.min.js"></script>
@@ -126,6 +131,13 @@ h4{
 <script src="d3.tip.js"></script>
 <h1>Spills in Brooklyn</h1>
 <h4>January 1st 2014 &ndash; Present</h4>
+<svg id="legend" width="150px" height="100%">
+	<circle cx="75" cy="151" r="3" fill="none" stroke="#000" stroke-width="1px"></circle>
+	<circle cx="75" cy="148" r="7" fill="none" stroke="#000" stroke-width="1px"></circle>
+	<circle cx="75" cy="143" r="12" fill="none" stroke="#000" stroke-width="1px"></circle>
+	<circle cx="75" cy="127" r="28" fill="none" stroke="#000" stroke-width="1px"></circle>
+	<circle cx="75" cy="95" r="60" fill="none" stroke="#000" stroke-width="1px"></circle>
+</svg>
 <script>
 var width = Math.max(960, window.innerWidth),
     height = Math.max(500, window.innerHeight),
@@ -177,7 +189,7 @@ points.call(tip);
 		
 zoomed();
 function createMap(dataset) {
-	d3.select("#points").selectAll("circle").data(dataset) //plotted locations on map
+	d3.select("#points").selectAll("spillpt").data(dataset) //plotted locations on map
 	.enter()
 	.append("circle")
 	.filter(function(d) { return d.Amount != "Unknown" })
@@ -201,7 +213,7 @@ function createMap(dataset) {
 	.enter()
 	.append("rect")
 	.filter(function(d) { return d.Amount == "Unknown" })
-	.attr("id", "spill")
+	.attr("id", "spillnoamt")
 	.attr("class", function(d) { return d.Cause })
 	.attr("x", function(d) {return projection([d.longitude,d.latitude])[0]})
 	.attr("y", function(d) {return projection([d.longitude,d.latitude])[1]})
@@ -226,7 +238,7 @@ function zoomed() {
       .scale(zoom.scale() / 2 / Math.PI)
       .translate(zoom.translate());
 
-			d3.selectAll("circle")
+			d3.selectAll("#spill")
 			.filter(function(d) { return d.Amount != "Unknown" })
 			.attr("cx", function(d) {return projection([d.longitude,d.latitude])[0]})
 			.attr("cy", function(d) {return projection([d.longitude,d.latitude])[1]})
