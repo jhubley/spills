@@ -117,12 +117,76 @@ h4{
 	font-family: Century Gothic, sans-serif;
 	font-weight:normal;
 	font-size:19px;
+	padding-top:12px;
 }
-#legend{
+h6{
+	margin: 0px;
+	padding:10px;
+	position:absolute;
+	top:46px;
+	left: 243px;
+	z-index:3000;
+	font-family: Century Gothic, sans-serif;
+	font-weight:normal;
+	font-size:12px;
+	padding-top:13px;
+}
+#legendbg{
+	position:absolute;
+	top:0;
+	right:0;
+	z-index:90000;
+	background: #fff;
+	width:240px;
+	height:230px;
+	opacity:.5;
+}
+.legendcircles{
 	position:absolute;
 	top:0;
 	right:0;
 	z-index:100000;
+	width:180px;
+	height:170px;
+	float:right;
+}
+.circlelabels p{
+	position:absolute;
+	top:10;
+	right:0px;
+	z-index:100000;
+  width: 200px;
+  height: 20px;
+  float: left;
+	font-size:14px;
+}
+.circlelabels ul{
+	position:absolute;
+	top:38px;
+	right:175px;
+	z-index:100000;
+  width: 75px;
+  height: 160px;
+  float: left;
+	font-size:13px;
+	margin:0px;
+	padding:0px;
+	text-align:right;
+}
+.circlelabels li{
+	list-style-type:none;
+	list-style-image:none;
+}
+.legendrect{
+	position:absolute;
+	top:190px;
+	right:0;
+	z-index:100000;
+	width:210px;
+	height:30px;
+	float:right;
+	font-size:14px;
+	text-align:right;
 }
 </style>
 <body>
@@ -130,13 +194,33 @@ h4{
 <script src="d3.geo.tile.min.js"></script>
 <script src="d3.tip.js"></script>
 <h1>Spills in Brooklyn</h1>
-<h4>January 1st 2014 &ndash; Present</h4>
-<svg id="legend" width="150px" height="100%">
-	<circle cx="75" cy="151" r="3" fill="none" stroke="#000" stroke-width="1px"></circle>
-	<circle cx="75" cy="148" r="7" fill="none" stroke="#000" stroke-width="1px"></circle>
-	<circle cx="75" cy="140" r="15" fill="none" stroke="#000" stroke-width="1px"></circle>
-	<circle cx="75" cy="127" r="28" fill="none" stroke="#000" stroke-width="1px"></circle>
-	<circle cx="75" cy="95" r="60" fill="none" stroke="#000" stroke-width="1px"></circle>
+<h4>January 1st 2014 &ndash; Present</h4><h6>(3/25/15)</h6>
+<div id="legendbg"></div>
+<div class="circlelabels">
+<p>Spill Amounts (gallons)</p>
+	<ul>
+		<li>1K - 10K</li><br/><br/><br/>
+		<li style="margin-bottom:10px;">500 - 1K</li>
+		<li>100 - 500</li>
+		<li>10 - 100</li>
+		<li>&#60; 10</li>
+	</ul>
+</div>
+<svg class="legendcircles">
+	<circle cx="100" cy="161" r="3" fill="none" stroke="#000" stroke-width="1px"></circle>
+	<circle cx="100" cy="158" r="7" fill="none" stroke="#000" stroke-width="1px"></circle>
+	<circle cx="100" cy="150" r="15" fill="none" stroke="#000" stroke-width="1px"></circle>
+	<circle cx="100" cy="137" r="28" fill="none" stroke="#000" stroke-width="1px"></circle>
+	<circle cx="100" cy="105" r="60" fill="none" stroke="#000" stroke-width="1px"></circle>
+	<line x1="10" y1="45" x2="100" y2="45" stroke="#aaa" stroke-width="1px"></line>
+	<line x1="10" y1="109" x2="100" y2="109" stroke="#aaa" stroke-width="1px"></line>
+	<line x1="10" y1="135" x2="100" y2="135" stroke="#aaa" stroke-width="1px"></line>
+	<line x1="10" y1="151" x2="100" y2="151" stroke="#aaa" stroke-width="1px"></line>
+	<line x1="10" y1="168" x2="100" y2="158" stroke="#aaa" stroke-width="1px"></line>
+</svg>
+<svg class="legendrect">
+	<rect x="20" y="11" width="8px" height="8px" fill="#555" stroke="none"></rect>
+	<text x="35" y="20" fill="#000">Spill amount unknown</text>
 </svg>
 <script>
 var width = Math.max(960, window.innerWidth),
@@ -201,9 +285,7 @@ function createMap(dataset) {
 				else if(d.Amount > 10 && d.Amount <= 100){return 7}
 				else if(d.Amount > 100 && d.Amount <= 500){return 15}
 				else if(d.Amount > 500 && d.Amount <= 1000){return 28}
-				else if(d.Amount > 1000 && d.Amount <= 10000){return 60}
-				else if(d.Amount > 10000){return 150}
-				else {return 2}})
+				else if(d.Amount > 1000 && d.Amount <= 10000){return 60}})
 	.style("fill", "#ff0000")
 	.style("stroke", function(d){if(d.Closed == "Not closed"){return "#fff000"}else{return "#999"}})
 	.style("stroke-width", 1.5)
@@ -211,7 +293,7 @@ function createMap(dataset) {
 	.on('mouseover', tip.show)
 	.on('mouseout', tip.hide);
 
-	d3.select("#points").selectAll("rect").data(dataset) //plotted locations on map
+	d3.select("#points").selectAll("spillptnoamt").data(dataset) //plotted locations on map
 	.enter()
 	.append("rect")
 	.filter(function(d) { return d.Amount == "Unknown" })
@@ -248,11 +330,9 @@ function zoomed() {
 						else if(d.Amount > 10 && d.Amount <= 100){return 7}
 						else if(d.Amount > 100 && d.Amount <= 500){return 15}
 						else if(d.Amount > 500 && d.Amount <= 1000){return 28}
-						else if(d.Amount > 1000 && d.Amount <= 10000){return 60}
-						else if(d.Amount > 10000){return 150}
-						else {return 2}});
+						else if(d.Amount > 1000 && d.Amount <= 10000){return 60}});
 			
-			d3.selectAll("rect")
+			d3.selectAll("#spillnoamt")
 			.filter(function(d) { return d.Amount == "Unknown" })
 			.attr("x", function(d) {return projection([d.longitude,d.latitude])[0]})
 			.attr("y", function(d) {return projection([d.longitude,d.latitude])[1]});
