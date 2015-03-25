@@ -134,7 +134,7 @@ h4{
 <svg id="legend" width="150px" height="100%">
 	<circle cx="75" cy="151" r="3" fill="none" stroke="#000" stroke-width="1px"></circle>
 	<circle cx="75" cy="148" r="7" fill="none" stroke="#000" stroke-width="1px"></circle>
-	<circle cx="75" cy="143" r="12" fill="none" stroke="#000" stroke-width="1px"></circle>
+	<circle cx="75" cy="140" r="15" fill="none" stroke="#000" stroke-width="1px"></circle>
 	<circle cx="75" cy="127" r="28" fill="none" stroke="#000" stroke-width="1px"></circle>
 	<circle cx="75" cy="95" r="60" fill="none" stroke="#000" stroke-width="1px"></circle>
 </svg>
@@ -178,7 +178,7 @@ var layerTwo = map.append("div")
 					
 var info = map.append("div")
     .attr("class", "info")
-		.html("<div id='leftbox'><a target='_blank' href='http://www.dec.ny.gov/cfmx/extapps/derexternal/index.cfm?pageid=2'>DEC Spill Incidents Database</a><br/><a target='_blank' href='http://www.dec.ny.gov/chemical/8428.html'>More information about chemical and petroleum spills</a></div><div id='rightbox'>Map tiles &copy;2012 Esri & Stamen, Data from OSM and Natural Earth</div>");
+		.html("<div id='leftbox'><a target='_blank' href='http://www.dec.ny.gov/cfmx/extapps/derexternal/index.cfm?pageid=2'>DEC Spill Incidents Database</a><br/><a target='_blank' href='http://www.dec.ny.gov/chemical/8428.html'>More information about chemical and petroleum spills</a></div><div id='rightbox'><a target='_blank' href='https://github.com/jhubley/spills'>Code on Github</a>&nbsp;&nbsp;|&nbsp;&nbsp;Map tiles &copy;2012 Esri & Stamen, Data from OSM and Natural Earth</div>");
 
 var tip = d3.tip()
 		.attr('class', 'd3-tip')
@@ -199,9 +199,11 @@ function createMap(dataset) {
 	.attr("cy", function(d) {return projection([d.longitude,d.latitude])[1]})
 	.attr("r", function(d) {if(d.Amount <= 10){return 3}
 				else if(d.Amount > 10 && d.Amount <= 100){return 7}
-				else if(d.Amount > 100 && d.Amount <= 500){return 12}
+				else if(d.Amount > 100 && d.Amount <= 500){return 15}
 				else if(d.Amount > 500 && d.Amount <= 1000){return 28}
-				else {return 60}})
+				else if(d.Amount > 1000 && d.Amount <= 10000){return 60}
+				else if(d.Amount > 10000){return 150}
+				else {return 2}})
 	.style("fill", "#ff0000")
 	.style("stroke", function(d){if(d.Closed == "Not closed"){return "#fff000"}else{return "#999"}})
 	.style("stroke-width", 1.5)
@@ -219,7 +221,7 @@ function createMap(dataset) {
 	.attr("y", function(d) {return projection([d.longitude,d.latitude])[1]})
 	.attr("width", 8)
 	.attr("height", 8)
-	.style("fill", "#ff0000")
+	.style("fill", "#555")
 	.style("stroke", function(d){if(d.Closed == "Not closed"){return "#fff000"}else{return "#999"}})
 	.style("stroke-width", 1.5)
 	.style("opacity", 0.6)
@@ -244,7 +246,7 @@ function zoomed() {
 			.attr("cy", function(d) {return projection([d.longitude,d.latitude])[1]})
 			.attr("r", function(d) {if(d.Amount <= 10){return 3}
 						else if(d.Amount > 10 && d.Amount <= 100){return 7}
-						else if(d.Amount > 100 && d.Amount <= 500){return 12}
+						else if(d.Amount > 100 && d.Amount <= 500){return 15}
 						else if(d.Amount > 500 && d.Amount <= 1000){return 28}
 						else if(d.Amount > 1000 && d.Amount <= 10000){return 60}
 						else if(d.Amount > 10000){return 150}
