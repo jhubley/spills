@@ -171,7 +171,7 @@ var info = map.append("div")
 var tip = d3.tip()
 		.attr('class', 'd3-tip')
 		.offset([-15, 1])
-		.html(function(d){if(d.Amount != 'Unknown'){return d.SpillName + "<br/>Material: " + d.Material + "<br/>Amount: " + d.Amount + " Gal. <br/>Cause: " + d.Cause + "<br/>Source: " + d.Source}else{return d.SpillName + "<br/>Material: " + d.Material + "<br/>Amount: " + d.Amount + "<br/>Cause: " + d.Cause + "<br/>Source: " + d.Source}})	
+		.html(function(d){if(d.Amount != 'Unknown'){return d.SpillName + "<br/>Material: " + d.Material + "<br/>Amount: " + d.Amount + " Gal. <br/>Cause: " + d.Cause + "<br/>Source: " + d.Source + "<br/>" + d.Address}else{return d.SpillName + "<br/>Material: " + d.Material + "<br/>Amount: " + d.Amount + "<br/>Cause: " + d.Cause + "<br/>Source: " + d.Source + "<br/>" + d.Address}})	
 						
 points.call(tip);
 		
