@@ -138,7 +138,7 @@ h6{
 	z-index:90000;
 	background: #fff;
 	width:240px;
-	height:230px;
+	height:275px;
 	opacity:.5;
 }
 .legendcircles{
@@ -188,6 +188,17 @@ h6{
 	font-size:14px;
 	text-align:right;
 }
+.legendfoot{
+	position:absolute;
+	top:220px;
+	right:0;
+	z-index:100000;
+	width:210px;
+	height:90px;
+	float:right;
+	font-size:14px;
+	text-align:right;
+}
 </style>
 <body>
 <script src="d3.min.js"></script>
@@ -222,6 +233,11 @@ h6{
 	<rect x="20" y="11" width="8px" height="8px" fill="#555" opacity="0.6" stroke="none"></rect>
 	<text x="35" y="20" fill="#000">Spill amount unknown</text>
 </svg>
+<svg class="legendfoot">
+	<rect x="0" y="11" width="8px" height="8px" fill="#555" opacity="0.6" stroke="#fff000" stroke-width="1px"></rect>
+	<circle cx="18" cy="15" r="4" fill="#ff0000" stroke="#fff000" stroke-width="1px" opacity=".6"></circle>
+	<text x="28" y="20" fill="#000">Yellow outlines indicate<tspan x="28" y="35">cases that remain open</tspan></text>
+</svg>
 <script>
 var width = Math.max(960, window.innerWidth),
     height = Math.max(500, window.innerHeight),
@@ -239,7 +255,7 @@ var projection = d3.geo.mercator()
 var zoom = d3.behavior.zoom()
     .scale(projection.scale() * 2 * Math.PI)
     .scaleExtent([1 << 20, 1 << 21])
-    .translate(projection([-73.955594, 40.655000]).map(function(x) { return -x; }))
+    .translate(projection([-73.922, 40.655000]).map(function(x) { return -x; }))
     .on("zoom", zoomed);
 
 var container = d3.select("body").append("div")
