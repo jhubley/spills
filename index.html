@@ -143,7 +143,7 @@ var projection = d3.geo.mercator()
 var zoom = d3.behavior.zoom()
     .scale(projection.scale() * 2 * Math.PI)
     .scaleExtent([1 << 20, 1 << 21])
-    .translate(projection([-73.942594, 40.648630]).map(function(x) { return -x; }))
+    .translate(projection([-73.955594, 40.655000]).map(function(x) { return -x; }))
     .on("zoom", zoomed);
 
 var container = d3.select("body").append("div")
