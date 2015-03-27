@@ -205,7 +205,7 @@ h6{
 <script src="d3.geo.tile.min.js"></script>
 <script src="d3.tip.js"></script>
 <h1>Spills in Brooklyn</h1>
-<h4>January 1st 2014 &ndash; Present</h4><h6>(3/25/15)</h6>
+<h4>January 1st 2014 &ndash; Present</h4>
 <div id="legendbg"></div>
 <div class="circlelabels">
 <p>Spill Amounts (gallons)</p>
@@ -254,7 +254,7 @@ var projection = d3.geo.mercator()
 
 var zoom = d3.behavior.zoom()
     .scale(projection.scale() * 2 * Math.PI)
-    .scaleExtent([1 << 20, 1 << 21])
+    .scaleExtent([1 << 20, 1 << 22])
     .translate(projection([-73.922, 40.655000]).map(function(x) { return -x; }))
     .on("zoom", zoomed);
 
@@ -380,6 +380,16 @@ function formatLocation(p, k) {
   return (p[1] < 0 ? format(-p[1]) + "°S" : format(p[1]) + "°N") + " "
        + (p[0] < 0 ? format(-p[0]) + "°W" : format(p[0]) + "°E");
 }
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61248014-1', 'auto');
+  ga('send', 'pageview');
+
 </script>
 </body>
 </html>
