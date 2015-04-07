@@ -286,7 +286,7 @@ var tip = d3.tip()
 		.offset([-15, 1])
     .html(function(d){
       if(d.Amount != 'Unknown'){ spillAmount = d.Amount + "Gal."} else { spillAmount = 'Unknown'}; 
-      return "<strong>" + d.Address + "</strong>" + "<br/>" + d.SpillName + "<br/>Material: " + d.Material + "<br/>Amount: " + spillAmount + "<br/>Cause: " + d.Cause + "<br/>Source: " + d.Source + "<br/> " + moment(d.DateSpillReported, "MM/DD/YY").fromNow()
+      return "<strong>" + d.Address + "</strong>" + "<br/>" + d.SpillName + "<br/>Material: " + d.Material + "<br/>Amount: " + spillAmount + "<br/>Cause: " + d.Cause + "<br/>Source: " + d.Source
     });	
 						
 points.call(tip);
