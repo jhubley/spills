@@ -204,6 +204,7 @@ h6{
 <script src="d3.min.js"></script>
 <script src="d3.geo.tile.min.js"></script>
 <script src="d3.tip.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment.min.js"></script>
 <h1>Spills in Brooklyn</h1>
 <h4>January 1st 2014 &ndash; Present</h4>
 <div id="legendbg"></div>
@@ -283,7 +284,10 @@ var info = map.append("div")
 var tip = d3.tip()
 		.attr('class', 'd3-tip')
 		.offset([-15, 1])
-		.html(function(d){if(d.Amount != 'Unknown'){return d.SpillName + "<br/>Material: " + d.Material + "<br/>Amount: " + d.Amount + " Gal. <br/>Cause: " + d.Cause + "<br/>Source: " + d.Source}else{return d.SpillName + "<br/>Material: " + d.Material + "<br/>Amount: " + d.Amount + "<br/>Cause: " + d.Cause + "<br/>Source: " + d.Source}})	
+    .html(function(d){
+      if(d.Amount != 'Unknown'){ spillAmount = d.Amount + "Gal."} else { spillAmount = 'Unknown'}; 
+      return "<strong>" + d.Address + "</strong>" + "<br/>" + d.SpillName + "<br/>Material: " + d.Material + "<br/>Amount: " + spillAmount + "<br/>Cause: " + d.Cause + "<br/>Source: " + d.Source + "<br/> " + moment(d.DateSpillReported, "MM/DD/YY").fromNow()
+    });	
 						
 points.call(tip);
 		
