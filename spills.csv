@@ -419,7 +419,7 @@ Spill Number,DateSpillReported,SpillName,Address,Material,Amount,Resource Affect
 1410017,01/12/2015,"Multi-Use Building, Apartment And Laundromat",4101-11 13th Ave,#2 Fuel Oil,20,Unknown,Equipment Failure,Commercial/Industrial,,Not closed,40.639216,-73.987442
 1410031,01/13/2015,Roadway,53 Varick Ave,Diesel,10,Unknown,Traffic Accident,Commercial Vehicle,,01/13/15,40.707593,-73.927431
 1410050,01/13/2015,School,29 Fort Greene Pl,#6 Fuel Oil,50,Unknown,Equipment Failure,"Institutional, Educational, Gov., Other",,01/22/15,40.688873,-73.97641
-1410051,01/13/2015,School,S Elliott Place/Dekalb Ave,Unknown Petroleum,70,"Sewer, Sewer",Equipment Failure,"Institutional, Educational, Gov., Other",,01/14/15,33.497821,-94.634616
+1410051,01/13/2015,School,S Elliott Place/Dekalb Ave,Unknown Petroleum,70,"Sewer, Sewer",Equipment Failure,"Institutional, Educational, Gov., Other",,01/14/15,40.689721,-73.976058
 1410058,01/14/2015,Commercial Property,1181 Flushing Ave,Unknown Petroleum,Unknown,"Soil , Groundwater",Other,Gasoline Station Or Other Pbs Facility,,Not closed,40.706534,-73.925224
 1410068,01/14/2015,Commercial Building,194 Schenck Ave,Other,Unknown,Soil,Unknown,Commercial/Industrial,,02/27/15,40.676181,-73.889623
 1410084,01/14/2015,Gowanus Power Plant,730 3rd Ave,Nitrogen Dioxide,1,Unknown,Equipment Failure,Commercial/Industrial,,01/14/15,40.664748,-74.002298
@@ -448,7 +448,7 @@ Spill Number,DateSpillReported,SpillName,Address,Material,Amount,Resource Affect
 1410973,02/18/2015,"Manhole Tm1653, Tm1754, Tm1802, & Bc1653",621 Court St,Unknown Petroleum,16,Unknown,Unknown,Transformer,,Not closed,40.670959,-74.001373
 1410980,02/18/2015,Daycare Center,987 Lafayette Ave,#2 Fuel Oil,8,Unknown,Unknown,Commercial/Industrial,,Not closed,40.692245,-73.932657
 1411031,02/20/2015,Brownsville Substation,247 Williams Ave,Dielectric Fluid,400,Soil,Other,Commercial/Industrial,,Not closed,40.669442,-73.899019
-1411087,02/22/2015,Midtown Creek,Manhattan Ave Boat Launch,Unknown Petroleum,Unknown,Surface Water,Unknown,Unknown,Midtown Creek,03/02/15,39.352632,-96.662108
+1411087,02/22/2015,Midtown Creek,Manhattan Ave Boat Launch,Unknown Petroleum,Unknown,Surface Water,Unknown,Unknown,Midtown Creek,03/02/15,40.738977,-73.955699
 1411103,02/23/2015,Red Hook Term.,17 Commercial Warf/Berth 10,Unknown Material,5.5,Surface Water,Unknown,Vessel,Butter Milk Channel,02/23/15,40.678178,-73.944158
 1411125,02/23/2015,Drum Run,Glenmore And Vermont St,Unknown Petroleum,Unknown,Unknown,Unknown,Unknown,,03/19/15,40.673437,-73.894282
 1411164,02/24/2015,Newtown Creek,Under Polaski Bridge,Unknown Petroleum,Unknown,Surface Water,Other,Unknown,Newtown Creek,02/24/15,40.678178,-73.944158
@@ -492,3 +492,6 @@ Spill Number,DateSpillReported,SpillName,Address,Material,Amount,Resource Affect
 1412138,03/26/15,Dep Sewage Treatment Plant,12266 Flatland Ave,Sludge,50,Unknown,Equipment Failure,"Institutional, Educational, Gov., Other",Hendrix St Canal,03/27/15,40.652416,-73.879078
 1412154,03/27/15,In Tracks,Nostrand Ave And Eastern Pkwy,Other,55,Unknown,Equipment Failure,Commercial/Industrial,,Not Closed,40.669895,-73.950497
 1412169,03/27/15,Whitman Housing,102 Cumberland Walk,#2 Fuel Oil,50,Soil,Human Error,"Institutional, Educational, Gov., Other",,Not Closed,40.69487,-73.974691
+1412258,03/31/15,Manhole 66203,19th St/10th Ave,Unknown Petroleum,6,Unknown,Unknown,Unknown,,Not Closed,40.655546,-73.981517
+1500030,04/01/15,Residence,553 Macdonough Street,#2 Fuel Oil,Unknown,Unknown,Equipment Failure,Private Dwelling,,04/03/15,40.683497,-73.923967
+1500053,04/02/15,Unknown 966 -988 Alabama Ave,966 -988 Alabama Ave,Diesel,Unknown,Unknown,Unknown,Commercial/Industrial,,Not Closed,40.652601,-73.889459
