@@ -1,500 +1,500 @@
-"Spill Number"	"DateSpillReported"	"SpillName"	"Address"	"Material"	"Amount"	"Resource Affected"	"Cause"	"Source"	"Waterbody"	"Closed"	"latitude"	"longitude"
-1309576	"01/01/2014"	"Metropolitan Avenue Bridge - North Side "	"  Metropolitan Ave And Morgan "	"Unknown Petroleum"	"Unknown"	"Surface Water"	"Unknown"	"Unknown"		"01/13/14"	40.714455	-73.935296
-1309591	"01/02/2014"	"Groundlevel "	"  451 Clarkson Ave "	"#6 Fuel Oil"	"Unknown"	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"01/02/14"	40.656571	-73.946224
-1309609	"01/03/2014"	"Fuel Oil Spill At Commercial Bldg "	"  141 Livingston Street "	"#4 Fuel Oil"	"Unknown"	"Unknown"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.690693	-73.988056
-1309611	"01/03/2014"	"Business "	"  141 Livingston St "	"#6 Fuel Oil"	20	"Unknown"	"Human Error"	"Commercial/Industrial"		"01/03/14"	40.690693	-73.988056
-1309692	"01/06/2014"	"Parking Lot Transmission Manhole 4966 "	"  12th St & 2nd Ave "	"Unknown Petroleum"	10	"Soil"	"Equipment Failure"	"Transformer"		"02/20/14"	40.67079	-73.994896
-1309693	"01/06/2014"	"Residence "	"  3085 Brighton 13th Street "	"#2 Fuel Oil"	20	"Unknown"	"Equipment Failure"	"Private Dwelling"		"03/11/14"	40.578227	-73.956439
-1309710	"01/07/2014"	"Katz Residence "	"  21 Falmouth St "	"#2 Fuel Oil"	"Unknown"	"Soil"	"Unknown"	"Private Dwelling"		"01/29/14"	40.580986	-73.946674
-1309740	"01/08/2014"	"Roadway "	"  326 49th Street "	"Biodiesel"	20	"Unknown"	"Equipment Failure"	"Private Dwelling"		"01/08/14"	40.647701	-74.013603
-1309770	"01/08/2014"	"Apartment Bldg "	"  400 Marlborough Rd "	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Private Dwelling"		"Not closed"	40.640353	-73.964551
-1309782	"01/09/2014"	"Intersection "	"  Borinquen Pl/Rodney St "	"Hydraulic Oil"	15	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"02/20/14"	40.707596	-73.956989
-1309799	"01/09/2014"	"Newtown Creek "	"  Mcguinnes Blvd/Polaski Bridge "	"Unknown Petroleum"	"Unknown"	"Surface Water "	"Unknown"	"Unknown"	"Newtown Creek"	"01/09/14"	40.678178	-73.944158
-1309812	"01/09/2014"	"Apt Building "	"  953 Dekalb Ave "	"#2 Fuel Oil"	200	"Unknown"	"Human Error"	"Private Dwelling"		"01/10/14"	40.693206	-73.937738
-1309823	"01/09/2014"	"Apartment Building "	"  1525 Dorchester Road; Apt 3 "	"#2 Fuel Oil"	"Unknown"	"Indoor Air"	"Unknown"	"Private Dwelling"		"01/12/14"	40.639772	-73.963469
-1309851	"01/10/2014"	"Bus # 269 "	"  200 Morgan Ave "	"Motor Oil"	1	"Unknown"	"Equipment Failure"	"Commercial Vehicle"		"01/10/14"	40.710891	-73.932998
-1309904	"01/12/2014"	"Apt Bld "	"  74 Eldert St "	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"09/09/14"	40.686965	-73.912459
-1309961	"01/13/2014"	"Roadway "	"  7103 Avenue T "	"#6 Fuel Oil"	4	"Unknown"	"Equipment Failure"	"Commercial Vehicle"		"01/14/14"	40.622122	-73.909021
-1309967	"01/14/2014"	"Third Part Spill To Vault "	"  145 Knoll Street "	"Waste Oil/Used Oil"	"Unknown"	"Unknown"	"Deliberate"	"Commercial/Industrial"		"01/15/14"	40.70319	-73.931237
-1310101	"01/16/2014"	"Apartment Building "	"  266 Malcolm X Boulevard "	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Equipment Failure"	"Private Dwelling"		"01/24/14"	40.683888	-73.929443
-1310110	"01/17/2014"	"Abandoned Lot "	"  17 Lacon Between Everett And Florence "	"Waste Oil/Used Oil"	"Unknown"	"Soil"	"Deliberate"	"Unknown"		"01/29/14"	40.678178	-73.944158
-1310167	"01/20/2014"	"Former Midas Facility "	"  801 4th Avenue "	"Unknown Petroleum"	"Unknown"	"Soil, Groundwater"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.658406	-73.999564
-1310287	"01/26/2014"	"Residence "	"  2560 Batchelddr St Apt 2m "	"Mercury"	"Unknown"	"Unknown"	"Human Error"	"Private Dwelling"		"01/30/14"	40.590611	-73.937324
-1310294	"01/26/2014"	"Basement "	"  45 Pineapple Street "	"#2 Fuel Oil"	15	"Unknown"	"Equipment Failure"	"Private Dwelling"		"Not closed"	40.698551	-73.99407
-1310295	"01/26/2014"	"Julia Saunders "	"  274 Jefferson Ave "	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Equipment Failure"	"Private Dwelling"		"Not closed"	40.683517	-73.946611
-1310303	"01/27/2014"	"School (UNK Name) "	"  544 7th Ave "	"#2 Fuel Oil"	20	"Soil "	"Human Error"	"Institutional, Educational, Gov., Other"		"04/28/14"	40.660669	-73.988512
-1310305	"01/27/2014"	"Fuel Oil Misdelivery To Basement "	"  5202 Avenue M "	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Equipment Failure"	"Private Dwelling"		"05/20/14"	40.621239	-73.925032
-1310424	"01/30/2014"	"Shoreline "	"  25a Lacon Ct "	"Waste Oil/Used Oil"	"Unknown"	"Unknown"	"Unknown"	"Unknown"		"02/06/14"	40.590104	-73.930363
-1310441	"01/31/2014"	"Drum Run "	"  Junius St And Linden Blvd "	"Waste Oil/Used Oil"	30	"Unknown"	"Abandoned Drums"	"Commercial/Industrial"		"03/05/14"	40.657322	-73.900272
-1310452	"01/31/2014"	"Drum Run "	"  Junius St Between New Lots And Linden "	"Waste Oil/Used Oil"	200	"Unknown"	"Abandoned Drums"	"Commercial/Industrial"		"03/05/14"	40.678178	-73.944158
-1310457	"01/31/2014"	"Corner Lots "	"  Corners Of Lacon Ct And Everett Ave "	"Motor Oil"	"Unknown"	"Soil"	"Unknown"	"Unknown"		"01/31/14"	40.591647	-73.927785
-1310459	"01/31/2014"	"Drum Run "	"  Dewitt Ave And Van Sinderen Ave "	"Waste Oil/Used Oil"	23	"Unknown"	"Abandoned Drums"	"Commercial/Industrial"		"03/05/14"	40.655847	-73.898379
-1310486	"02/01/2014"	"Basement "	"  1293 Prospect Ave "	"#2 Fuel Oil"	20	"Unknown"	"Human Error"	"Commercial/Industrial"		"Not closed"	40.651672	-73.975736
-1310521	"02/03/2014"	"Residence "	"  45 Pineapple St "	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Private Dwelling"		"05/22/14"	40.698551	-73.99407
-1310527	"02/03/2014"	"Bulk Terminal "	"  125 Apollo Street "	"Gasoline"	100	"Unknown"	"Unknown"	"Commercial/Industrial"		"02/12/14"	40.728272	-73.938239
-1310534	"02/04/2014"	"Unknown Residence "	"  688 Nostrand Ave "	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Private Dwelling"		"Not closed"	40.674972	-73.950105
-1310574	"02/05/2014"	"Secondary Containment "	"  25 Paidge Ave "	"Gasoline"	"Unknown"	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"Not closed"	40.737441	-73.951971
-1310590	"02/06/2014"	"Paerdegaat Basin "	"  Foot Of Seaview Ave "	"Unknown Petroleum"	"Unknown"	"Unknown"	"Other"	"Vessel"		"02/06/14"	40.635361	-73.887407
-1310630	"02/07/2014"	"Construction Site "	"  340 Gateway Drive "	"Diesel"	20	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"11/17/14"	40.650274	-73.870253
-1310634	"02/07/2014"	"Farragut Substation "	"  89 John St "	"Cable Oil"	40	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"04/30/14"	40.704375	-73.984956
-1310667	"02/10/2014"	"Former Dry Cleaner "	"  3806 Nostrand Ave "	"Other"	"Unknown"	"Soil, Groundwater"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.591113	-73.940177
-1310669	"02/10/2014"	"Commercial Lot "	"  502 Metropolitan Ave "	"#2 Fuel Oil"	"Unknown"	"Soil"	"Equipment Failure"	"Commercial/Industrial"		"Not closed"	40.713795	-73.952244
-1310697	"02/11/2014"	"Drum Run "	"  1513 Dumont St "	"Waste Oil/Used Oil"	110	"Unknown"	"Unknown"	"Commercial/Industrial"		"03/05/14"	40.671291	-73.86183
-1310729	"02/12/2014"	"Home "	"  105 Bay Ridge Parkway "	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Unknown"	"Private Dwelling"		"05/21/14"	40.63288	-74.03273
-1310765	"02/13/2014"	"Nyc School "	"  8787 24th Ave "	"#4 Fuel Oil"	20	"Unknown"	"Equipment Failure"	"Institutional, Educational, Gov., Other"		"10/08/14"	40.594363	-73.993937
-1310798	"02/14/2014"	"(2) Tanks Abandon Under Ground "	"  280 East 88th Street "	"Unknown Petroleum"	"Unknown"	"Soil"	"Deliberate"	"Commercial/Industrial"		"Not closed"	40.646757	-73.915958
-1310836	"02/16/2014"	"Drum Run "	"  110 Blake Ave "	"Waste Oil/Used Oil"	10	"Unknown"	"Unknown"	"Unknown"		"03/05/14"	40.664701	-73.915839
-1310850	"02/17/2014"	"Metropolitan Paper Recycling "	"  996 Essex Street "	"Motor Oil"	"Unknown"	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"01/05/15"	40.659831	-73.874362
-1310856	"02/17/2014"	"Bulk Tank /CONTAINED "	"  125 Apolo St "	"Other"	2	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"Not closed"	40.728272	-73.938239
-1310864	"02/18/2014"	"Unknown "	"  1055 Linwood "	"Unknown Petroleum"	"Unknown"	"Sewer"	"Unknown"	"Unknown"		"03/03/14"	40.659968	-73.875493
-1310953	"02/20/2014"	"Unknown "	"  57 Ira Court "	"#2 Fuel Oil"	"Unknown"	"Soil"	"Equipment Failure"	"Unknown"		"02/24/14"	40.592038	-73.93017
-1310992	"02/21/2014"	"86th St Chevrolet "	"  1575 86th St "	"Tetrachloroethene"	"Unknown"	"Unknown"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.61029	-74.007326
-1311032	"02/22/2014"	"Scrapyard "	"  539 Smith St "	"Unknown Petroleum"	"Unknown"	"Soil, Groundwater"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.67308	-73.997958
-1311043	"02/23/2014"	"In Front Of "	"  2954 West A St "	"Material Not Identified"	"Unknown"	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"02/24/14"	40.584086	-73.969026
-1311044	"02/23/2014"	"Ifo "	"  2954 West 8th St "	"Dielectric Fluid"	1	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"05/08/14"	40.576505	-73.977366
-1311077	"02/24/2014"	"Drum Run "	"  Near 63 Euclid Ave "	"Waste Oil/Used Oil"	110	"Unknown"	"Abandoned Drums"	"Commercial/Industrial"		"03/05/14"	40.687179	-73.874837
-1311080	"02/24/2014"	"Apt Building/Brighton House "	"  500 Bright Water Court "	"#2 Fuel Oil"	"Unknown"	"Soil"	"Equipment Failure"	"Private Dwelling"		"Not closed"	40.57542	-73.962141
-1311087	"02/24/2014"	"Private Resd "	"  457 43rd St "	"#2 Fuel Oil"	2	"Unknown"	"Human Error"	"Private Dwelling"		"02/26/14"	40.649594	-74.006759
-1311089	"02/24/2014"	"Residence "	"  1467 Bedford Ave "	"#2 Fuel Oil"	20	"Unknown"	"Equipment Failure"	"Private Dwelling"		"Not closed"	40.673064	-73.953874
-1311174	"02/27/2014"	"Residence "	"  8797 25th Ave "	"#2 Fuel Oil"	"Unknown"	"Soil"	"Equipment Failure"	"Private Dwelling"		"04/28/14"	40.593743	-73.991234
-1311225	"02/28/2014"	"Greenwood Substation "	"  Ditmas Ave / Dahill Road "	"Dielectric Fluid"	3200	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"05/27/14"	40.645622	-73.981194
-1311250	"03/01/2014"	"Residence "	"  239 Waverly Ave "	"#2 Fuel Oil"	"Unknown"	"Soil"	"Equipment Failure"	"Private Dwelling"		"08/28/14"	40.690928	-73.96713
-1311287	"03/03/2014"	"Industrial Warehouse "	"  425 Greenpoint Ave "	"Unknown Hazardous Material"	"Unknown"	"Unknown"	"Unknown"	"Commercial/Industrial"		"03/17/14"	40.733171	-73.942294
-1311349	"03/05/2014"	"Bqe Exit 23 West Bound Ramp "	"  Bronx Queens Expressway "	"Motor Oil"	5	"Unknown"	"Equipment Failure"	"Commercial Vehicle"		"03/05/14"	40.654409	-74.00785
-1311353	"03/05/2014"	"Tank Room And Lawn "	"  1925 Stuart Street "	"#4 Fuel Oil"	50	"Soil"	"Human Error"	"Institutional, Educational, Gov., Other"		"Not closed"	40.606625	-73.938758
-1311431	"03/07/2014"	"11th St Yard "	"  Ash St And Mcguiness St "	"Unknown Material"	"Unknown"	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"07/08/14"	40.738245	-73.952998
-1311446	"03/07/2014"	"Transformer "	"  299 Water Street "	"Dielectric Fluid"	"Unknown"	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"11/21/14"	40.702954	-73.981952
-1311476	"03/08/2014"	"Roadway "	"  Belt Parkway Napp St "	"Gasoline"	2	"Soil, Groundwater"	"Other"	"Passenger Vehicle"		"03/12/14"	40.678178	-73.944158
-1311482	"03/09/2014"	"Ifo "	"  2207 Albemarle Rd "	"Diesel"	25	"Unknown"	"Traffic Accident"	"Commercial Vehicle"		"03/10/14"	40.648148	-73.956338
-1311529	"03/11/2014"	"Gowanus Generating Station "	"  420 2nd Ave "	"Diesel"	"Unknown"	"Soil"	"Equipment Failure"	"Commercial/Industrial"	"Gowanus Bay"	"09/16/14"	40.66169	-74.004141
-1311563	"03/12/2014"	"New Town Creek "	"  End Of Meeker Avenue "	"Unknown Material"	"Unknown"	"Unknown"	"Unknown"	"Unknown"	"Newtown Creek"	"03/12/14"	40.721136	-73.942813
-1311570	"03/12/2014"	"Apt House "	"  353 Bay Ridge Parkway "	"#2 Fuel Oil"	2	"Unknown"	"Unknown"	"Commercial/Industrial"		"03/13/14"	40.631251	-74.025879
-1311593	"03/12/2014"	"Under Ground "	"  946-954 Flushing Ave "	"Gasoline"	"Unknown"	"Soil, Groundwater"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.702852	-73.9327
-1311601	"03/12/2014"	"Residence "	"  96-11 Church Ave "	"#2 Fuel Oil"	215	"Unknown"	"Unknown"	"Private Dwelling"		"Not closed"	40.641605	-73.983104
-1311664	"03/14/2014"	"Roadway "	"  60th And Fort Hamilton Ave "	"Hydraulic Oil"	1	"Unknown"	"Equipment Failure"	"Commercial Vehicle"		"05/01/14"	40.633073	-74.005557
-1311691	"03/14/2014"	"Drum Run "	"  1100 Linwood St "	"Other"	30	"Unknown"	"Abandoned Drums"	"Commercial/Industrial"		"04/04/14"	40.658338	-73.874459
-1311797	"03/18/2014"	"Auto Body Shop "	"  873 Liberty Avenue "	"Unknown Material"	"Unknown"	"Unknown"	"Housekeeping"	"Commercial/Industrial"		"04/03/14"	40.677445	-73.877264
-1311811	"03/19/2014"	"Home "	"  4262 Ocean Ave "	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Equipment Failure"	"Private Dwelling"		"Not closed"	40.576368	-73.94738
-1311882	"03/20/2014"	"Drum Run "	"  57 Bartlett St "	"Unknown Petroleum"	"Unknown"	"Unknown"	"Abandoned Drums"	"Unknown"		"05/13/14"	40.701466	-73.946396
-1311899	"03/20/2014"	"Parking Lot "	"  219 Sullivan St "	"Hydraulic Oil"	"Unknown"	"Soil"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.680196	-74.016416
-1311918	"03/21/2014"	"Opposite"	"611 Emerald St"	"Cooking Oil"	2	"Soil"	"Equipment Failure"	"Commercial/Industrial"	"None"	" 05/01/2014"	40.667658	-73.858244
-1311927	"03/21/2014"	"Lab Results"	"11 West St"	"Diesel"	"Unknown"	"Soil"	"Other"	"Commercial/Industrial"	"None"	"Not closed"	40.726578	-73.959063
-1311937	"03/21/2014"	"Sewer"	"18th St And Hamilton Ave"	"Waste Oil/Used Oil"	500	"Sewer"	"Equipment Failure"	"Commercial Vehicle"		" 03/24/2014"	40.6714	-73.998179
-1311976	"03/24/2014"	"Manhole 46454"	"Opposite 82 18th St"	"Motor Oil"	50	"Unknown"	"Human Error"	"Commercial/Industrial"		"03/24/14"	40.666439	-73.997529
-1311999	"03/24/2014"	"Pad Mount Transformer 66178"	"West Side Of Flat Bush Ave"	"Dielectric Fluid"	"Unknown"	"Soil"	"Equipment Failure"	"Commercial/Industrial"		"05/01/14"	40.681834	-73.975838
-1312000	"03/24/2014"	"Basement"	"185 Broadway"	"#2 Fuel Oil"	20	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"05/27/14"	40.71001	-73.961932
-1312025	"03/24/2014"	"Substation"	"111 Hudson Ave"	"Unknown Petroleum"	"Unknown"	"Soil"	"Equipment Failure"	"Commercial/Industrial"		"04/23/14"	40.704526	-73.980264
-1312054	"03/25/2014"	"Multi Unit Dwelling"	"150 Lefferts Ave"	"#6 Fuel Oil"	75	"Unknown"	"Human Error"	"Commercial/Industrial"		"05/28/14"	40.661756	-73.95613
-1312057	"03/25/2014"	"Unknown Type Bldg"	"150 Lefferts Ave"	"#2 Fuel Oil"	50	"Unknown"	"Human Error"	"Private Dwelling"		"03/25/14"	40.661756	-73.95613
-1312167	"03/28/2014"	"In Front Of"	"434 Baine Bridge Street"	"Unknown Petroleum"	1	"Unknown"	"Unknown"	"Unknown"		"11/21/14"	40.682062	-73.91935
-1312168	"03/28/2014"	"In Front Of"	"429 Baine Bridge Street"	"Unknown Petroleum"	0.5	"Unknown"	"Unknown"	"Unknown"		"05/01/14"	40.68251	-73.919564
-1312247	"03/31/2014"	"Construction Site"	"683 Marcy Ave"	"Gasoline"	"Unknown"	"Soil"	"Equipment Failure"	"Commercial/Industrial"		"Not closed"	40.690875	-73.948006
-1400029	"04/01/2014"	"Drum Run"	"99 Hunterfly Pl"	"Motor Oil"	55	"Unknown"	"Abandoned Drums"	"Unknown"		"04/04/14"	40.677433	-73.928222
-1400045	"04/02/2014"	"Road Way"	"Brooklyn Queens Express Way And Atlantic Ave"	"Diesel"	20	"Unknown"	"Traffic Accident"	"Commercial/Industrial"		"04/02/14"	40.678183	-73.944161
-1400122	"04/03/2014"	"Kent Ave Roadway"	"Kent Ave Bewteen N 4th St & N 5th St"	"Hydraulic Oil"	10	"Soil"	"Unknown"	"Unknown"		"04/07/14"	40.716735	-73.958919
-1400237	"04/07/2014"	"Tnt Scrap Yard"	"340 Maspeth Ave"	"Diesel"	"Unknown"	"Soil, Surface Water"	"Equipment Failure"	"Commercial/Industrial"	"English Kills"	"04/24/14"	40.718032	-73.930469
-1400267	"04/08/2014"	"Transformer 4966"	"12th St & 2nd Ave"	"Cooking Oil"	200	"Soil"	"Equipment Failure"	"Transformer"		"05/15/14"	40.67079	-73.994896
-1400327	"04/10/2014"	"Commercial Property"	"8014 Preston Court"	"Waste Oil/Used Oil"	200	"Soil"	"Abandoned Drums"	"Commercial/Industrial"		"Not closed"	40.641747	-73.918989
-1400370	"04/11/2014"	"Commercial Property"	"744-760 Bedford Ave"	"Gasoline"	"Unknown"	"Soil"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.69813	-73.95717
-1400390	"04/11/2014"	"Ellayah Deli Grocery"	"590 Broadway"	"Cooking Grease"	"Unknown"	"Sewer"	"Deliberate"	"Commercial/Industrial"		"04/11/14"	40.703605	-73.947381
-1400416	"04/12/2014"	"Intersection Of"	"New Lot Ave / Nj Ave"	"Antifreeze"	3	"Sewer"	"Equipment Failure"	"Commercial Vehicle"		"04/14/14"	40.652973	-73.943999
-1400533	"04/15/2014"	"Soil"	"43 Willow Pl"	"#2 Fuel Oil"	2	"Soil"	"Equipment Failure"	"Private Dwelling"		"09/23/14"	40.692298	-73.997959
-1400540	"04/16/2014"	"Roadway"	"7702 Flat Land"	"Diesel"	20	"Unknown"	"Equipment Failure"	"Commercial Vehicle"		"04/16/14"	40.634034	-73.915002
-1400545	"04/16/2014"	"St. Joseph College - Ttf"	"290 Washington Ave"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Institutional, Educational, Gov., Other"		"Not closed"	40.690048	-73.966738
-1400638	"04/18/2014"	"Unknown"	"909 Remsen Ave"	"Compressor Oil"	4	"Soil"	"Unknown"	"Commercial/Industrial"		"05/15/14"	40.646523	-73.911783
-1400668	"04/19/2014"	"Drum Run"	"409 48th Street"	"Unknown Petroleum"	15	"Unknown"	"Unknown"	"Unknown"		"05/13/14"	40.647423	-74.010959
-1400688	"04/21/2014"	"Con Ed"	"In Front Of 1021 71st St"	"Transformer Oil"	"Unknown"	"Unknown"	"Equipment Failure"	"Transformer"		"05/15/14"	40.626376	-74.010887
-1400791	"04/23/2014"	"Sunoco Station"	"1731 Bushwick Ave"	"Unknown Petroleum"	"Unknown"	"Soil"	"Other"	"Gasoline Station Or Other Pbs Facility"		"Not closed"	40.679422	-73.900174
-1400872	"04/25/2014"	"Sidewalk"	"400 Monitor Street"	"Hydraulic Oil"	25	"Unknown"	"Equipment Failure"	"Commercial Vehicle"		"04/25/14"	40.73165	-73.94358
-1400921	"04/28/2014"	"Nyc Transit"	"Madison St And Woodward"	"Motor Oil"	5	"Unknown"	"Equipment Failure"	"Commercial Vehicle"		"04/28/14"	40.703974	-73.904124
-1400957	"04/29/2014"	"Drum Run"	"956 Linwood St"	"Waste Oil/Used Oil"	"Unknown"	"Soil"	"Abandoned Drums"	"Unknown"		"05/13/14"	40.662236	-73.877208
-1400978	"04/29/2014"	"Drum Run"	"875 Linwood St"	"Motor Oil"	95	"Unknown"	"Other"	"Unknown"		"05/13/14"	40.664138	-73.878586
-1401054	"04/30/2014"	"Newtown Creek"	"Surface Water"	"Unknown Material"	"Unknown"	"Surface Water"	"Unknown"	"Unknown"	"Newtown Creek"	"05/01/14"	40.724545	-73.94186
-1401071	"05/01/2014"	"At Intersection In Vault"	"Wortman Ave And Essex St"	"Unknown Material"	9	"Unknown"	"Unknown"	"Commercial/Industrial"		"08/12/14"	40.661107	-73.875285
-1401150	"05/03/2014"	"Residence"	"1015 East 108 St"	"Raw Sewage"	"Unknown"	"Unknown"	"Unknown"	"Private Dwelling"		"05/05/14"	40.647084	-73.890497
-1401192	"05/05/2014"	"Dispenser 12"	"644 Bushwick Ave"	"Gasoline"	0.5	"Unknown"	"Unknown"	"Gasoline Station Or Other Pbs Facility"		"05/06/14"	40.679459	-73.900641
-1401199	"05/05/2014"	"Underground Tank"	"615 Avenue C"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Private Dwelling"		"Not closed"	40.641394	-73.97252
-1401262	"05/07/2014"	"Exxon Terminal"	"Green Point Ave"	"Unknown Material"	"Unknown"	"Surface Water"	"Unknown"	"Commercial/Industrial"	"Newtown Creek"	"05/07/14"	40.734584	-73.937427
-1401275	"05/07/2014"	"Transformer Vault"	"Ave X And Batchelder Ave"	"Dielectric Fluid"	1	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"06/24/14"	40.594128	-73.937778
-1401295	"05/07/2014"	"Basement"	"109 Berkeley Place"	"#2 Fuel Oil"	20	"Unknown"	"Equipment Failure"	"Private Dwelling"		"Not closed"	40.675943	-73.976591
-1401302	"05/07/2014"	"Underground - Ttf"	"165 East 19th Street"	"#4 Fuel Oil"	"Unknown"	"Soil"	"Tank Test Failure"	"Private Dwelling"		"Not closed"	40.645508	-73.960991
-1401357	"05/08/2014"	"Service Box And Road Way"	"8778 Bay Parkway"	"Transmission Fluid, Motor Oil"	"Unknown"	"Soil"	"Other"	"Unknown"		"06/25/14"	40.598354	-73.997774
-1401366	"05/08/2014"	"New Town Creek"	"49-51 Ash Street"	"Unknown Petroleum"	10	"Surface Water"	"Unknown"	"Unknown"	"Newtown Creek"	"05/27/14"	40.738237	-73.953205
-1401374	"05/09/2014"	"Construction Site - Livonia Commons"	"494 Georgia Ave"	"#2 Fuel Oil"	"Unknown"	"Soil"	"Unknown"	"Commercial/Industrial"		"07/08/14"	40.664345	-73.895904
-1401376	"05/09/2014"	"Construction Site"	"421 Kent Ave"	"Unknown Petroleum"	"Unknown"	"Soil"	"Unknown"	"Commercial/Industrial"		"05/23/14"	40.709989	-73.968487
-1401389	"05/09/2014"	"Newtown Creek"	"Polaski Bridge"	"Unknown Petroleum"	"Unknown"	"Surface Water"	"Unknown"	"Unknown"	"Newtown Creek"	"05/09/14"	40.73923	-73.952594
-1401412	"05/09/2014"	"Manhole 69156"	"Ralph Ave And Ave L"	"Motor Oil"	"Unknown"	"Sewer"	"Other"	"Commercial/Industrial"		"06/25/14"	40.624208	-73.917768
-1401429	"05/10/2014"	"Eastbound"	"Flatbush Ave And Belt Pkwy"	"Gasoline"	4	"Unknown"	"Traffic Accident"	"Passenger Vehicle"		"05/12/14"	40.584072	-73.96626
-1401431	"05/10/2014"	"Road Way"	"Eastern Park Way"	"Hydraulic Oil"	6	"Soil"	"Equipment Failure"	"Unknown"		"05/13/14"	40.672977	-73.911339
-1401467	"05/12/2014"	"Exterior Stock Yard"	"95 South 5th St"	"Gasoline"	"Unknown"	"Soil"	"Unknown"	"Commercial/Industrial"		"08/19/14"	40.711782	-73.964587
-1401520	"05/13/2014"	"Apt Building"	"489 Chauncey St"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Equipment Failure"	"Private Dwelling"		"05/28/14"	40.682284	-73.914997
-1401559	"05/14/2014"	"Con Edison Transformer Manhole #2010"	"Fulton Avenue And New York Avenue"	"Dielectric Fluid"	100	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"07/08/14"	40.68024	-73.946749
-1401786	"05/19/2014"	"Vault"	"Colonail Rd 85t St"	"Transformer Oil"	0.05	"Unknown"	"Human Error"	"Institutional, Educational, Gov., Other"		"05/20/14"	40.630559	-74.03407
-1401845	"05/20/2014"	"Commercial Parking Lot"	"19 Lafayette Ave"	"Unknown Petroleum"	"Unknown"	"Soil"	"Equipment Failure"	"Unknown"		"Not closed"	40.687122	-73.978514
-1401854	"05/21/2014"	"Con Ed Substation"	"239 Plymouth St"	"Unknown Petroleum"	"Unknown"	"Soil"	"Unknown"	"Unknown"		"11/24/14"	40.703673	-73.983685
-1401861	"05/21/2014"	"Pratt University (college)"	"200 Willoughby Ave"	"#6 Fuel Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Commercial/Industrial"		"Not closed"	40.69217	-73.963032
-1401910	"05/22/2014"	"Newtown Creek"	"195 Morgan St"	"Raw Sewage"	"Unknown"	"Surface Water "	"Deliberate"	"Vessel"	"Newtown Creek"	"05/22/14"	40.710754	-73.934159
-1401943	"05/23/2014"	"Drum Run"	"110 Kosciuszko Street"	"Waste Oil/Used Oil"	5	"Unknown"	"Abandoned Drums"	"Institutional, Educational, Gov., Other"		"06/04/14"	40.690562	-73.950616
-1401947	"05/23/2014"	"Residential Area"	"247 Driggs Ave"	"Hydraulic Oil"	2	"Soil"	"Equipment Failure"	"Commercial Vehicle"		"06/02/14"	40.722609	-73.947762
-1401975	"05/24/2014"	"Waste Water Treatment Plant"	"12266 Flat Lands Ave"	"Wastewater"	"Unknown"	"Unknown"	"Equipment Failure"	"Commercial Vehicle"		"05/27/14"	40.652416	-73.879078
-1402039	"05/27/2014"	"Brooklyn Municipal Bldg -ttf"	"210 Joralemon St"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Institutional, Educational, Gov., Other"		"12/09/14"	40.691996	-73.990448
-1402046	"05/27/2014"	"Metal Hole In Sidewalk"	"Ifo 5380 Kings Highway"	"Unknown Petroleum"	"Unknown"	"Soil"	"Unknown"	"Commercial Vehicle"		"05/27/14"	40.639528	-73.92647
-1402051	"05/27/2014"	"Gated Empty Lot"	"122 Liberty Ave"	"Waste Oil/Used Oil"	"Unknown"	"Soil"	"Unknown"	"Unknown"		"05/28/14"	40.672792	-73.905878
-1402094	"05/28/2014"	"Newtown Creek"	"Pulaski Bridge Mcguiness Blvd"	"Unknown Petroleum"	"Unknown"	"Unknown"	"Other"	"Unknown"		"05/29/14"	40.591776	-73.965745
-1402099	"05/29/2014"	"Roadway"	"Grand St/Vandervoort Ave"	"Hydraulic Oil"	10	"Sewer"	"Traffic Accident"	"Commercial Vehicle"		"05/29/14"	40.678178	-73.944158
-1402099	"05/29/2014"	"Roadway"	"Grand St/Vandervoort Ave"	"Sludge"	75	"Sewer"	"Traffic Accident"	"Commercial Vehicle"		"05/29/14"	40.678178	-73.944158
-1402161	"05/29/2014"	"Blue Stone"	"89 John St"	"Hydraulic Oil"	1	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"08/12/14"	40.704375	-73.984956
-1402188	"05/29/2014"	"Construction Site"	"94 North 13th St"	"Unknown Petroleum"	1	"Air , Utililty Conduit/Vault"	"Unknown"	"Unknown"		"05/30/14"	40.722409	-73.956926
-1402224	"05/31/2014"	"Generator"	"Ave U And E. 58th St"	"Diesel"	3	"Unknown"	"Equipment Failure"	"Institutional, Educational, Gov., Other"		"06/26/14"	40.613532	-73.916812
-1402236	"06/01/2014"	"Ground"	"820 Ocean Parkway"	"Auto Waste Fluids"	5	"Soil"	"Deliberate"	"Unknown"		"10/01/14"	40.628442	-73.971603
-1402248	"06/02/2014"	"Underground Tank"	"151-169 3rd Ave"	"Gasoline"	"Unknown"	"Unknown"	"Tank Test Failure"	"Gasoline Station Or Other Pbs Facility"		"07/09/14"	40.681224	-73.983173
-1402280	"06/02/2014"	"Substation"	"Plymouth St/ Gold Sreet"	"Dielectric Fluid"	7	"Unknown"	"Equipment Failure"	"Major Facility (mosf) > 400,000 Gal"		"08/12/14"	40.703635	-73.982665
-1402330	"06/03/2014"	"Haylan Data Com Electric"	"140 8th St"	"Hydraulic Oil"	1	"Soil"	"Equipment Failure"	"Commercial Vehicle"		"07/14/14"	40.672223	-73.991259
-1402352	"06/03/2014"	"Drum Run"	"Cozine Ave & Alabama Ave"	"Waste Oil/Used Oil"	220	"Unknown"	"Abandoned Drums"	"Commercial/Industrial"		"07/16/14"	40.65306	-73.889777
-1402389	"06/04/2014"	"Newtown Creek"	"49 Ash St"	"Unknown Petroleum"	"Unknown"	"Surface Water"	"Unknown"	"Unknown"	"Newtown Creek"	"06/05/14"	40.738537	-73.953394
-1402392	"06/04/2014"	"New Town Creek"	"Ash St And Mcguiness Ave"	"Unknown Petroleum"	"Unknown"	"Surface Water"	"Unknown"	"Unknown"	"Newtown Creek"	"08/19/14"	40.738245	-73.952998
-1402445	"06/05/2014"	"On Roadway 61157 Con Ed Truck"	"Clay St. And Manhattan Ave"	"Hydraulic Oil"	4	"Soil"	"Equipment Failure"	"Commercial Vehicle"		"06/26/14"	40.736577	-73.955307
-1402466	"06/06/2014"	"Marmaris Yacht Club"	"3040 Emmons Ave"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Equipment Failure"	"Vessel"	"Marina"	"06/06/14"	40.583861	-73.937281
-1402476	"06/06/2014"	"Construction"	"113 Flat Bush Ave Ext"	"#2 Fuel Oil"	3	"Soil"	"Tank Test Failure"	"Commercial/Industrial"		"Not closed"	40.695825	-73.984271
-1402507	"06/08/2014"	"Con Ed"	"East 36th And Quentin Rd"	"Dielectric Fluid"	1	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"01/15/15"	40.614628	-73.936813
-1402543	"06/09/2014"	"New Town Creek"	"End Of Meeker Ave"	"Unknown Petroleum"	"Unknown"	"Surface Water"	"Unknown"	"Unknown"	"Newtown Creek"	"06/10/14"	40.721136	-73.942813
-1402553	"06/09/2014"	"Sautin Residence"	"181 Fenimore St"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Private Dwelling"		"07/11/14"	40.658499	-73.956325
-1402556	"06/09/2014"	"Former Spic And Span Cleaners"	"315 Kingsland Ave"	"#2 Fuel Oil"	"Unknown"	"Soil"	"Equipment Failure"	"Unknown"		"Not closed"	40.734731	-73.944822
-1402573	"06/10/2014"	"Water"	"420 2nd Ave"	"Unknown Petroleum"	"Unknown"	"Surface Water"	"Storm"	"Unknown"		"06/10/14"	40.66169	-74.004141
-1402624	"06/11/2014"	"Roadway"	"264 Hart Street"	"Unknown Hazardous Material"	5	"Unknown"	"Deliberate"	"Unknown"		"06/11/14"	40.693991	-73.941505
-1402656	"06/11/2014"	"Hydraulic Oil Spill To Gerritsen Inlet"	"Gerritsen Inlet"	"Hydraulic Oil"	3	"Surface Water"	"Equipment Failure"	"Commercial/Industrial"		"06/11/14"	40.585661	-73.912081
-1402657	"06/11/2014"	"Verizon Waste Oil Spill To Pavement"	"1870 Shore Parkway"	"Waste Oil/Used Oil"	10	"Impervious Surface"	"Unknown"	"Tank Truck"		"06/11/14"	40.589928	-73.993529
-1402662	"06/11/2014"	"Con Edison 11th Street Conduit"	"Mcguiness Blvd And Ash Ave"	"Other"	"Unknown"	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"Not closed"	40.738245	-73.952998
-1402676	"06/11/2014"	"Gas Container"	"940 East 59th Street"	"Gasoline"	"Unknown"	"Unknown"	"Deliberate"	"Institutional, Educational, Gov., Other"		"06/11/14"	40.630184	-73.919679
-1402681	"06/11/2014"	"Drum Run"	"22 Pleasant Pl"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Abandoned Drums"	"Unknown"		"07/16/14"	40.676755	-73.910241
-1402790	"06/14/2014"	"Motor Oil Spill To Backyard By Neighbor"	"1450 Bay Ridge Avenue"	"Unknown Petroleum"	2	"Soil"	"Deliberate"	"Private Dwelling"		"Not closed"	40.621396	-74.000536
-1402796	"06/15/2014"	"Manhole 55334"	"Logan St And Pitkin Ave"	"Hydraulic Oil"	4	"Unknown"	"Equipment Failure"	"Commercial Vehicle"		"07/09/14"	40.674791	-73.876193
-1402904	"06/17/2014"	"Residence"	"201 Halleck St And Court St Corner"	"Unknown Material"	"Unknown"	"Unknown"	"Unknown"	"Unknown"		"Not closed"	40.670042	-74.001832
-1402958	"06/18/2014"	"Feeder Goethals Sub"	"3rd Ave And 51st Street"	"Dielectric Fluid"	400	"Soil"	"Unknown"	"Commercial/Industrial"		"01/15/15"	40.647029	-74.015027
-1402964	"06/18/2014"	"Manhole 74874"	"91st St/Colonial Rd"	"Dielectric Fluid"	7	"Unknown"	"Unknown"	"Commercial/Industrial"		"09/26/14"	40.630559	-74.03407
-1402966	"06/18/2014"	"Gravel Lot"	"500 Kent Ave"	"Nitric Acid"	0.13	"Unknown"	"Human Error"	"Commercial/Industrial"		"06/18/14"	40.706541	-73.968292
-1402967	"06/18/2014"	"Manhole 74873"	"91st St/Colonial Rd"	"Dielectric Fluid"	7	"Unknown"	"Unknown"	"Commercial/Industrial"		"09/26/14"	40.630559	-74.03407
-1402982	"06/18/2014"	"On Street"	"Cross Intersection Of John St And Jay St"	"Other"	"Unknown"	"Unknown"	"Unknown"	"Unknown"		"06/20/14"	40.692338	-73.987342
-1402983	"06/18/2014"	"Sample Jar"	"500 Kent Ave"	"Nitric Acid"	0.13	"Unknown"	"Human Error"	"Commercial/Industrial"		"06/18/14"	40.706541	-73.968292
-1403004	"06/19/2014"	"Newtown Creek Sheen"	"437 Mcguinness Blvd- Pulaski Bridge"	"Unknown Petroleum"	"Unknown"	"Surface Water"	"Unknown"	"Unknown"		"06/19/14"	40.73923	-73.952594
-1403039	"06/20/2014"	"Vault 3002"	"Wortmen St. / Linwood St"	"Unknown Material"	10	"Unknown"	"Equipment Failure"	"Transformer"		"08/12/14"	40.658006	-73.874069
-1403040	"06/20/2014"	"Vault 2998"	"Wortman Ave/Linwood St"	"Transformer Oil"	15	"Soil"	"Equipment Failure"	"Transformer"		"08/12/14"	40.658006	-73.874069
-1403049	"06/20/2014"	"Gravesend Bay"	"West 33 And Bayview Ave"	"Unknown Petroleum"	"Unknown"	"Surface Water"	"Unknown"	"Commercial/Industrial"	"Gravesend Bay"	"06/20/14"	40.581123	-74.000605
-1403050	"06/20/2014"	"Stillwell Creek"	"West 33rd St @BAYVIEW Ave"	"Unknown Petroleum"	"Unknown"	"Surface Water"	"Deliberate"	"Institutional, Educational, Gov., Other"	"Stillwell Creek"	"06/20/14"	40.581123	-74.000605
-1403062	"06/20/2014"	"Coney Island Creek"	"West 33rd St And Bayview Avenue"	"Unknown Material"	"Unknown"	"Groundwater, Surface Water "	"Unknown"	"Unknown"	"Coney Island Creek"	"06/20/14"	40.581123	-74.000605
-1403065	"06/20/2014"	"Manhole 23728"	"Lexington Ave/Bedford Ave"	"Unknown Petroleum"	0.1	"Soil"	"Unknown"	"Commercial/Industrial"		"07/09/14"	40.699994	-73.957234
-1403069	"06/20/2014"	"Roadway"	"West 7 St And Ocean Parkway"	"Hydraulic Oil"	2	"Sewer"	"Equipment Failure"	"Commercial Vehicle"		"07/09/14"	40.650345	-73.974601
-1403129	"06/23/2014"	"Basement"	"245 Clinton Ave"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Institutional, Educational, Gov., Other"		"10/07/14"	40.690509	-73.967773
-1403137	"06/23/2014"	"Street"	"4th Ave And 1st St"	"Other"	"Unknown"	"Soil"	"Deliberate"	"Unknown"		"06/23/14"	40.6752	-73.984782
-1403137	"06/23/2014"	"Street"	"4th Ave And 1st St"	"Blood"	"Unknown"	"Soil"	"Deliberate"	"Unknown"		"06/23/14"	40.6752	-73.984782
-1403144	"06/23/2014"	"Business"	"499 Ocean Pkway"	"#4 Fuel Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Commercial/Industrial"		"Not closed"	40.636352	-73.972264
-1403147	"06/23/2014"	"Heartland Brewery"	"510 Waverly Ave"	"Wastewater"	"Unknown"	"Soil"	"Deliberate"	"Commercial/Industrial"		"06/23/14"	40.682396	-73.965924
-1403162	"06/23/2014"	"Back Yard"	"183 Irwin Street"	"Other"	"Unknown"	"Soil, Groundwater"	"Deliberate"	"Private Dwelling"		"06/23/14"	40.57833	-73.943333
-1403179	"06/24/2014"	"Manhole 57217"	"28 Fountain Ave"	"Unknown Petroleum"	20	"Unknown"	"Unknown"	"Institutional, Educational, Gov., Other"		"11/24/14"	40.679379	-73.87666
-1403180	"06/24/2014"	"Ups"	"104 -01 Foster Ave"	"Diesel"	5	"Sewer"	"Equipment Failure"	"Commercial/Industrial"		"09/10/14"	40.650284	-73.902761
-1403191	"06/24/2014"	"Cumberland Farms"	"3602 Snyder Ave"	"Gasoline"	4	"Unknown"	"Equipment Failure"	"Gasoline Station Or Other Pbs Facility"		"09/05/14"	40.648998	-73.943253
-1403193	"06/24/2014"	"Side Walk"	"2 Fountain Ave"	"Diesel"	"Unknown"	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"06/24/14"	40.679588	-73.876559
-1403242	"06/25/2014"	"Mineral Oil Spill"	"241-247 Huron Street"	"Mineral Oil"	"Unknown"	"Soil, Groundwater"	"Housekeeping"	"Commercial/Industrial"		"08/26/14"	40.733584	-73.951202
-1403254	"06/25/2014"	"Gulf Gas Station"	"1988 Coney Island Avenue"	"Gasoline"	"Unknown"	"Soil"	"Equipment Failure"	"Gasoline Station Or Other Pbs Facility"		"Not closed"	40.608751	-73.962495
-1403275	"06/25/2014"	"Linfoun Service Station"	"2492 Linden Blvd"	"Gasoline"	"Unknown"	"Soil"	"Equipment Failure"	"Gasoline Station Or Other Pbs Facility"		"Not closed"	40.666576	-73.871672
-1403291	"06/25/2014"	"Chemical Explosion At Polytechnic University"	"6 Metrotech Center"	"Unknown Hazardous Material"	"Unknown"	"Unknown"	"Unknown"	"Institutional, Educational, Gov., Other"		"08/25/14"	40.678178	-73.944158
-1403334	"06/27/2014"	"On The Beach"	"West Of 33rd St And Bayview"	"Raw Sewage"	"Unknown"	"Unknown"	"Unknown"	"Institutional, Educational, Gov., Other"		"06/27/14"	40.581123	-74.000605
-1403377	"06/28/2014"	"Drum Run"	"533 Dahill Road"	"Cooking Oil"	"Unknown"	"Unknown"	"Abandoned Drums"	"Unknown"		"07/16/14"	40.634581	-73.978611
-1403412	"06/30/2014"	"Business"	"236 Butler St"	"#4 Fuel Oil"	" #2 Fuel Oil"	" #6 Fuel Oil"	"Equipment Failure"	"Commercial/Industrial"		"07/11/14"	40.681481	-73.985532
-1403414	"06/30/2014"	"Construction Site - Former Mgp"	"94 N 13th Street"	"Unknown Material"	"Unknown"	"Unknown"	"Unknown"	"Commercial/Industrial"		"06/30/14"	40.722409	-73.956926
-1403537	"07/02/2014"	"Basement"	"682 Argyle Rd"	"#2 Fuel Oil"	2	"Unknown"	"Equipment Failure"	"Private Dwelling"		"11/14/14"	40.632548	-73.964957
-1403553	"07/03/2014"	"Drum Run"	"9814 Ditimas"	"Waste Oil/Used Oil"	55	"Soil"	"Abandoned Drums"	"Unknown"		"07/16/14"	40.652063	-73.907589
-1403606	"07/03/2014"	"Owls Head"	"6700 Share Road"	"Raw Sewage"	"Unknown"	"Surface Water"	"Storm"	"Unknown"	"Ny Upper Bay"	"07/07/14"	40.641886	-74.034062
-1403636	"07/05/2014"	"Roadway"	"Intersection Of Linen Blvd And Junius"	"Hydraulic Oil"	20	"Unknown"	"Unknown"	"Unknown"		"07/07/14"	40.657322	-73.900272
-1403697	"07/07/2014"	"Drum Run"	"1234 62nd St"	"Waste Oil/Used Oil"	2	"Soil"	"Unknown"	"Private Dwelling"		"07/16/14"	40.628425	-74.001192
-1403769	"07/08/2014"	"Pole 67357"	"57 Commerce Street"	"Dielectric Fluid"	"Unknown"	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"08/12/14"	40.680141	-74.007669
-1403772	"07/08/2014"	"Soil"	"420 Columbia St"	"#2 Fuel Oil"	50	"Soil"	"Equipment Failure"	"Commercial/Industrial"		"07/18/14"	40.677168	-74.007093
-1403931	"07/11/2014"	"Freon Loss"	"2340 Ocean Pkwy"	"Freon"	"Unknown"	"Air, Indoor Air"	"Deliberate"	"Commercial/Industrial"		"07/11/14"	40.593291	-73.964933
-1403992	"07/14/2014"	"Plymouth Substation"	"Hudson Ave And John St"	"Unknown Petroleum"	0.01	"Unknown"	"Unknown"	"Unknown"		"08/15/14"	40.704234	-73.981022
-1404024	"07/14/2014"	"Ground"	"233 Nichols Ave"	"Other"	"Unknown"	"Unknown"	"Deliberate"	"Private Dwelling"		"07/14/14"	40.685119	-73.868488
-1404038	"07/15/2014"	"Sewage Treatment Plant"	"6700 Shore Rd"	"Raw Sewage"	50	"Unknown"	"Storm"	"Commercial Vehicle"	"New York Lower Harbor"	"07/15/14"	40.641886	-74.034062
-1404070	"07/15/2014"	"Excavation Near Sidewalk"	"59 Walton St"	"#2 Fuel Oil"	"Unknown"	"Soil, Groundwater"	"Equipment Failure"	"Commercial/Industrial"		"Not closed"	40.701568	-73.950511
-1404110	"07/16/2014"	"Basement Of K017"	"215 Heyward St"	"Hydraulic Oil"	"Unknown"	"Soil"	"Equipment Failure"	"Institutional, Educational, Gov., Other"		"12/17/14"	40.704121	-73.953339
-1404128	"07/16/2014"	"Basement Tank Room - Ttf"	"494 Dumont Ave"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Institutional, Educational, Gov., Other"		"Not closed"	40.66509	-73.900511
-1404169	"07/17/2014"	"Contaminated Soil Around Ust"	"73 South Oxford St"	"#2 Fuel Oil"	"Unknown"	"Soil"	"Equipment Failure"	"Private Dwelling"		"02/23/15"	40.68745	-73.973426
-1404171	"07/17/2014"	"Drum Run (abandoned Drums)"	"Corner Of Bay 19th Street And Cropsey Avenue"	"Unknown Petroleum"	35	"Unknown"	"Abandoned Drums"	"Unknown"		"08/11/14"	40.602291	-74.006781
-1404195	"07/17/2014"	"Costruction Site"	"113 Flat Bush Ave Ext"	"#2 Fuel Oil"	"Unknown"	"Soil"	"Equipment Failure"	"Commercial/Industrial"		"07/18/14"	40.695825	-73.984271
-1404285	"07/21/2014"	"Basement Of Residence"	"150 Grand Street"	"#2 Fuel Oil"	"Unknown"	"Soil"	"Unknown"	"Private Dwelling"		"09/15/14"	40.714599	-73.962213
-1404286	"07/21/2014"	"Pole Top 60549"	"Vanderbuilt Ave West Side Division Place"	"Dielectric Fluid"	0.13	"Unknown"	"Equipment Failure"	"Unknown"		"08/15/14"	40.720827	-73.938133
-1404293	"07/21/2014"	"Residential"	"100 Eldert Lane"	"#2 Fuel Oil"	3	"Indoor Air"	"Equipment Failure"	"Private Dwelling"		"08/12/14"	40.688837	-73.867691
-1404309	"07/21/2014"	"Sheepshead Bay"	"Emmons Ave (NEAR Ocean Ave)"	"Unknown Hazardous Material"	"Unknown"	"Surface Water"	"Housekeeping"	"Unknown"	"Sheepshead Bay"	"08/18/14"	40.583555	-73.948123
-1404318	"07/22/2014"	"Street And Sewer"	"Flatlands Ave And Remsen St"	"Antifreeze"	2	"Sewer"	"Equipment Failure"	"Commercial Vehicle"		"07/22/14"	40.658901	-73.926926
-1404404	"07/23/2014"	"Gowanus Creek"	"9th St"	"Unknown Petroleum"	"Unknown"	"Surface Water"	"Unknown"	"Unknown"	"Gowanus Creek"	"07/24/14"	40.669388	-73.986753
-1404420	"07/23/2014"	"Drum Run"	"309 Tompkins Ave"	"Waste Oil/Used Oil"	"Unknown"	"Soil"	"Abandoned Drums"	"Institutional, Educational, Gov., Other"		"08/11/14"	40.687304	-73.944718
-1404438	"07/24/2014"	"Active Construction Site In Oer Program"	"42 West St"	"#2 Fuel Oil"	"Unknown"	"Soil"	"Other"	"Commercial/Industrial"		"Not closed"	40.728043	-73.958836
-1404487	"07/25/2014"	"Front Stoop"	"551 1st St"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Other"	"Private Dwelling"		"08/11/14"	40.669817	-73.973653
-1404552	"07/28/2014"	"Ps 98 K"	"1401 Emmons Ave"	"#4 Fuel Oil"	"Unknown"	"Soil"	"Equipment Failure"	"Institutional, Educational, Gov., Other"		"Not closed"	40.583467	-73.953973
-1404588	"07/29/2014"	"Farragut Sub Station"	"89 John St"	"Dielectric Fluid"	0.25	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"10/02/14"	40.704375	-73.984956
-1404640	"07/30/2014"	"Power Plant Air Emission"	"3rd Ave And 24th St"	"Nitrogen Dioxide"	1	"Air"	"Equipment Failure"	"Commercial/Industrial"		"07/30/14"	40.662345	-73.999629
-1404698	"07/31/2014"	"Residents"	"227 45 Street"	"#2 Fuel Oil"	"Unknown"	"Soil"	"Equipment Failure"	"Private Dwelling"		"08/08/14"	40.651672	-74.013213
-1404708	"08/01/2014"	"Manhole 3613"	"1321 Rogers Ave"	"Unknown Petroleum"	6	"Unknown"	"Unknown"	"Unknown"		"08/18/14"	40.637602	-73.950744
-1404726	"08/01/2014"	"Vault 7469"	"53 East Of 16 Ave"	"Transformer Oil"	5	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"10/02/14"	40.64916	-73.964681
-1404735	"08/01/2014"	"Abandoned Building"	"280 Franklin St"	"Other"	"Unknown"	"Unknown"	"Vandalism"	"Commercial/Industrial"		"Not closed"	40.735899	-73.958263
-1404754	"08/01/2014"	"Owls Head Waste Water Treatment"	"6700 Shore Road"	"Sludge"	"Unknown"	"Surface Water, Sewer"	"Unknown"	"Institutional, Educational, Gov., Other"	"Upper New York Bay"	"08/04/14"	40.641886	-74.034062
-1404872	"08/05/2014"	"Newtown Creek"	"Paidge Ave/"	"Unknown Material"	"Unknown"	"Surface Water"	"Unknown"	"Institutional, Educational, Gov., Other"	"Newtown Creek"	"08/05/14"	40.73701	-73.951194
-1404879	"08/05/2014"	"Verizon Truck"	"Row Near 321 Richardson St"	"Hydrostatic + Oil"	30	"Unknown"	"Equipment Failure"	"Commercial Vehicle"		"08/07/14"	40.720039	-73.93834
-1404884	"08/05/2014"	"On Water"	"Newtown Creek"	"Unknown Petroleum"	"Unknown"	"Surface Water"	"Unknown"	"Institutional, Educational, Gov., Other"	"Newtown Creek"	"08/15/14"	40.724245	-73.940656
-1404948	"08/06/2014"	"Owlshead Waste Water Treatment"	"6700 Shore Rd Pkwy"	"Raw Sewage"	50	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"08/07/14"	40.626447	-74.039701
-1404990	"08/07/2014"	"Hospital"	"506 6th Street/ 7th Ave"	"Hydraulic Oil"	5	"Unknown"	"Equipment Failure"	"Commercial Vehicle"		"08/08/14"	40.63104	-74.016047
-1404997	"08/07/2014"	"Mta Sidewalk Vent"	"12 Union Ave"	"Unknown Non-Petro/Non-Haz Material"	"Unknown"	"Unknown"	"Unknown"	"Unknown"		"08/11/14"	40.700623	-73.950253
-1405008	"08/08/2014"	"Outside"	"225 Third Street"	"Unknown Petroleum"	"Unknown"	"Soil, Groundwater"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.67614	-73.98925
-1405025	"08/08/2014"	"Drum Run"	"Macdonald Ave And Ave I"	"Waste Oil/Used Oil"	55	"Unknown"	"Abandoned Drums"	"Commercial/Industrial"		"09/12/14"	40.626001	-73.976102
-1405038	"08/08/2014"	"Construction Site"	"317-335 Saratoga Ave"	"Unknown Petroleum"	"Unknown"	"Soil"	"Other"	"Commercial/Industrial"		"10/14/14"	40.674864	-73.916617
-1405056	"08/09/2014"	"Road Way"	"2900 Flatbush Ave"	"Hydraulic Oil"	1	"Unknown"	"Traffic Accident"	"Commercial Vehicle"		"11/24/14"	40.59934	-73.91159
-1405069	"08/10/2014"	"Man Hole 65528 And Vault 3992"	"South Side Of Hawthorne Street West Of Bedford Ave"	"Unknown Hazardous Material"	10	"Unknown"	"Unknown"	"Commercial/Industrial"		"10/03/14"	40.699994	-73.957234
-1405149	"08/12/2014"	"St Matthew Church - Ttf"	"450 67th St"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Commercial/Industrial"		"10/14/14"	40.635909	-74.02126
-1405181	"08/13/2014"	"Owl's Head Waste Water Treatment Plant"	"6700 Shore Rd"	"Raw Sewage"	"Unknown"	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"08/15/14"	40.641886	-74.034062
-1405218	"08/13/2014"	"Transformer Pole 37481"	"757 E86th St"	"Dielectric Fluid"	0.25	"Soil"	"Equipment Failure"	"Unknown"		"Not closed"	40.638831	-73.90912
-1405259	"08/14/2014"	"38th St Yard"	"3801 9th Ave"	"Diesel"	3	"Soil"	"Equipment Failure"	"Commercial/Industrial"		"08/20/14"	40.646329	-73.994677
-1405263	"08/14/2014"	"Roadway"	"Mcguiness Blvd And Green Point Ave"	"#4 Fuel Oil"	15	"Unknown"	"Equipment Failure"	"Commercial Vehicle"		"09/03/14"	40.730432	-73.951581
-1405267	"08/14/2014"	"Mta Manhole"	"North 7th St And Kent Ave"	"Dielectric Fluid"	0.5	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"10/03/14"	40.720302	-73.961698
-1405277	"08/14/2014"	"Tank Test Fail"	"2913 Foster Ave"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Commercial/Industrial"		"Not closed"	40.638838	-73.948632
-1405398	"08/18/2014"	"Mta Lot Adjacent To Railway"	"807 East 92nd Street"	"Unknown Petroleum"	"Unknown"	"Soil"	"Unknown"	"Non Major Facility > 1,100 Gal"		"Not closed"	40.6483	-73.91239
-1405465	"08/20/2014"	"Residence"	"413 Miller Ave"	"Sulfuric Acid"	18	"Unknown"	"Unknown"	"Private Dwelling"		"08/20/14"	40.670733	-73.89054
-1405479	"08/20/2014"	"63109 Manhole"	"East 4th And Kings Hwy"	"Dielectric Fluid"	0.75	"Soil"	"Equipment Failure"	"Commercial/Industrial"		"10/06/14"	40.60455	-73.969117
-1405517	"08/20/2014"	"Mta Bus"	"Lee Ave And Wilson Ave"	"Transmission Fluid"	10	"Soil"	"Equipment Failure"	"Commercial Vehicle"		"08/21/14"	40.706468	-73.960771
-1405540	"08/20/2014"	"Street/Roadway"	"Lee Ave And Wilson Street"	"Transformer Oil"	15	"Unknown"	"Equipment Failure"	"Commercial Vehicle"		"08/21/14"	40.706468	-73.960771
-1405564	"08/22/2014"	"In Front Of"	"431 Kent Ave"	"Unknown Petroleum"	"Unknown"	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"08/26/14"	40.708608	-73.967831
-1405582	"08/22/2014"	"Man Hole 1589"	"Northeast Adams St / Johnson St"	"Unknown Petroleum"	30	"Unknown"	"Unknown"	"Unknown"		"10/06/14"	40.694772	-73.989104
-1405635	"08/24/2014"	"Roadway"	"Quinen Rd And West 7th Street"	"Gasoline"	3	"Unknown"	"Unknown"	"Passenger Vehicle"		"08/25/14"	40.605828	-73.980302
-1405655	"08/25/2014"	"Curb Side - Drum Run"	"5013 Ave I"	"Waste Oil/Used Oil"	20	"Unknown"	"Abandoned Drums"	"Unknown"		"09/12/14"	40.63078	-73.927551
-1405708	"08/26/2014"	"260-262 Van Brunt Llc"	"260 Van Brunt St"	"Unknown Petroleum"	"Unknown"	"Soil"	"Unknown"	"Commercial/Industrial"		"12/02/14"	40.680554	-74.009571
-1405770	"08/27/2014"	"Road Way/ Drain"	"Kings High Way And East 93 Street"	"Diesel"	3	"Sewer"	"Equipment Failure"	"Commercial Vehicle"		"08/27/14"	40.699251	-73.987436
-1405805	"08/28/2014"	"Brooklyn Bridge Park Peer 2"	"150 Furman Street"	"Storm Water"	"Unknown"	"Surface Water"	"Unknown"	"Unknown"	"Hudson River"	"08/29/14"	40.701358	-73.995667
-1405818	"08/29/2014"	"Man Hole 55952"	"238 Starr St"	"Wastewater"	2	"Unknown"	"Unknown"	"Commercial/Industrial"		"11/25/14"	40.705657	-73.922182
-1405818	"08/29/2014"	"Man Hole 55952"	"238 Starr St"	"Unknown Petroleum"	6	"Unknown"	"Unknown"	"Commercial/Industrial"		"11/25/14"	40.705657	-73.922182
-1405830	"08/29/2014"	"Kingsborough"	"2001 Oriental Blvd"	"Hydraulic Oil"	15	"Sewer"	"Equipment Failure"	"Commercial Vehicle"		"08/29/14"	40.578349	-73.934465
-1405859	"09/01/2014"	"Valentino Pier"	"Coffey St And Ferris St"	"Unknown Petroleum"	"Unknown"	"Surface Water"	"Unknown"	"Unknown"		"09/02/14"	40.678114	-74.016893
-1405877	"09/02/2014"	"Fuel Oil Spill At Chai Tots Daycare Center"	"70 Prospect Park West"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"02/27/15"	40.668539	-73.973802
-1405878	"09/02/2014"	"Soil"	"1785 Prospect Pl"	"#2 Fuel Oil"	"Unknown"	"Soil"	"Other"	"Commercial/Industrial"		"Not closed"	40.672827	-73.918095
-1405932	"09/03/2014"	"Con Ed Manhole 607702"	"25th Ave / Harway Ave"	"Dielectric Fluid"	2	"Soil"	"Unknown"	"Unknown"		"11/25/14"	40.590554	-73.988909
-1405934	"09/03/2014"	"Con Ed- 2nd Loss At Same Location"	"Manhole Tm 2408 25th Ave / Harway Ave"	"Unknown Petroleum"	10	"Soil"	"Unknown"	"Unknown"		"11/25/14"	40.590554	-73.988909
-1405977	"09/04/2014"	"Vault Vs 3228"	"Cortielia Rd And Ocean Ave"	"Transformer Oil"	0.5	"Soil"	"Equipment Failure"	"Commercial/Industrial"		"11/25/14"	40.648653	-73.960729
-1406025	"09/04/2014"	"Border Of Sidewalk"	"390 10th Ave"	"#2 Fuel Oil"	"Unknown"	"Soil"	"Unknown"	"Unknown"		"09/25/14"	40.699534	-73.969693
-1406027	"09/04/2014"	"Feeder Cable - Manhole 73533"	"Plymouth St West Of Bridge St"	"Dielectric Fluid"	10	"Soil"	"Equipment Failure"	"Unknown"		"12/05/14"	40.69762	-73.984969
-1406053	"09/05/2014"	"H Lot"	"Clymer Street/ Kent Ave"	"Diesel"	140	"Soil"	"Other"	"Commercial Vehicle"		"Not closed"	40.704079	-73.967224
-1406153	"09/09/2014"	"Service Box"	"14-12 41st Street"	"Unknown Hazardous Material"	"Unknown"	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"Not closed"	40.596803	-73.986017
-1406164	"09/09/2014"	"Between 13th And 14th St (by Harbor Freight)"	"Hamilton Pl"	"Waste Oil/Used Oil"	"Unknown"	"Soil"	"Equipment Failure"	"Commercial/Industrial"		"09/12/14"	40.670902	-73.996863
-1406201	"09/10/2014"	"Soil And Groundwater"	"98 Third Ave"	"Unknown Petroleum"	"Unknown"	"Soil, Groundwater"	"Equipment Failure"	"Gasoline Station Or Other Pbs Facility"		"Not closed"	40.683276	-73.982294
-1406202	"09/10/2014"	"Soil"	"613 Bushwick Ave"	"Unknown Petroleum"	"Unknown"	"Soil"	"Equipment Failure"	"Gasoline Station Or Other Pbs Facility"		"Not closed"	40.698569	-73.934215
-1406210	"09/10/2014"	"Manhole On Both Sides"	"Kent Ave Bet North 11th And 12th St"	"Unknown Material"	"Unknown"	"Unknown"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.667374	-73.98781
-1406241	"09/11/2014"	"Man Hole /farragut Sub"	"89 John St"	"Unknown Petroleum"	6	"Unknown"	"Unknown"	"Commercial/Industrial"		"12/05/14"	40.704375	-73.984956
-1406288	"09/12/2014"	"Private Residence"	"57 Glen St"	"#2 Fuel Oil"	"Unknown"	"Soil"	"Equipment Failure"	"Private Dwelling"		"09/16/14"	40.680793	-73.873184
-1406325	"09/13/2014"	"Man Hole #3506"	"Bedford Ave/ Glenwood Road"	"Unknown Petroleum"	0.25	"Soil"	"Unknown"	"Unknown"		"12/05/14"	40.633083	-73.953003
-1406345	"09/14/2014"	"Vault 4081"	"602 Surf Ave"	"Dielectric Fluid"	0.01	"Unknown"	"Equipment Failure"	"Transformer"		"Not closed"	40.57427	-73.975917
-1406369	"09/15/2014"	"Vacant Factory"	"11 Spencer St"	"Perchlorine, Toluene"	"Unknown"	"Soil, Groundwater"	"Other"	"Commercial/Industrial"		"Not closed"	40.698676	-73.955885
-1406399	"09/09/2014"	"Report Of Illegal Dumping And Spill"	"57 Hazel Court"	"Unknown Petroleum"	"Unknown"	"Unknown"	"Unknown"	"Non Major Facility > 1,100 Gal"		"09/16/14"	40.592389	-73.930112
-1406415	"09/16/2014"	"Tank Test Failure At Commercial Building"	"46 Crown St"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Commercial/Industrial"		"01/29/15"	40.667148	-73.959831
-1406429	"09/16/2014"	"Construction Site"	"224 Richardson St"	"#2 Fuel Oil"	"Unknown"	"Soil"	"Human Error"	"Commercial/Industrial"		"Not closed"	40.718854	-73.942171
-1406432	"09/16/2014"	"Ttf"	"300 10th St"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Commercial/Industrial"		"11/13/14"	40.669435	-73.989077
-1406534	"09/19/2014"	"Former Gas Station"	"469 Troy Ave"	"Waste Oil/Used Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Commercial/Industrial"		"Not closed"	40.66265	-73.937144
-1406577	"09/20/2014"	"Drum Run"	"653 Euclid Ave"	"Unknown Hazardous Material"	"Unknown"	"Unknown"	"Abandoned Drums"	"Unknown"		"10/02/14"	40.670946	-73.870504
-1406594	"09/22/2014"	"City Owned Tree Ifo 335 E52nd St"	"335 E52nd St (LINDEN & Church Ave)"	"Unknown Material"	"Unknown"	"Soil"	"Deliberate"	"Unknown"		"09/24/14"	40.65082	-73.946867
-1406652	"09/23/2014"	"Kings Plaza Loading Dock C"	"5100 Kings Plaza"	"Diesel"	100	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"09/29/14"	40.610344	-73.920917
-1406666	"09/23/2014"	"Drum Run"	"2352 West 8th Street"	"Unknown Petroleum"	"Unknown"	"Unknown"	"Abandoned Drums"	"Unknown"		"10/02/14"	40.590375	-73.978629
-1406682	"09/24/2014"	"Plymouth St Sub Station"	"36 Gold St"	"Dielectric Fluid"	1	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"Not closed"	40.704052	-73.982616
-1406689	"09/24/2014"	"Farragut Sub Station"	"89 John St"	"Dielectric Fluid"	1	"Soil"	"Equipment Failure"	"Commercial/Industrial"		"Not closed"	40.704375	-73.984956
-1406692	"09/24/2014"	"Drum Run"	"Clarkson Ave And Albany Ave"	"Unknown Petroleum"	"Unknown"	"Unknown"	"Abandoned Drums"	"Unknown"		"10/02/14"	40.656053	-73.939555
-1406793	"09/28/2014"	"Roadway"	"Crosby Ave/Bay 49th St"	"Antifreeze"	1	"Sewer"	"Equipment Failure"	"Commercial Vehicle"		"10/02/14"	40.588324	-73.985215
-1406805	"09/29/2014"	"Roadway"	"Linden Blvd/Van Sicklen Ave"	"Diesel"	53	"Unknown"	"Traffic Accident"	"Commercial Vehicle"		"09/29/14"	40.596789	-73.975039
-1406811	"09/29/2014"	"Outside/ Gowanus Canal"	"Third St /"	"Unknown Petroleum"	"Unknown"	"Unknown"	"Unknown"	"Unknown"	"Gowanus Canal"	"09/29/14"	40.676125	-73.991435
-1406924	"10/01/2014"	"Supreme Court House"	"360 Adams St"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Institutional, Educational, Gov., Other"		"Not closed"	40.693901	-73.989279
-1406927	"10/01/2014"	"Junior High # 243 - Ttf"	"1401 Emmon Ave"	"#2 Fuel Oil,  #4 Fuel Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Commercial/Industrial"		"Not closed"	40.583467	-73.953973
-1406981	"10/02/2014"	"Concrete"	"315 Ave W"	"Hydraulic Oil"	5	"Unknown"	"Equipment Failure"	"Commercial Vehicle"		"12/09/14"	40.592826	-73.971306
-1406988	"10/03/2014"	"Drum Run"	"617 Central Ave"	"Gasoline"	32	"Unknown"	"Abandoned Drums"	"Commercial/Industrial"		"10/06/14"	40.688674	-73.908174
-1406997	"10/03/2014"	"Brooklyn Army Terminal- Parking Lot"	"63rd Street And 1st Ave"	"#6 Fuel Oil"	"Unknown"	"Unknown"	"Unknown"	"Commercial/Industrial"		"02/03/15"	40.642456	-74.025607
-1407041	"10/06/2014"	"To Roadway"	"Coney Island Ave And Quinton Ave"	"Other"	1	"Soil, Sewer"	"Equipment Failure"	"Commercial Vehicle"		"10/06/14"	40.607838	-73.961915
-1407044	"10/06/2014"	"Greenwood Substation"	"258 23rd St"	"Unknown Petroleum"	10	"Unknown"	"Unknown"	"Commercial/Industrial"		"12/10/14"	40.659739	-73.993806
-1407055	"10/06/2014"	"Sanitation Garage"	"105-02 Aveune B"	"Motor Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Commercial/Industrial"		"Not closed"	40.647383	-73.919893
-1407068	"10/06/2014"	"Former Gas Station"	"599 New York Ave"	"Gasoline"	"Unknown"	"Unknown"	"Other"	"Gasoline Station Or Other Pbs Facility"		"Not closed"	40.659791	-73.947386
-1407076	"10/06/2014"	"Residents"	"441 Prospect Place"	"#2 Fuel Oil"	7	"Unknown"	"Equipment Failure"	"Private Dwelling"		"10/07/14"	40.676395	-73.961547
-1407145	"10/08/2014"	"Vacant Lot (commercial)"	"510 Driggs Ave"	"Unknown Petroleum"	"Unknown"	"Soil, Groundwater"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.717984	-73.955877
-1407177	"10/09/2014"	"Subway"	"St. Johns Pl/Flat Bush Ave"	"Diesel"	1	"Sewer"	"Equipment Failure"	"Commercial Vehicle"		"10/10/14"	40.671482	-73.947563
-1407252	"10/11/2014"	"Bypass"	"6700 Shaw Road Parkway"	"Raw Sewage"	"Unknown"	"Unknown"	"Other"	"Unknown"		"10/14/14"	40.626447	-74.039701
-1407271	"10/13/2014"	"Newtown Creek"	"Appolow And Bridge Water St"	"Unknown Petroleum"	"Unknown"	"Surface Water"	"Unknown"	"Unknown"	"Newtown Creek"	"10/14/14"	40.728093	-73.93821
-1407344	"10/15/2014"	"Ps3"	"50 Jefferson Ave"	"#6 Fuel Oil"	"Unknown"	"Soil"	"Unknown"	"Institutional, Educational, Gov., Other"		"12/17/14"	40.682293	-73.955204
-1407383	"10/16/2014"	"Gas Station/ 278 Fuel Stop"	"392 Leonard St"	"Diesel"	2	"Unknown"	"Unknown"	"Gasoline Station Or Other Pbs Facility"		"11/03/14"	40.718398	-73.948074
-1407478	"10/20/2014"	"Residence"	"577 Warren Street"	"Gasoline"	"Unknown"	"Soil"	"Deliberate"	"Private Dwelling"		"11/20/14"	40.681738	-73.981209
-1407504	"10/20/2014"	"Building"	"111 58th Street"	"Gasoline"	"Unknown"	"Soil, Groundwater"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.645884	-74.023197
-1407592	"10/23/2014"	"Apt Building Silver Shores"	"141 Meserole Ave"	"#2 Fuel Oil"	"Unknown"	"Soil, Air"	"Unknown"	"Commercial/Industrial"		"11/25/14"	40.727755	-73.951393
-1407672	"10/24/2014"	"72 Police Station"	"830 4th Ave"	"Transmission Fluid"	2	"Groundwater"	"Unknown"	"Commercial Vehicle"		"Not closed"	40.658261	-74.000973
-1407682	"10/25/2014"	"Manhole 64664"	"Burgen St/ Underhill Ave"	"Unknown Petroleum"	"Unknown"	"Soil"	"Unknown"	"Unknown"		"Not closed"	40.677066	-73.965984
-1407696	"10/25/2014"	"Private Residence"	"23 Himrod Street"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Equipment Failure"	"Private Dwelling"		"11/28/14"	40.694628	-73.925586
-1407699	"10/26/2014"	"Manhole 65438"	"3rd Ave 23st"	"Unknown Petroleum"	6	"Unknown"	"Unknown"	"Commercial/Industrial"		"01/23/15"	40.678178	-73.944158
-1407699	"10/26/2014"	"Manhole 65438"	"3rd Ave 23st"	"Other"	300	"Unknown"	"Unknown"	"Commercial/Industrial"		"01/23/15"	40.678178	-73.944158
-1407700	"10/26/2014"	"Man Hole #65436"	"3rd Ave 8th Street"	"Unknown Petroleum"	6	"Unknown"	"Unknown"	"Unknown"		"12/10/14"	40.699381	-73.97422
-1407752	"10/28/2014"	"Corner Of Arlington And Hemlock"	"469 Arlington"	"Waste Oil/Used Oil"	"Unknown"	"Soil"	"Deliberate"	"Private Dwelling"		"11/05/14"	40.681606	-73.879481
-1407757	"10/28/2014"	"Residence"	"2954 Nostrand Ave"	"#2 Fuel Oil"	"Unknown"	"Soil"	"Equipment Failure"	"Private Dwelling"		"03/23/15"	40.612441	-73.944508
-1407765	"10/28/2014"	"Drum Run - 5 Abandoned 5 Gal Pails"	"Union Street"	"Waste Oil/Used Oil"	25	"Soil"	"Abandoned Drums"	"Institutional, Educational, Gov., Other"		"11/14/14"	40.679532	-73.988491
-1407782	"10/28/2014"	"Tank Test Failure"	"2626 Homecrest Ave"	"#6 Fuel Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Private Dwelling"		"Not closed"	40.586929	-73.956979
-1407796	"10/28/2014"	"Roadway And Sewer"	"Boerum Pl And Schermerhorn St"	"Transmission Fluid"	3	"Sewer"	"Equipment Failure"	"Commercial Vehicle"		"10/31/14"	40.690333	-73.989645
-1407819	"10/29/2014"	"Sidewalk"	"2600 Atlantic Ave"	"Hydraulic Oil"	"Unknown"	"Soil"	"Equipment Failure"	"Commercial/Industrial"		"12/17/14"	40.675448	-73.898171
-1407861	"10/30/2014"	"Manhole 57784"	"16th Ave & 78th St"	"Transformer Oil"	0.01	"Soil"	"Equipment Failure"	"Commercial/Industrial"		"01/23/15"	40.614594	-74.002614
-1407866	"10/30/2014"	"57767 Manhole"	"16th Ave And 76th St"	"Dielectric Fluid"	0.5	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"12/10/14"	40.615714	-74.001453
-1407866	"10/30/2014"	"57767 Manhole"	"16th Ave And 76th St"	"Other"	50	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"12/10/14"	40.615714	-74.001453
-1407922	"10/31/2014"	"Floyd Bennett Field"	"Flatbush Ave/ Aviation Road"	"Unknown Petroleum"	"Unknown"	"Soil, Groundwater"	"Unknown"	"Unknown"		"11/03/14"	40.582825	-73.885511
-1407950	"11/02/2014"	"Man Hole 65474"	"Flat Land Ave And Schenck Ave"	"Dielectric Fluid"	1	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"01/23/15"	40.667388	-73.887084
-1407965	"11/03/2014"	"Floyd Bennett Field Beach"	"Aviation Rd"	"Unknown Petroleum"	"Unknown"	"Soil, Groundwater, Surface Water"	"Unknown"	"Unknown"	"Jamaica Bay"	"11/03/14"	40.582825	-73.885511
-1407968	"11/03/2014"	"Estella Lopez"	"1526 Neptune Ave"	"Unknown Petroleum"	"Unknown"	"Soil "	"Unknown"	"Private Dwelling"		"11/03/14"	40.578876	-73.983953
-1408006	"11/03/2014"	"Marty's Pharmacy"	"9422 Ave L"	"#2 Fuel Oil"	"Unknown"	"Soil"	"Equipment Failure"	"Commercial/Industrial"		"03/17/15"	40.637553	-73.896998
-1408024	"11/04/2014"	"Manhole 5743"	"Prospect Park W And 4 St"	"Dielectric Fluid"	"Unknown"	"Soil"	"Equipment Failure"	"Commercial/Industrial"		"01/23/15"	40.667637	-73.974367
-1408100	"11/05/2014"	"Ems Station #35"	"332 Metropolitan Ave"	"Diesel"	12	"Unknown"	"Human Error"	"Institutional, Educational, Gov., Other"		"11/06/14"	40.714179	-73.956992
-1408128	"11/06/2014"	"Outside"	"16 Bridgewater St"	"Diesel"	10	"Unknown"	"Equipment Failure"	"Commercial Vehicle"		"11/24/14"	40.727215	-73.934756
-1408157	"11/07/2014"	"Pole 5356"	"439 Lincoln Ave"	"Dielectric Fluid"	0.06	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"01/23/15"	40.679322	-73.86795
-1408164	"11/07/2014"	"Residence"	"320 Linden Blvd"	"#2 Fuel Oil"	"Unknown"	"Soil"	"Equipment Failure"	"Private Dwelling"		"11/20/14"	40.652441	-73.947475
-1408186	"11/07/2014"	"Sub Station"	"89 John Street"	"Dielectric Fluid"	800	"Surface Water"	"Unknown"	"Unknown"	"Hudson River"	"11/10/14"	40.704375	-73.984956
-1408201	"11/09/2014"	"Eastbound"	"Bqe Eastbound Exit 20a"	"Diesel"	50	"Unknown"	"Traffic Accident"	"Commercial Vehicle"		"11/10/14"	40.678178	-73.944158
-1408202	"11/09/2014"	"Upper And Lower"	"Atlanta Avenue"	"Diesel"	90	"Unknown"	"Traffic Accident"	"Commercial Vehicle"		"11/10/14"	40.687476	-73.986844
-1408268	"11/11/2014"	"Tank Room"	"646 Wyona St"	"#2 Fuel Oil"	"Unknown"	"Soil"	"Equipment Failure"	"Private Dwelling"		"Not closed"	40.662449	-73.890635
-1408406	"11/14/2014"	"Basement Of Fire House"	"2312 65th St"	"Diesel"	12	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"11/17/14"	40.612148	-73.979138
-1408417	"11/15/2014"	"Drum Run"	"Central Ave And Pilling St"	"Waste Oil/Used Oil, Transmission Fluid"	"Unknown"	"Unknown"	"Unknown"	"Institutional, Educational, Gov., Other"		"12/16/14"	40.686595	-73.90498
-1408430	"11/16/2014"	"F Line Train Station"	"4th Ave/9 St"	"Gasoline, Lacquer Thinner, Paint"	"Unknown"	"Sewer"	"Other"	"Commercial/Industrial"		"11/17/14"	40.684173	-73.978379
-1408436	"11/16/2014"	"Paint Storage Room"	"4th Ave And 10th Street"	"Paint"	"Unknown"	"Unknown"	"Other"	"Commercial/Industrial"		"11/17/14"	40.669784	-73.98929
-1408437	"11/16/2014"	"Drum Run"	"82 Furman Ave"	"Waste Oil/Used Oil"	"Unknown"	"Unknown"	"Unknown"	"Institutional, Educational, Gov., Other"		"12/15/14"	40.683209	-73.905952
-1408442	"11/16/2014"	"Residents"	"1263 East 89th Street"	"#2 Fuel Oil"	5	"Unknown"	"Equipment Failure"	"Private Dwelling"		"03/06/15"	40.633761	-73.899721
-1408460	"11/17/2014"	"Ps 32 Brooklyn"	"317 Hoyt Street"	"#4 Fuel Oil"	100	"Soil"	"Equipment Failure"	"Institutional, Educational, Gov., Other"		"Not closed"	40.680431	-73.991704
-1408472	"11/17/2014"	"Ground"	"1815 Ocean Ave"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.617602	-73.954382
-1408543	"11/19/2014"	"Drill Pier 9 Red Hook"	"70 Hamilton Street"	"Other"	"Unknown"	"Unknown"	"Other"	"Unknown"		"11/19/14"	40.68451	-74.010962
-1408555	"11/19/2014"	"Soil Contamination"	"110 Jamaica Avenue"	"Gasoline"	"Unknown"	"Soil"	"Other"	"Commercial/Industrial"		"Not closed"	40.678467	-73.896133
-1408582	"11/20/2014"	"Nyc Transit"	"40 Sand St"	"Diesel"	100	"Soil"	"Equipment Failure"	"Commercial Vehicle"		"11/24/14"	40.699832	-73.989294
-1408617	"11/21/2014"	"Commercial Warehouse"	"834 Lexington Ave"	"Unknown Petroleum"	"Unknown"	"Soil, Groundwater"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.690363	-73.9254
-1408628	"11/21/2014"	"Construction Site"	"Pacific Street/ Vanderbuilt"	"Gasoline"	"Unknown"	"Soil"	"Unknown"	"Gasoline Station Or Other Pbs Facility"		"Not closed"	40.68124	-73.967461
-1408629	"11/21/2014"	"Construction Site"	"Cherry Street Between Gardner And Scott"	"Lube Oil"	3	"Soil"	"Equipment Failure"	"Commercial Vehicle"		"11/28/14"	40.678178	-73.944158
-1408636	"11/22/2014"	"Parking Lot"	"800 East 17th Street"	"#2 Fuel Oil"	15	"Soil, Groundwater"	"Equipment Failure"	"Commercial Vehicle"		"Not closed"	40.631184	-73.960914
-1408652	"11/23/2014"	"Man Hole #66936"	"719 Ave I"	"Dielectric Fluid"	"Unknown"	"Unknown"	"Deliberate"	"Unknown"		"01/23/15"	40.627016	-73.968917
-1408673	"11/24/2014"	"Former Junkyard"	"1086-1100 Rockaway Ave"	"Unknown Petroleum"	"Unknown"	"Soil, Groundwater"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.652458	-73.906483
-1408710	"11/25/2014"	"Soil"	"1111 Bedford Ave"	"Unknown Petroleum"	"Unknown"	"Soil"	"Unknown"	"Gasoline Station Or Other Pbs Facility"		"12/05/14"	40.685636	-73.954197
-1408721	"11/25/2014"	"Brooklyn Army Terminal"	"158 58th St"	"Unknown Material"	"Unknown"	"Soil"	"Unknown"	"Unknown"	"Hudson River"	"11/26/14"	40.645114	-74.022536
-1408732	"11/25/2014"	"Brooklyn Army Terminal"	"140 58th St"	"Diesel"	20	"Unknown"	"Equipment Failure"	"Commercial Vehicle"		"Not closed"	40.644865	-74.023959
-1408738	"11/25/2014"	"Abandoned Drums"	"Vansinderen Ave & Riverdale Ave"	"Unknown Petroleum"	150	"Unknown"	"Abandoned Drums"	"Commercial/Industrial"		"12/15/14"	40.662261	-73.900061
-1408751	"11/25/2014"	"Soil"	"418 Kent Ave"	"Diesel"	"Unknown"	"Soil, Groundwater"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.709792	-73.968838
-1408768	"11/26/2014"	"Abacus Federal Saving"	"5518 8th Ave"	"#2 Fuel Oil"	"Unknown"	"Soil, Sewer"	"Equipment Failure"	"Commercial/Industrial"		"Not closed"	40.638065	-74.007231
-1408896	"12/02/2014"	"Sb32349"	"Ralph Ave And Chauncey St"	"Unknown Petroleum"	0.25	"Unknown"	"Unknown"	"Commercial/Industrial"		"01/23/15"	40.681211	-73.922406
-1408932	"12/03/2014"	"Drum On Sidewalk - Drum Run"	"Mcdonald Ave At Ryder Ave"	"Unknown Petroleum"	"Unknown"	"Soil"	"Abandoned Drums"	"Unknown"		"12/15/14"	40.612565	-73.973729
-1408936	"12/03/2014"	"Dead End - Drum Run"	"Furman Ave & Bushwick Ave"	"Waste Oil/Used Oil"	"Unknown"	"Unknown"	"Abandoned Drums"	"Unknown"		"12/15/14"	40.682802	-73.906376
-1408996	"12/05/2014"	"Newtown Creek"	"Mcguinness Blvd/Under Bridge"	"Unknown Petroleum"	"Unknown"	"Surface Water"	"Unknown"	"Unknown"	"Newtown Creek"	"12/05/14"	40.678178	-73.944158
-1408998	"12/05/2014"	"Roadway"	"37 St Off Fort Hamilton Parkway"	"Diesel"	2	"Unknown"	"Equipment Failure"	"Commercial Vehicle"		"12/05/14"	40.613126	-74.030863
-1409010	"12/05/2014"	"Apart"	"949 Bedford Ave"	"Unknown Petroleum"	"Unknown"	"Unknown"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.691602	-73.955218
-1409052	"12/07/2014"	"Construction Site, Exposed Soil"	"6002 Fort Hamilton Parkway"	"Unknown Petroleum"	"Unknown"	"Soil"	"Other"	"Institutional, Educational, Gov., Other"		"01/09/15"	40.63301	-74.006219
-1409060	"12/08/2014"	"Mta/Bus Depot"	"38th St And 5th Ave"	"Gasoline"	"Unknown"	"Soil, Groundwater"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.65183	-74.003327
-1409067	"12/08/2014"	"Owls Head Wastewater Treatment"	"6700 Shore Rd"	"#2 Fuel Oil"	100	"Unknown"	"Equipment Failure"	"Institutional, Educational, Gov., Other"		"12/08/14"	40.641886	-74.034062
-1409147	"12/09/2014"	"Commercial Property"	"1080 Wyckoff"	"Unknown Petroleum"	200	"Soil"	"Unknown"	"Unknown"		"02/03/15"	40.694385	-73.902538
-1409164	"12/10/2014"	"Drum Run"	"724 Central Ave"	"Waste Oil/Used Oil"	500	"Unknown"	"Other"	"Commercial/Industrial"		"03/02/15"	40.68658	-73.904985
-1409173	"12/10/2014"	"Vaulted Tank"	"583 Knickerbocker Ave"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Equipment Failure"	"Private Dwelling"		"03/17/15"	40.6967	-73.91416
-1409181	"12/10/2014"	"Unknown Residence"	"1316 Ave N"	"#2 Fuel Oil"	2	"Soil"	"Tank Test Failure"	"Private Dwelling"		"Not closed"	40.615245	-73.960802
-1409219	"12/11/2014"	"To Street"	"67 Stanhope St"	"#2 Fuel Oil"	10	"Soil"	"Equipment Failure"	"Commercial/Industrial"		"12/29/14"	40.696371	-73.925011
-1409226	"12/11/2014"	"Unknown School"	"1010 Ave I"	"#4 Fuel Oil"	"Unknown"	"Soil"	"Tank Test Failure"	"Private Dwelling"		"Not closed"	40.62694	-73.966354
-1409282	"12/12/2014"	"Residents"	"167 Dekalb Ave"	"#2 Fuel Oil"	5	"Unknown"	"Equipment Failure"	"Private Dwelling"		"12/15/14"	40.689633	-73.973081
-1409399	"12/15/2014"	"5923 17 Ave"	"Unknown"	"Unknown Material"	"Unknown"	"Air"	"Unknown"	"Private Dwelling"		"Not closed"	40.623648	-73.989169
-1409417	"12/17/2014"	"Oil Tank Room"	"119 East 19th St"	"Unknown Petroleum"	"Unknown"	"Unknown"	"Equipment Failure"	"Private Dwelling"		"12/18/14"	40.646429	-73.961181
-1409529	"12/22/2014"	"Drum Run"	"803 Forbell St"	"Diesel"	"Unknown"	"Unknown"	"Abandoned Drums"	"Commercial/Industrial"		"03/02/15"	40.664202	-73.860378
-1409582	"12/23/2014"	"Carruzzo Residence"	"438 15th St"	"Unknown Material"	"Unknown"	"Unknown"	"Unknown"	"Private Dwelling"		"12/29/14"	40.661677	-73.981812
-1409596	"12/23/2014"	"Keene Residence"	"625 East 95th St"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Equipment Failure"	"Private Dwelling"		"Not closed"	40.653045	-73.913571
-1409622	"12/24/2014"	"Soil"	"440 15th St"	"#2 Fuel Oil"	"Unknown"	"Soil"	"Equipment Failure"	"Private Dwelling"		"Not closed"	40.661642	-73.981739
-1409645	"12/26/2014"	"Combo Building"	"794 Washingstion Ave"	"#2 Fuel Oil"	40	"Unknown"	"Human Error"	"Private Dwelling"		"12/29/14"	40.674166	-73.963367
-1409661	"12/27/2014"	"Bqe Ramp"	"Bqe Westbound On Ramp"	"Diesel"	15	"Unknown"	"Traffic Accident"	"Commercial Vehicle"		"12/27/14"	40.654409	-74.00785
-1409694	"12/29/2014"	"Petroleum Contaminated Groundwater"	"207 North 8th Street"	"Gasoline"	"Unknown"	"Groundwater"	"Unknown"	"Unknown"		"Not closed"	40.717456	-73.955184
-1409712	"12/30/2014"	"Private Resd"	"2015 Linden Blvd"	"#2 Fuel Oil"	4	"Soil"	"Human Error"	"Private Dwelling"		"01/09/15"	40.660056	-73.88815
-1409724	"12/31/2014"	"Private Resd"	"2925 W 19th St"	"#2 Fuel Oil"	5	"Soil"	"Equipment Failure"	"Private Dwelling"		"Not closed"	40.575935	-73.985706
-1409728	"12/31/2014"	"Ttf - Is #14 School"	"2424 Vatchelder St"	"#4 Fuel Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Institutional, Educational, Gov., Other"		"Not closed"	40.593489	-73.938138
-1409732	"12/31/2014"	"Man Hole 6296"	"604 Wast 4 St"	"Unknown Petroleum"	0.13	"Unknown"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.637333	-73.975596
-1409760	"01/02/2015"	"Sidewalk"	"440 15th St"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Housekeeping"	"Private Dwelling"		"01/02/15"	40.661642	-73.981739
-1409800	"01/05/2015"	"Air"	"1202 Mcdonald Ave"	"Pce"	"Unknown"	"Soil, Air"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.623963	-73.976245
-1409809	"01/05/2015"	"Residence"	"642 Putnam Ave"	"#2 Fuel Oil"	5	"Unknown"	"Human Error"	"Commercial Vehicle"		"Not closed"	40.685409	-73.936011
-1409832	"01/06/2015"	"Floyd Bennett Field"	"50 Aviation Rd/Building 273"	"#2 Fuel Oil"	"Unknown"	"Soil"	"Equipment Failure"	"Commercial/Industrial"		"Not closed"	40.594647	-73.883486
-1409836	"01/06/2015"	"Apt Building"	"119 East 19 Th St"	"#2 Fuel Oil"	10	"Soil"	"Equipment Failure"	"Private Dwelling"		"01/13/15"	40.646429	-73.961181
-1409867	"01/07/2015"	"Home"	"946 Bushwick Ave"	"#2 Fuel Oil"	"Unknown"	"Soil"	"Human Error"	"Private Dwelling"		"01/07/15"	40.692295	-73.92382
-1409891	"01/08/2015"	"Apartment"	"66 Cooper"	"#2 Fuel Oil"	1.5	"Air"	"Equipment Failure"	"Private Dwelling"		"01/20/15"	40.685222	-73.909505
-1409893	"01/08/2015"	"Commercial/Residential Building"	"154 Graham Ave"	"Tetrachloroethylene (pce)"	"Unknown"	"Air "	"Unknown"	"Commercial/Industrial"		"01/29/15"	40.706875	-73.942809
-1409894	"01/08/2015"	"Residence"	"719 Greene Ave"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Unknown"	"Private Dwelling"		"02/23/15"	40.689899	-73.939811
-1409975	"01/10/2015"	"Apartment Building"	"221 East 18th Street"	"#2 Fuel Oil"	5	"Soil"	"Human Error"	"Private Dwelling"		"Not closed"	40.645897	-73.962105
-1409981	"01/10/2015"	"Drum Run"	"89 Furman Ave"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Abandoned Drums"	"Unknown"		" 01/15/2015"	40.683405	-73.906124
-1410004	"01/12/2015"	"Fuel Oil Spill At St. Fortunata Church"	"2609 Linden Blvd"	"#2 Fuel Oil"	200	"Soil"	"Unknown"	"Gasoline Station Or Other Pbs Facility"		"Not closed"	40.669033	-73.868122
-1410017	"01/12/2015"	"Multi-Use Building"	" Apartment And Laundromat, 4101-11 13th Ave"	"#2 Fuel Oil"	20	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"Not closed"	40.639216	-73.987442
-1410031	"01/13/2015"	"Roadway"	"53 Varick Ave"	"Diesel"	10	"Unknown"	"Traffic Accident"	"Commercial Vehicle"		"01/13/15"	40.707593	-73.927431
-1410050	"01/13/2015"	"School"	"29 Fort Greene Pl"	"#6 Fuel Oil"	50	"Unknown"	"Equipment Failure"	"Institutional, Educational, Gov., Other"		"01/22/15"	40.688873	-73.97641
-1410051	"01/13/2015"	"School"	"S Elliott Place/Dekalb Ave"	"Unknown Petroleum"	70	"Sewer"	"Equipment Failure"	"Institutional, Educational, Gov., Other"		"01/14/15"	40.68975	-73.976026
-1410058	"01/14/2015"	"Commercial Property"	"1181 Flushing Ave"	"Unknown Petroleum"	"Unknown"	"Soil, Groundwater"	"Other"	"Gasoline Station Or Other Pbs Facility"		"Not closed"	40.706534	-73.925224
-1410068	"01/14/2015"	"Commercial Building"	"194 Schenck Ave"	"Other"	"Unknown"	"Soil"	"Unknown"	"Commercial/Industrial"		"02/27/15"	40.676181	-73.889623
-1410084	"01/14/2015"	"Gowanus Power Plant"	"730 3rd Ave"	"Nitrogen Dioxide"	1	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"01/14/15"	40.664748	-74.002298
-1410090	"01/14/2015"	"Construction Site"	"550 Vanderbilt Avenue"	"Unknown Petroleum"	"Unknown"	"Soil"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.680227	-73.96796
-1410116	"01/15/2015"	"Former Gas Station"	"120 Union Ave"	"Unknown Petroleum"	"Unknown"	"Soil"	"Unknown"	"Private Dwelling"		"Not closed"	40.703983	-73.949928
-1410121	"01/15/2015"	"Con Ed 65513 Manhole/ Farragut Substaton"	"89 John St"	"Unknown Petroleum"	7	"Unknown"	"Unknown"	"Unknown"		"Not closed"	40.704375	-73.984956
-1410192	"01/18/2015"	"Costco"	"976 3rd Ave"	"Cooking Grease"	30	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"01/20/15"	40.655481	-74.009074
-1410229	"01/20/2015"	"Pole Top"	"2032 East 35th Street"	"Dielectric Fluid"	"Unknown"	"Unknown"	"Equipment Failure"	"Transformer"		"Not closed"	40.608523	-73.931627
-1410284	"01/21/2015"	"Worksite"	"400 Bay 41st Street"	"Hydraulic Oil"	"Unknown"	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"Not closed"	40.589343	-73.99596
-1410331	"01/22/2015"	"Apt Building/Apt 1a"	"234 North 9 St"	"Unknown Petroleum"	"Unknown"	"Unknown"	"Unknown"	"Private Dwelling"		"Not closed"	40.717286	-73.954359
-1410366	"01/23/2015"	"Mobil Station"	"6000 Shore Pkwy"	"Gasoline"	"Unknown"	"Soil"	"Unknown"	"Gasoline Station Or Other Pbs Facility"		"01/23/15"	40.592534	-73.908198
-1410440	"01/26/2015"	"Residence"	"376 Lewis Ave"	"#2 Fuel Oil"	190	"Unknown"	"Equipment Failure"	"Private Dwelling"		"03/23/15"	40.682631	-73.935
-1410470	"01/28/2015"	"Ground"	"378 Lewis Ave"	"#2 Fuel Oil"	150	"Soil"	"Equipment Failure"	"Commercial/Industrial"		"01/28/15"	40.682505	-73.935254
-1410482	"01/28/2015"	"Kings County Em. Res."	"One Hunters Point Plaza"	"Material Not Identified"	"Unknown"		"Other"	"Unknown"		"Not closed"	40.738919	-73.932323
-1410541	"01/29/2015"	"Ps251 School"	"1037 East 54th St"	"#4 Fuel Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Institutional, Educational, Gov., Other"		"Not closed"	40.631273	-73.923848
-1410602	"01/30/2015"	"Across Road From"	"244 Albany Ave"	"#2 Fuel Oil"	5	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"02/03/15"	40.672269	-73.939445
-1410625	"02/02/2015"	"Basement"	"1044 East 38th Street"	"#2 Fuel Oil"	30	"Unknown"	"Equipment Failure"	"Private Dwelling"		"Not closed"	40.629637	-73.939882
-1410645	"02/03/2015"	"B-11"	"810 Pacific St"	"Diesel"	25	"Unknown"	"Equipment Failure"	"Commercial Vehicle"		"02/03/15"	40.68085	-73.968318
-1410678	"02/04/2015"	"Private Home"	"5021 Clarendon Road"	"Gasoline"	"Unknown"	"Unknown"	"Unknown"	"Private Dwelling"		"02/11/15"	40.644746	-73.928794
-1410746	"02/06/2015"	"Basement"	"925 Union St"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Private Dwelling"		"Not closed"	40.673466	-73.972212
-1410758	"02/07/2015"	"Pole 63292"	"1117 East 57th St"	"Transformer Oil"	0.25	"Unknown"	"Equipment Failure"	"Transformer"		"Not closed"	40.625702	-73.920501
-1410761	"02/07/2015"	"Owls Head Wwtp"	"6700 Shore Rd"	"Transformer Oil"	7	"Unknown"	"Equipment Failure"	"Institutional, Educational, Gov., Other"		"02/09/15"	40.641886	-74.034062
-1410814	"02/10/2015"	"Eastern District High School"	"850 Grand Street"	"#4 Fuel Oil"	"Unknown"	"Unknown"	"Housekeeping"	"Private Dwelling"		"Not closed"	40.711881	-73.940338
-1410864	"02/12/2015"	"Salon"	"1728 86th Street"	"#2 Fuel Oil"	10	"Air"	"Human Error"	"Commercial/Industrial"		"02/12/15"	40.607858	-74.004145
-1410874	"02/12/2015"	"Residence"	"2453 East 13th Street"	"#2 Fuel Oil"	"Unknown"	"Soil"	"Equipment Failure"	"Private Dwelling"		"02/17/15"	40.590705	-73.956551
-1410973	"02/18/2015"	"Manhole Tm1653, Tm1754, Tm1802, & Bc1653"	"621 Court St"	"Unknown Petroleum"	16	"Unknown"	"Unknown"	"Transformer"		"Not closed"	40.670959	-74.001373
-1410980	"02/18/2015"	"Daycare Center"	"987 Lafayette Ave"	"#2 Fuel Oil"	8	"Unknown"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.692245	-73.932657
-1411031	"02/20/2015"	"Brownsville Substation"	"247 Williams Ave"	"Dielectric Fluid"	400	"Soil"	"Other"	"Commercial/Industrial"		"Not closed"	40.669442	-73.899019
-1411087	"02/22/2015"	"Midtown Creek"	"Manhattan Ave Boat Launch"	"Unknown Petroleum"	"Unknown"	"Surface Water"	"Unknown"	"Unknown"	"Midtown Creek"	"03/02/15"	40.738977	-73.955699
-1411103	"02/23/2015"	"Red Hook Term."	"17 Commercial Warf/Berth 10"	"Unknown Material"	5.5	"Surface Water"	"Unknown"	"Vessel"	"Butter Milk Channel"	"02/23/15"	40.678178	-73.944158
-1411125	"02/23/2015"	"Drum Run"	"Glenmore And Vermont St"	"Unknown Petroleum"	"Unknown"	"Unknown"	"Unknown"	"Unknown"		"03/19/15"	40.673437	-73.894282
-1411164	"02/24/2015"	"Newtown Creek"	"Under Polaski Bridge"	"Unknown Petroleum"	"Unknown"	"Surface Water"	"Other"	"Unknown"	"Newtown Creek"	"02/24/15"	40.678178	-73.944158
-1411215	"02/25/2015"	"Gulf Gas Station"	"260 Hamilton Ave"	"Diesel"	"Unknown"	"Soil, Surface Water"	"Equipment Failure"	"Gasoline Station Or Other Pbs Facility"		03/03/15	40.677093	-74.0026
-1411218	"02/25/2015"	"Guld Gas Station"	"260 Hamiliton Ave"	"Diesel"	"Unknown"	"Unknown"	"Housekeeping"	"Gasoline Station Or Other Pbs Facility"		"02/25/15"	40.677093	-74.0026
-1411260	"02/27/2015"	"Arc Terminals"	"25 Paidge Ave"	"Gasoline"	6	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"03/02/15"	40.737441	-73.951971
-1411277	"02/27/2015"	"Drum Run"	"181 Patchen Ave"	"Unknown Hazardous Material"	"Unknown"	"Unknown"	"Abandoned Drums"	"Unknown"		"03/19/15"	40.685127	-73.92623
-1411290	"02/27/2015"	"Kosciusko Bridge (under Brooklyn Aproach)"	"Kosciusko Bridge"	"Other"	5	"Surface Water"	"Housekeeping"	"Commercial/Industrial"	"Newtown Creek"	"03/02/15"	40.728471	-73.928344
-1411306	"02/28/2015"	"Curb And Driveway"	"7401 21st Ave"	"#2 Fuel Oil"	20	"Soil"	"Housekeeping"	"Commercial Vehicle"		"03/03/15"	40.610109	-73.988941
-1411318	"03/02/2015"	"Soil"	"Van Sinderan Blvd And E New York Ave"	"Dielectric Fluid"	2	"Soil"	"Equipment Failure"	"Commercial/Industrial"		"Not closed"	40.665514	-73.926391
-1411330	"03/02/2015"	"Regulator"	"79th Street East Of Bell Parkway"	"Raw Sewage"	"Unknown"	"Unknown"	"Other"	"Commercial/Industrial"		"03/04/15"	40.584072	-73.96626
-1411344	"03/03/2015"	"Drum Run"	"Furman Ave And Bushwick Ave"	"Waste Oil/Used Oil"	270	"Unknown"	"Abandoned Drums"	"Commercial/Industrial"		"03/19/15"	40.682802	-73.906376
-1411355	"03/03/2015"	"Vacant Commerical Property (gas Station)"	"6317 Fort Hamilton Parkway"	"Gasoline"	"Unknown"	"Soil"	"Equipment Failure"	"Gasoline Station Or Other Pbs Facility"		"Not closed"	40.631108	-74.007959
-1411368	"03/04/2015"	"Commercial Property"	"703 Brighton Beach"	"Unknown Petroleum"	"Unknown"	"Soil"	"Other"	"Commercial/Industrial"		"03/10/15"	40.578095	-73.960503
-1411384	"03/04/2015"	"Tom Aliquo"	"1543 West 6th St"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Equipment Failure"	"Private Dwelling"		"Not closed"	40.609605	-73.97964
-1411396	"03/05/2015"	"Man Holecovers"	"Norman Ave To Jewel Ave"	"Gasoline"	"Unknown"	"Groundwater"	"Human Error"	"Institutional, Educational, Gov., Other"		"03/12/15"	40.728755	-73.947679
-1411416	"03/05/2015"	"Residence"	"415 Monroe Street"	"#2 Fuel Oil"	5	"Unknown"	"Other"	"Private Dwelling"		"Not closed"	40.686792	-73.940914
-1411495	"03/09/2015"	"Building"	"133 Bayard St"	"Unknown Material"	5	"Unknown"	"Unknown"	"Unknown"		"03/12/15"	40.719835	-73.946959
-1411497	"03/09/2015"	"Soil"	"133 Bayard St"	"#2 Fuel Oil"	5	"Soil"	"Equipment Failure"	"Private Dwelling"		"Not closed"	40.719835	-73.946959
-1411530	"03/10/2015"	"Service Box"	"635 Sackett Street"	"#2 Fuel Oil"	18	"Unknown"	"Unknown"	"Unknown"		"Not closed"	40.678289	-73.983173
-1411553	"03/11/2015"	"Oil Depot"	"Smith Street And Garnett Street"	"Unknown Petroleum"	"Unknown"	"Air"	"Unknown"	"Unknown"		"03/17/15"	40.674112	-73.998073
-1411666	"03/14/2015"	"Drum Run"	"Furman Ave Btwn Bushwick And Deadend"	"Unknown Petroleum"	"Unknown"	"Unknown"	"Housekeeping"	"Commercial/Industrial"		"03/16/15"	40.678178	-73.944158
-1411674	"03/14/2015"	"Hess Station# 32507"	"1630 Bushwick Ave"	"Waste Oil/Used Oil"	"Unknown"	"Unknown"	"Vandalism"	"Commercial/Industrial"		"03/16/15"	40.680244	-73.902707
-1411691	"03/15/2015"	"Manhole"	"West St And Quay St"	"Unknown Petroleum"	"Unknown"	"Unknown"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.726172	-73.958653
-1411705	"03/16/2015"	"Basement"	"135 Bayard St"	"#2 Fuel Oil"	"Unknown"	"Soil, Groundwater"	"Equipment Failure"	"Private Dwelling"		"03/20/15"	40.719902	-73.946901
-1411729	"03/16/2015"	"Phase 2"	"65 Eckford St"	"Unknown Material"	"Unknown"	"Soil"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.722071	-73.948211
-1411735	"03/16/2015"	"Construction Site"	"203 Jay St"	"Dielectric Fluid"	5500	"Soil"	"Human Error"	"Commercial/Industrial"		"Not closed"	40.697938	-73.986627
-1411740	"03/16/2015"	"Road Way"	"202 Jay St"	"Dielectric Fluid"	800	"Soil , Groundwater , Sewer, Subway"	"Equipment Failure"	"Commercial/Industrial"		"03/16/15"	40.698625	-73.986962
-1411760	"03/17/2015"	"Drum Run"	"316 Fountain Ave"	"Waste Oil/Used Oil"	150	"Unknown"	"Abandoned Drums"	"Unknown"		"03/19/15"	40.671921	-73.874802
-1411768	"03/17/2015"	"To Roadway"	"Ifo 210 Varick Ave"	"Diesel"	15	"Unknown"	"Traffic Accident"	"Commercial Vehicle"		"03/17/15"	40.71357	-73.929245
-1411803	"03/17/2015"	"M/V Grey Shark"	"Gravesend Bay"	"Bunker C Oil"	"Unknown"	"Surface Water"	"Unknown"	"Vessel"		"03/18/15"	40.593121	-74.009447
-1411808	"03/18/2015"	"341 East 19th Realty"	"341 East 19th St"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Tank Test Failure"	"Commercial/Industrial"		"Not closed"	40.641787	-73.960322
-1411822	"03/18/2015"	"Manhole 69589"	"568 Vanderbilt Ave"	"Unknown Petroleum"	750	"Unknown"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.679665	-73.968482
-1411862	"03/19/2015"	"Transmission Feeder #41t Gowanis Subst"	"27th St & 3rd Ave"	"Dielectric Fluid"	10	"Soil"	"Equipment Failure"	"Transformer"		"Not closed"	40.660457	-74.001026
-1411911	"03/20/2015"	"Mhany Llc"	"659 Pennsylvania Ave"	"Unknown Petroleum"	"Unknown"	"Soil"	"Unknown"	"Commercial/Industrial"		"Not closed"	40.661275	-73.892266
-1411938	"03/21/15"	"Manhole 5929"	"1631 63rd St And 17th Ave"	"Diesel"	0.5	"Unknown"	"Other"	"Commercial Vehicle"		"Not closed"	40.6227	-73.992494
-1411962	"03/23/15"	"Con Edison Valve Pit #7"	"Manhattan Ave And Commercial Ave"	"Unknown Material"	4	"Soil"	"Equipment Failure"	"Commercial/Industrial"		"Not closed"	40.737897	-73.955533
-1411965	"03/23/15"	"Fuel Oil Spill To Roadway"	"Vandervoort Ave And Grand St"	"#2 Fuel Oil"	10	"Unknown"	"Equipment Failure"	"Tank Truck"		"03/24/15"	40.713786	-73.933178
-1411970	"03/23/15"	"Contaminated Soil In Excavation"	"524 Coney Island Avenue"	"#4 Fuel Oil"	5	"Soil"	"Other"	"Institutional, Educational, Gov., Other"		"Not closed"	40.644753	-73.970768
-1412085	"03/25/15"	"Nyc Police Facility"	"W 6th St & Neptune Ave"	"Unknown Material"	"Unknown"	"Soil"	"Unknown"	"Institutional, Educational, Gov., Other"		"Not closed"	40.580018	-73.974895
-1412138	"03/26/2015"	"Dep Sewage Treatment Plant"	"12266 Flatland Ave"	"Sludge"	50	"Unknown"	"Equipment Failure"	"Institutional, Educational, Gov., Other"	"Hendrix St Canal"	"03/27/15"	40.652416	-73.879078
-1412154	"03/27/15"	"In Tracks"	"Nostrand Ave And Eastern Pkwy"	"Other"	55	"Unknown"	"Equipment Failure"	"Commercial/Industrial"		"Not Closed"	40.669895	-73.950497
-1412169	"03/27/15"	"Whitman Housing"	"102 Cumberland Walk"	"#2 Fuel Oil"	50	"Soil"	"Human Error"	"Institutional, Educational, Gov., Other"		"Not Closed"	40.69487	-73.974691
-1412258	"03/31/15"	"Manhole 66203"	"19th St/10th Ave"	"Unknown Petroleum"	6	"Unknown"	"Unknown"	"Unknown"		"Not Closed"	40.655546	-73.981517
-1500030	"04/01/15"	"Residence"	"553 Macdonough Street"	"#2 Fuel Oil"	"Unknown"	"Unknown"	"Equipment Failure"	"Private Dwelling"		"04/03/15"	40.683497	-73.923967
-1500053	"04/02/15"	"Unknown 966 -988 Alabama Ave"	"966 -988 Alabama Ave"	"Diesel"	"Unknown"	"Unknown"	"Unknown"	"Commercial/Industrial"		"Not Closed"	40.652601	-73.889459
-1500129	"04/06/15"	"Unit Sub Station/Mill Ave Substation"	"2134 Mill Ave"	"Unknown Petroleum"	7	"Soil"	"Unknown"	"Commercial/Industrial"		"Not Closed"	40.614755	-73.913231
-1500242	"04/09/15"	"Vault"	"East 4th Street And Church Ave"	"Unknown Material"	25	"Unknown"	"Unknown"	"Unknown"		"Not Closed"	40.643996	-73.976574
-1500264	"04/09/2015"	"Unknown Facility"	"460 McGuinness Blvd"	"Unknown Petroleum"	5	"Soil, Sewer"	"Equipment Failure"	"Commercial Vehicle"		"Not Closed"	40.738257	-73.952981
-	"03/31/2014"	"Transformer"	"East 81st. St. Flatland Ave"	"Dielectric Fluid"	1.5	"Unknown"	"Equipment Failure"	"Major Facility (mosf) > 400,000 Gal"		"05/01/14"	40.661102	-73.862476
+"Spill Number","DateSpillReported","SpillName","Address","Material","Amount","Resource Affected","Cause","Source","Waterbody","Closed","latitude","longitude"
+1309576,"01/01/2014","Metropolitan Avenue Bridge - North Side ","  Metropolitan Ave And Morgan ","Unknown Petroleum","Unknown","Surface Water","Unknown","Unknown",,"01/13/14",40.714455,-73.935296
+1309591,"01/02/2014","Groundlevel ","  451 Clarkson Ave ","#6 Fuel Oil","Unknown","Unknown","Equipment Failure","Commercial/Industrial",,"01/02/14",40.656571,-73.946224
+1309609,"01/03/2014","Fuel Oil Spill At Commercial Bldg ","  141 Livingston Street ","#4 Fuel Oil","Unknown","Unknown","Unknown","Commercial/Industrial",,"Not closed",40.690693,-73.988056
+1309611,"01/03/2014","Business ","  141 Livingston St ","#6 Fuel Oil",20,"Unknown","Human Error","Commercial/Industrial",,"01/03/14",40.690693,-73.988056
+1309692,"01/06/2014","Parking Lot Transmission Manhole 4966 ","  12th St & 2nd Ave ","Unknown Petroleum",10,"Soil","Equipment Failure","Transformer",,"02/20/14",40.67079,-73.994896
+1309693,"01/06/2014","Residence ","  3085 Brighton 13th Street ","#2 Fuel Oil",20,"Unknown","Equipment Failure","Private Dwelling",,"03/11/14",40.578227,-73.956439
+1309710,"01/07/2014","Katz Residence ","  21 Falmouth St ","#2 Fuel Oil","Unknown","Soil","Unknown","Private Dwelling",,"01/29/14",40.580986,-73.946674
+1309740,"01/08/2014","Roadway ","  326 49th Street ","Biodiesel",20,"Unknown","Equipment Failure","Private Dwelling",,"01/08/14",40.647701,-74.013603
+1309770,"01/08/2014","Apartment Bldg ","  400 Marlborough Rd ","#2 Fuel Oil","Unknown","Unknown","Tank Test Failure","Private Dwelling",,"Not closed",40.640353,-73.964551
+1309782,"01/09/2014","Intersection ","  Borinquen Pl/Rodney St ","Hydraulic Oil",15,"Unknown","Equipment Failure","Commercial/Industrial",,"02/20/14",40.707596,-73.956989
+1309799,"01/09/2014","Newtown Creek ","  Mcguinnes Blvd/Polaski Bridge ","Unknown Petroleum","Unknown","Surface Water ","Unknown","Unknown","Newtown Creek","01/09/14",40.678178,-73.944158
+1309812,"01/09/2014","Apt Building ","  953 Dekalb Ave ","#2 Fuel Oil",200,"Unknown","Human Error","Private Dwelling",,"01/10/14",40.693206,-73.937738
+1309823,"01/09/2014","Apartment Building ","  1525 Dorchester Road; Apt 3 ","#2 Fuel Oil","Unknown","Indoor Air","Unknown","Private Dwelling",,"01/12/14",40.639772,-73.963469
+1309851,"01/10/2014","Bus # 269 ","  200 Morgan Ave ","Motor Oil",1,"Unknown","Equipment Failure","Commercial Vehicle",,"01/10/14",40.710891,-73.932998
+1309904,"01/12/2014","Apt Bld ","  74 Eldert St ","#2 Fuel Oil","Unknown","Unknown","Equipment Failure","Commercial/Industrial",,"09/09/14",40.686965,-73.912459
+1309961,"01/13/2014","Roadway ","  7103 Avenue T ","#6 Fuel Oil",4,"Unknown","Equipment Failure","Commercial Vehicle",,"01/14/14",40.622122,-73.909021
+1309967,"01/14/2014","Third Part Spill To Vault ","  145 Knoll Street ","Waste Oil/Used Oil","Unknown","Unknown","Deliberate","Commercial/Industrial",,"01/15/14",40.70319,-73.931237
+1310101,"01/16/2014","Apartment Building ","  266 Malcolm X Boulevard ","#2 Fuel Oil","Unknown","Unknown","Equipment Failure","Private Dwelling",,"01/24/14",40.683888,-73.929443
+1310110,"01/17/2014","Abandoned Lot ","  17 Lacon Between Everett And Florence ","Waste Oil/Used Oil","Unknown","Soil","Deliberate","Unknown",,"01/29/14",40.678178,-73.944158
+1310167,"01/20/2014","Former Midas Facility ","  801 4th Avenue ","Unknown Petroleum","Unknown","Soil, Groundwater","Unknown","Commercial/Industrial",,"Not closed",40.658406,-73.999564
+1310287,"01/26/2014","Residence ","  2560 Batchelddr St Apt 2m ","Mercury","Unknown","Unknown","Human Error","Private Dwelling",,"01/30/14",40.590611,-73.937324
+1310294,"01/26/2014","Basement ","  45 Pineapple Street ","#2 Fuel Oil",15,"Unknown","Equipment Failure","Private Dwelling",,"Not closed",40.698551,-73.99407
+1310295,"01/26/2014","Julia Saunders ","  274 Jefferson Ave ","#2 Fuel Oil","Unknown","Unknown","Equipment Failure","Private Dwelling",,"Not closed",40.683517,-73.946611
+1310303,"01/27/2014","School (UNK Name) ","  544 7th Ave ","#2 Fuel Oil",20,"Soil ","Human Error","Institutional, Educational, Gov., Other",,"04/28/14",40.660669,-73.988512
+1310305,"01/27/2014","Fuel Oil Misdelivery To Basement ","  5202 Avenue M ","#2 Fuel Oil","Unknown","Unknown","Equipment Failure","Private Dwelling",,"05/20/14",40.621239,-73.925032
+1310424,"01/30/2014","Shoreline ","  25a Lacon Ct ","Waste Oil/Used Oil","Unknown","Unknown","Unknown","Unknown",,"02/06/14",40.590104,-73.930363
+1310441,"01/31/2014","Drum Run ","  Junius St And Linden Blvd ","Waste Oil/Used Oil",30,"Unknown","Abandoned Drums","Commercial/Industrial",,"03/05/14",40.657322,-73.900272
+1310452,"01/31/2014","Drum Run ","  Junius St Between New Lots And Linden ","Waste Oil/Used Oil",200,"Unknown","Abandoned Drums","Commercial/Industrial",,"03/05/14",40.678178,-73.944158
+1310457,"01/31/2014","Corner Lots ","  Corners Of Lacon Ct And Everett Ave ","Motor Oil","Unknown","Soil","Unknown","Unknown",,"01/31/14",40.591647,-73.927785
+1310459,"01/31/2014","Drum Run ","  Dewitt Ave And Van Sinderen Ave ","Waste Oil/Used Oil",23,"Unknown","Abandoned Drums","Commercial/Industrial",,"03/05/14",40.655847,-73.898379
+1310486,"02/01/2014","Basement ","  1293 Prospect Ave ","#2 Fuel Oil",20,"Unknown","Human Error","Commercial/Industrial",,"Not closed",40.651672,-73.975736
+1310521,"02/03/2014","Residence ","  45 Pineapple St ","#2 Fuel Oil","Unknown","Unknown","Tank Test Failure","Private Dwelling",,"05/22/14",40.698551,-73.99407
+1310527,"02/03/2014","Bulk Terminal ","  125 Apollo Street ","Gasoline",100,"Unknown","Unknown","Commercial/Industrial",,"02/12/14",40.728272,-73.938239
+1310534,"02/04/2014","Unknown Residence ","  688 Nostrand Ave ","#2 Fuel Oil","Unknown","Unknown","Tank Test Failure","Private Dwelling",,"Not closed",40.674972,-73.950105
+1310574,"02/05/2014","Secondary Containment ","  25 Paidge Ave ","Gasoline","Unknown","Unknown","Equipment Failure","Commercial/Industrial",,"Not closed",40.737441,-73.951971
+1310590,"02/06/2014","Paerdegaat Basin ","  Foot Of Seaview Ave ","Unknown Petroleum","Unknown","Unknown","Other","Vessel",,"02/06/14",40.635361,-73.887407
+1310630,"02/07/2014","Construction Site ","  340 Gateway Drive ","Diesel",20,"Unknown","Equipment Failure","Commercial/Industrial",,"11/17/14",40.650274,-73.870253
+1310634,"02/07/2014","Farragut Substation ","  89 John St ","Cable Oil",40,"Unknown","Equipment Failure","Commercial/Industrial",,"04/30/14",40.704375,-73.984956
+1310667,"02/10/2014","Former Dry Cleaner ","  3806 Nostrand Ave ","Other","Unknown","Soil, Groundwater","Unknown","Commercial/Industrial",,"Not closed",40.591113,-73.940177
+1310669,"02/10/2014","Commercial Lot ","  502 Metropolitan Ave ","#2 Fuel Oil","Unknown","Soil","Equipment Failure","Commercial/Industrial",,"Not closed",40.713795,-73.952244
+1310697,"02/11/2014","Drum Run ","  1513 Dumont St ","Waste Oil/Used Oil",110,"Unknown","Unknown","Commercial/Industrial",,"03/05/14",40.671291,-73.86183
+1310729,"02/12/2014","Home ","  105 Bay Ridge Parkway ","#2 Fuel Oil","Unknown","Unknown","Unknown","Private Dwelling",,"05/21/14",40.63288,-74.03273
+1310765,"02/13/2014","Nyc School ","  8787 24th Ave ","#4 Fuel Oil",20,"Unknown","Equipment Failure","Institutional, Educational, Gov., Other",,"10/08/14",40.594363,-73.993937
+1310798,"02/14/2014","(2) Tanks Abandon Under Ground ","  280 East 88th Street ","Unknown Petroleum","Unknown","Soil","Deliberate","Commercial/Industrial",,"Not closed",40.646757,-73.915958
+1310836,"02/16/2014","Drum Run ","  110 Blake Ave ","Waste Oil/Used Oil",10,"Unknown","Unknown","Unknown",,"03/05/14",40.664701,-73.915839
+1310850,"02/17/2014","Metropolitan Paper Recycling ","  996 Essex Street ","Motor Oil","Unknown","Unknown","Equipment Failure","Commercial/Industrial",,"01/05/15",40.659831,-73.874362
+1310856,"02/17/2014","Bulk Tank /CONTAINED ","  125 Apolo St ","Other",2,"Unknown","Equipment Failure","Commercial/Industrial",,"Not closed",40.728272,-73.938239
+1310864,"02/18/2014","Unknown ","  1055 Linwood ","Unknown Petroleum","Unknown","Sewer","Unknown","Unknown",,"03/03/14",40.659968,-73.875493
+1310953,"02/20/2014","Unknown ","  57 Ira Court ","#2 Fuel Oil","Unknown","Soil","Equipment Failure","Unknown",,"02/24/14",40.592038,-73.93017
+1310992,"02/21/2014","86th St Chevrolet ","  1575 86th St ","Tetrachloroethene","Unknown","Unknown","Unknown","Commercial/Industrial",,"Not closed",40.61029,-74.007326
+1311032,"02/22/2014","Scrapyard ","  539 Smith St ","Unknown Petroleum","Unknown","Soil, Groundwater","Unknown","Commercial/Industrial",,"Not closed",40.67308,-73.997958
+1311043,"02/23/2014","In Front Of ","  2954 West A St ","Material Not Identified","Unknown","Unknown","Equipment Failure","Commercial/Industrial",,"02/24/14",40.584086,-73.969026
+1311044,"02/23/2014","Ifo ","  2954 West 8th St ","Dielectric Fluid",1,"Unknown","Equipment Failure","Commercial/Industrial",,"05/08/14",40.576505,-73.977366
+1311077,"02/24/2014","Drum Run ","  Near 63 Euclid Ave ","Waste Oil/Used Oil",110,"Unknown","Abandoned Drums","Commercial/Industrial",,"03/05/14",40.687179,-73.874837
+1311080,"02/24/2014","Apt Building/Brighton House ","  500 Bright Water Court ","#2 Fuel Oil","Unknown","Soil","Equipment Failure","Private Dwelling",,"Not closed",40.57542,-73.962141
+1311087,"02/24/2014","Private Resd ","  457 43rd St ","#2 Fuel Oil",2,"Unknown","Human Error","Private Dwelling",,"02/26/14",40.649594,-74.006759
+1311089,"02/24/2014","Residence ","  1467 Bedford Ave ","#2 Fuel Oil",20,"Unknown","Equipment Failure","Private Dwelling",,"Not closed",40.673064,-73.953874
+1311174,"02/27/2014","Residence ","  8797 25th Ave ","#2 Fuel Oil","Unknown","Soil","Equipment Failure","Private Dwelling",,"04/28/14",40.593743,-73.991234
+1311225,"02/28/2014","Greenwood Substation ","  Ditmas Ave / Dahill Road ","Dielectric Fluid",3200,"Unknown","Equipment Failure","Commercial/Industrial",,"05/27/14",40.645622,-73.981194
+1311250,"03/01/2014","Residence ","  239 Waverly Ave ","#2 Fuel Oil","Unknown","Soil","Equipment Failure","Private Dwelling",,"08/28/14",40.690928,-73.96713
+1311287,"03/03/2014","Industrial Warehouse ","  425 Greenpoint Ave ","Unknown Hazardous Material","Unknown","Unknown","Unknown","Commercial/Industrial",,"03/17/14",40.733171,-73.942294
+1311349,"03/05/2014","Bqe Exit 23 West Bound Ramp ","  Bronx Queens Expressway ","Motor Oil",5,"Unknown","Equipment Failure","Commercial Vehicle",,"03/05/14",40.654409,-74.00785
+1311353,"03/05/2014","Tank Room And Lawn ","  1925 Stuart Street ","#4 Fuel Oil",50,"Soil","Human Error","Institutional, Educational, Gov., Other",,"Not closed",40.606625,-73.938758
+1311431,"03/07/2014","11th St Yard ","  Ash St And Mcguiness St ","Unknown Material","Unknown","Unknown","Equipment Failure","Commercial/Industrial",,"07/08/14",40.738245,-73.952998
+1311446,"03/07/2014","Transformer ","  299 Water Street ","Dielectric Fluid","Unknown","Unknown","Equipment Failure","Commercial/Industrial",,"11/21/14",40.702954,-73.981952
+1311476,"03/08/2014","Roadway ","  Belt Parkway Napp St ","Gasoline",2,"Soil, Groundwater","Other","Passenger Vehicle",,"03/12/14",40.678178,-73.944158
+1311482,"03/09/2014","Ifo ","  2207 Albemarle Rd ","Diesel",25,"Unknown","Traffic Accident","Commercial Vehicle",,"03/10/14",40.648148,-73.956338
+1311529,"03/11/2014","Gowanus Generating Station ","  420 2nd Ave ","Diesel","Unknown","Soil","Equipment Failure","Commercial/Industrial","Gowanus Bay","09/16/14",40.66169,-74.004141
+1311563,"03/12/2014","New Town Creek ","  End Of Meeker Avenue ","Unknown Material","Unknown","Unknown","Unknown","Unknown","Newtown Creek","03/12/14",40.721136,-73.942813
+1311570,"03/12/2014","Apt House ","  353 Bay Ridge Parkway ","#2 Fuel Oil",2,"Unknown","Unknown","Commercial/Industrial",,"03/13/14",40.631251,-74.025879
+1311593,"03/12/2014","Under Ground ","  946-954 Flushing Ave ","Gasoline","Unknown","Soil, Groundwater","Unknown","Commercial/Industrial",,"Not closed",40.702852,-73.9327
+1311601,"03/12/2014","Residence ","  96-11 Church Ave ","#2 Fuel Oil",215,"Unknown","Unknown","Private Dwelling",,"Not closed",40.641605,-73.983104
+1311664,"03/14/2014","Roadway ","  60th And Fort Hamilton Ave ","Hydraulic Oil",1,"Unknown","Equipment Failure","Commercial Vehicle",,"05/01/14",40.633073,-74.005557
+1311691,"03/14/2014","Drum Run ","  1100 Linwood St ","Other",30,"Unknown","Abandoned Drums","Commercial/Industrial",,"04/04/14",40.658338,-73.874459
+1311797,"03/18/2014","Auto Body Shop ","  873 Liberty Avenue ","Unknown Material","Unknown","Unknown","Housekeeping","Commercial/Industrial",,"04/03/14",40.677445,-73.877264
+1311811,"03/19/2014","Home ","  4262 Ocean Ave ","#2 Fuel Oil","Unknown","Unknown","Equipment Failure","Private Dwelling",,"Not closed",40.576368,-73.94738
+1311882,"03/20/2014","Drum Run ","  57 Bartlett St ","Unknown Petroleum","Unknown","Unknown","Abandoned Drums","Unknown",,"05/13/14",40.701466,-73.946396
+1311899,"03/20/2014","Parking Lot ","  219 Sullivan St ","Hydraulic Oil","Unknown","Soil","Unknown","Commercial/Industrial",,"Not closed",40.680196,-74.016416
+1311918,"03/21/2014","Opposite","611 Emerald St","Cooking Oil",2,"Soil","Equipment Failure","Commercial/Industrial","None"," 05/01/2014",40.667658,-73.858244
+1311927,"03/21/2014","Lab Results","11 West St","Diesel","Unknown","Soil","Other","Commercial/Industrial","None","Not closed",40.726578,-73.959063
+1311937,"03/21/2014","Sewer","18th St And Hamilton Ave","Waste Oil/Used Oil",500,"Sewer","Equipment Failure","Commercial Vehicle",," 03/24/2014",40.6714,-73.998179
+1311976,"03/24/2014","Manhole 46454","Opposite 82 18th St","Motor Oil",50,"Unknown","Human Error","Commercial/Industrial",,"03/24/14",40.666439,-73.997529
+1311999,"03/24/2014","Pad Mount Transformer 66178","West Side Of Flat Bush Ave","Dielectric Fluid","Unknown","Soil","Equipment Failure","Commercial/Industrial",,"05/01/14",40.681834,-73.975838
+1312000,"03/24/2014","Basement","185 Broadway","#2 Fuel Oil",20,"Unknown","Equipment Failure","Commercial/Industrial",,"05/27/14",40.71001,-73.961932
+1312025,"03/24/2014","Substation","111 Hudson Ave","Unknown Petroleum","Unknown","Soil","Equipment Failure","Commercial/Industrial",,"04/23/14",40.704526,-73.980264
+1312054,"03/25/2014","Multi Unit Dwelling","150 Lefferts Ave","#6 Fuel Oil",75,"Unknown","Human Error","Commercial/Industrial",,"05/28/14",40.661756,-73.95613
+1312057,"03/25/2014","Unknown Type Bldg","150 Lefferts Ave","#2 Fuel Oil",50,"Unknown","Human Error","Private Dwelling",,"03/25/14",40.661756,-73.95613
+1312167,"03/28/2014","In Front Of","434 Baine Bridge Street","Unknown Petroleum",1,"Unknown","Unknown","Unknown",,"11/21/14",40.682062,-73.91935
+1312168,"03/28/2014","In Front Of","429 Baine Bridge Street","Unknown Petroleum",0.5,"Unknown","Unknown","Unknown",,"05/01/14",40.68251,-73.919564
+1312247,"03/31/2014","Construction Site","683 Marcy Ave","Gasoline","Unknown","Soil","Equipment Failure","Commercial/Industrial",,"Not closed",40.690875,-73.948006
+1400029,"04/01/2014","Drum Run","99 Hunterfly Pl","Motor Oil",55,"Unknown","Abandoned Drums","Unknown",,"04/04/14",40.677433,-73.928222
+1400045,"04/02/2014","Road Way","Brooklyn Queens Express Way And Atlantic Ave","Diesel",20,"Unknown","Traffic Accident","Commercial/Industrial",,"04/02/14",40.678183,-73.944161
+1400122,"04/03/2014","Kent Ave Roadway","Kent Ave Bewteen N 4th St & N 5th St","Hydraulic Oil",10,"Soil","Unknown","Unknown",,"04/07/14",40.716735,-73.958919
+1400237,"04/07/2014","Tnt Scrap Yard","340 Maspeth Ave","Diesel","Unknown","Soil, Surface Water","Equipment Failure","Commercial/Industrial","English Kills","04/24/14",40.718032,-73.930469
+1400267,"04/08/2014","Transformer 4966","12th St & 2nd Ave","Cooking Oil",200,"Soil","Equipment Failure","Transformer",,"05/15/14",40.67079,-73.994896
+1400327,"04/10/2014","Commercial Property","8014 Preston Court","Waste Oil/Used Oil",200,"Soil","Abandoned Drums","Commercial/Industrial",,"Not closed",40.641747,-73.918989
+1400370,"04/11/2014","Commercial Property","744-760 Bedford Ave","Gasoline","Unknown","Soil","Unknown","Commercial/Industrial",,"Not closed",40.69813,-73.95717
+1400390,"04/11/2014","Ellayah Deli Grocery","590 Broadway","Cooking Grease","Unknown","Sewer","Deliberate","Commercial/Industrial",,"04/11/14",40.703605,-73.947381
+1400416,"04/12/2014","Intersection Of","New Lot Ave / Nj Ave","Antifreeze",3,"Sewer","Equipment Failure","Commercial Vehicle",,"04/14/14",40.652973,-73.943999
+1400533,"04/15/2014","Soil","43 Willow Pl","#2 Fuel Oil",2,"Soil","Equipment Failure","Private Dwelling",,"09/23/14",40.692298,-73.997959
+1400540,"04/16/2014","Roadway","7702 Flat Land","Diesel",20,"Unknown","Equipment Failure","Commercial Vehicle",,"04/16/14",40.634034,-73.915002
+1400545,"04/16/2014","St. Joseph College - Ttf","290 Washington Ave","#2 Fuel Oil","Unknown","Unknown","Tank Test Failure","Institutional, Educational, Gov., Other",,"Not closed",40.690048,-73.966738
+1400638,"04/18/2014","Unknown","909 Remsen Ave","Compressor Oil",4,"Soil","Unknown","Commercial/Industrial",,"05/15/14",40.646523,-73.911783
+1400668,"04/19/2014","Drum Run","409 48th Street","Unknown Petroleum",15,"Unknown","Unknown","Unknown",,"05/13/14",40.647423,-74.010959
+1400688,"04/21/2014","Con Ed","In Front Of 1021 71st St","Transformer Oil","Unknown","Unknown","Equipment Failure","Transformer",,"05/15/14",40.626376,-74.010887
+1400791,"04/23/2014","Sunoco Station","1731 Bushwick Ave","Unknown Petroleum","Unknown","Soil","Other","Gasoline Station Or Other Pbs Facility",,"Not closed",40.679422,-73.900174
+1400872,"04/25/2014","Sidewalk","400 Monitor Street","Hydraulic Oil",25,"Unknown","Equipment Failure","Commercial Vehicle",,"04/25/14",40.73165,-73.94358
+1400921,"04/28/2014","Nyc Transit","Madison St And Woodward","Motor Oil",5,"Unknown","Equipment Failure","Commercial Vehicle",,"04/28/14",40.703974,-73.904124
+1400957,"04/29/2014","Drum Run","956 Linwood St","Waste Oil/Used Oil","Unknown","Soil","Abandoned Drums","Unknown",,"05/13/14",40.662236,-73.877208
+1400978,"04/29/2014","Drum Run","875 Linwood St","Motor Oil",95,"Unknown","Other","Unknown",,"05/13/14",40.664138,-73.878586
+1401054,"04/30/2014","Newtown Creek","Surface Water","Unknown Material","Unknown","Surface Water","Unknown","Unknown","Newtown Creek","05/01/14",40.724545,-73.94186
+1401071,"05/01/2014","At Intersection In Vault","Wortman Ave And Essex St","Unknown Material",9,"Unknown","Unknown","Commercial/Industrial",,"08/12/14",40.661107,-73.875285
+1401150,"05/03/2014","Residence","1015 East 108 St","Raw Sewage","Unknown","Unknown","Unknown","Private Dwelling",,"05/05/14",40.647084,-73.890497
+1401192,"05/05/2014","Dispenser 12","644 Bushwick Ave","Gasoline",0.5,"Unknown","Unknown","Gasoline Station Or Other Pbs Facility",,"05/06/14",40.679459,-73.900641
+1401199,"05/05/2014","Underground Tank","615 Avenue C","#2 Fuel Oil","Unknown","Unknown","Tank Test Failure","Private Dwelling",,"Not closed",40.641394,-73.97252
+1401262,"05/07/2014","Exxon Terminal","Green Point Ave","Unknown Material","Unknown","Surface Water","Unknown","Commercial/Industrial","Newtown Creek","05/07/14",40.734584,-73.937427
+1401275,"05/07/2014","Transformer Vault","Ave X And Batchelder Ave","Dielectric Fluid",1,"Unknown","Equipment Failure","Commercial/Industrial",,"06/24/14",40.594128,-73.937778
+1401295,"05/07/2014","Basement","109 Berkeley Place","#2 Fuel Oil",20,"Unknown","Equipment Failure","Private Dwelling",,"Not closed",40.675943,-73.976591
+1401302,"05/07/2014","Underground - Ttf","165 East 19th Street","#4 Fuel Oil","Unknown","Soil","Tank Test Failure","Private Dwelling",,"Not closed",40.645508,-73.960991
+1401357,"05/08/2014","Service Box And Road Way","8778 Bay Parkway","Transmission Fluid, Motor Oil","Unknown","Soil","Other","Unknown",,"06/25/14",40.598354,-73.997774
+1401366,"05/08/2014","New Town Creek","49-51 Ash Street","Unknown Petroleum",10,"Surface Water","Unknown","Unknown","Newtown Creek","05/27/14",40.738237,-73.953205
+1401374,"05/09/2014","Construction Site - Livonia Commons","494 Georgia Ave","#2 Fuel Oil","Unknown","Soil","Unknown","Commercial/Industrial",,"07/08/14",40.664345,-73.895904
+1401376,"05/09/2014","Construction Site","421 Kent Ave","Unknown Petroleum","Unknown","Soil","Unknown","Commercial/Industrial",,"05/23/14",40.709989,-73.968487
+1401389,"05/09/2014","Newtown Creek","Polaski Bridge","Unknown Petroleum","Unknown","Surface Water","Unknown","Unknown","Newtown Creek","05/09/14",40.73923,-73.952594
+1401412,"05/09/2014","Manhole 69156","Ralph Ave And Ave L","Motor Oil","Unknown","Sewer","Other","Commercial/Industrial",,"06/25/14",40.624208,-73.917768
+1401429,"05/10/2014","Eastbound","Flatbush Ave And Belt Pkwy","Gasoline",4,"Unknown","Traffic Accident","Passenger Vehicle",,"05/12/14",40.584072,-73.96626
+1401431,"05/10/2014","Road Way","Eastern Park Way","Hydraulic Oil",6,"Soil","Equipment Failure","Unknown",,"05/13/14",40.672977,-73.911339
+1401467,"05/12/2014","Exterior Stock Yard","95 South 5th St","Gasoline","Unknown","Soil","Unknown","Commercial/Industrial",,"08/19/14",40.711782,-73.964587
+1401520,"05/13/2014","Apt Building","489 Chauncey St","#2 Fuel Oil","Unknown","Unknown","Equipment Failure","Private Dwelling",,"05/28/14",40.682284,-73.914997
+1401559,"05/14/2014","Con Edison Transformer Manhole #2010","Fulton Avenue And New York Avenue","Dielectric Fluid",100,"Unknown","Equipment Failure","Commercial/Industrial",,"07/08/14",40.68024,-73.946749
+1401786,"05/19/2014","Vault","Colonail Rd 85t St","Transformer Oil",0.05,"Unknown","Human Error","Institutional, Educational, Gov., Other",,"05/20/14",40.630559,-74.03407
+1401845,"05/20/2014","Commercial Parking Lot","19 Lafayette Ave","Unknown Petroleum","Unknown","Soil","Equipment Failure","Unknown",,"Not closed",40.687122,-73.978514
+1401854,"05/21/2014","Con Ed Substation","239 Plymouth St","Unknown Petroleum","Unknown","Soil","Unknown","Unknown",,"11/24/14",40.703673,-73.983685
+1401861,"05/21/2014","Pratt University (college)","200 Willoughby Ave","#6 Fuel Oil","Unknown","Unknown","Tank Test Failure","Commercial/Industrial",,"Not closed",40.69217,-73.963032
+1401910,"05/22/2014","Newtown Creek","195 Morgan St","Raw Sewage","Unknown","Surface Water ","Deliberate","Vessel","Newtown Creek","05/22/14",40.710754,-73.934159
+1401943,"05/23/2014","Drum Run","110 Kosciuszko Street","Waste Oil/Used Oil",5,"Unknown","Abandoned Drums","Institutional, Educational, Gov., Other",,"06/04/14",40.690562,-73.950616
+1401947,"05/23/2014","Residential Area","247 Driggs Ave","Hydraulic Oil",2,"Soil","Equipment Failure","Commercial Vehicle",,"06/02/14",40.722609,-73.947762
+1401975,"05/24/2014","Waste Water Treatment Plant","12266 Flat Lands Ave","Wastewater","Unknown","Unknown","Equipment Failure","Commercial Vehicle",,"05/27/14",40.652416,-73.879078
+1402039,"05/27/2014","Brooklyn Municipal Bldg -ttf","210 Joralemon St","#2 Fuel Oil","Unknown","Unknown","Tank Test Failure","Institutional, Educational, Gov., Other",,"12/09/14",40.691996,-73.990448
+1402046,"05/27/2014","Metal Hole In Sidewalk","Ifo 5380 Kings Highway","Unknown Petroleum","Unknown","Soil","Unknown","Commercial Vehicle",,"05/27/14",40.639528,-73.92647
+1402051,"05/27/2014","Gated Empty Lot","122 Liberty Ave","Waste Oil/Used Oil","Unknown","Soil","Unknown","Unknown",,"05/28/14",40.672792,-73.905878
+1402094,"05/28/2014","Newtown Creek","Pulaski Bridge Mcguiness Blvd","Unknown Petroleum","Unknown","Unknown","Other","Unknown",,"05/29/14",40.591776,-73.965745
+1402099,"05/29/2014","Roadway","Grand St/Vandervoort Ave","Hydraulic Oil",10,"Sewer","Traffic Accident","Commercial Vehicle",,"05/29/14",40.678178,-73.944158
+1402099,"05/29/2014","Roadway","Grand St/Vandervoort Ave","Sludge",75,"Sewer","Traffic Accident","Commercial Vehicle",,"05/29/14",40.678178,-73.944158
+1402161,"05/29/2014","Blue Stone","89 John St","Hydraulic Oil",1,"Unknown","Equipment Failure","Commercial/Industrial",,"08/12/14",40.704375,-73.984956
+1402188,"05/29/2014","Construction Site","94 North 13th St","Unknown Petroleum",1,"Air , Utililty Conduit/Vault","Unknown","Unknown",,"05/30/14",40.722409,-73.956926
+1402224,"05/31/2014","Generator","Ave U And E. 58th St","Diesel",3,"Unknown","Equipment Failure","Institutional, Educational, Gov., Other",,"06/26/14",40.613532,-73.916812
+1402236,"06/01/2014","Ground","820 Ocean Parkway","Auto Waste Fluids",5,"Soil","Deliberate","Unknown",,"10/01/14",40.628442,-73.971603
+1402248,"06/02/2014","Underground Tank","151-169 3rd Ave","Gasoline","Unknown","Unknown","Tank Test Failure","Gasoline Station Or Other Pbs Facility",,"07/09/14",40.681224,-73.983173
+1402280,"06/02/2014","Substation","Plymouth St/ Gold Sreet","Dielectric Fluid",7,"Unknown","Equipment Failure","Major Facility (mosf) > 400,000 Gal",,"08/12/14",40.703635,-73.982665
+1402330,"06/03/2014","Haylan Data Com Electric","140 8th St","Hydraulic Oil",1,"Soil","Equipment Failure","Commercial Vehicle",,"07/14/14",40.672223,-73.991259
+1402352,"06/03/2014","Drum Run","Cozine Ave & Alabama Ave","Waste Oil/Used Oil",220,"Unknown","Abandoned Drums","Commercial/Industrial",,"07/16/14",40.65306,-73.889777
+1402389,"06/04/2014","Newtown Creek","49 Ash St","Unknown Petroleum","Unknown","Surface Water","Unknown","Unknown","Newtown Creek","06/05/14",40.738537,-73.953394
+1402392,"06/04/2014","New Town Creek","Ash St And Mcguiness Ave","Unknown Petroleum","Unknown","Surface Water","Unknown","Unknown","Newtown Creek","08/19/14",40.738245,-73.952998
+1402445,"06/05/2014","On Roadway 61157 Con Ed Truck","Clay St. And Manhattan Ave","Hydraulic Oil",4,"Soil","Equipment Failure","Commercial Vehicle",,"06/26/14",40.736577,-73.955307
+1402466,"06/06/2014","Marmaris Yacht Club","3040 Emmons Ave","#2 Fuel Oil","Unknown","Unknown","Equipment Failure","Vessel","Marina","06/06/14",40.583861,-73.937281
+1402476,"06/06/2014","Construction","113 Flat Bush Ave Ext","#2 Fuel Oil",3,"Soil","Tank Test Failure","Commercial/Industrial",,"Not closed",40.695825,-73.984271
+1402507,"06/08/2014","Con Ed","East 36th And Quentin Rd","Dielectric Fluid",1,"Unknown","Equipment Failure","Commercial/Industrial",,"01/15/15",40.614628,-73.936813
+1402543,"06/09/2014","New Town Creek","End Of Meeker Ave","Unknown Petroleum","Unknown","Surface Water","Unknown","Unknown","Newtown Creek","06/10/14",40.721136,-73.942813
+1402553,"06/09/2014","Sautin Residence","181 Fenimore St","#2 Fuel Oil","Unknown","Unknown","Tank Test Failure","Private Dwelling",,"07/11/14",40.658499,-73.956325
+1402556,"06/09/2014","Former Spic And Span Cleaners","315 Kingsland Ave","#2 Fuel Oil","Unknown","Soil","Equipment Failure","Unknown",,"Not closed",40.734731,-73.944822
+1402573,"06/10/2014","Water","420 2nd Ave","Unknown Petroleum","Unknown","Surface Water","Storm","Unknown",,"06/10/14",40.66169,-74.004141
+1402624,"06/11/2014","Roadway","264 Hart Street","Unknown Hazardous Material",5,"Unknown","Deliberate","Unknown",,"06/11/14",40.693991,-73.941505
+1402656,"06/11/2014","Hydraulic Oil Spill To Gerritsen Inlet","Gerritsen Inlet","Hydraulic Oil",3,"Surface Water","Equipment Failure","Commercial/Industrial",,"06/11/14",40.585661,-73.912081
+1402657,"06/11/2014","Verizon Waste Oil Spill To Pavement","1870 Shore Parkway","Waste Oil/Used Oil",10,"Impervious Surface","Unknown","Tank Truck",,"06/11/14",40.589928,-73.993529
+1402662,"06/11/2014","Con Edison 11th Street Conduit","Mcguiness Blvd And Ash Ave","Other","Unknown","Unknown","Equipment Failure","Commercial/Industrial",,"Not closed",40.738245,-73.952998
+1402676,"06/11/2014","Gas Container","940 East 59th Street","Gasoline","Unknown","Unknown","Deliberate","Institutional, Educational, Gov., Other",,"06/11/14",40.630184,-73.919679
+1402681,"06/11/2014","Drum Run","22 Pleasant Pl","#2 Fuel Oil","Unknown","Unknown","Abandoned Drums","Unknown",,"07/16/14",40.676755,-73.910241
+1402790,"06/14/2014","Motor Oil Spill To Backyard By Neighbor","1450 Bay Ridge Avenue","Unknown Petroleum",2,"Soil","Deliberate","Private Dwelling",,"Not closed",40.621396,-74.000536
+1402796,"06/15/2014","Manhole 55334","Logan St And Pitkin Ave","Hydraulic Oil",4,"Unknown","Equipment Failure","Commercial Vehicle",,"07/09/14",40.674791,-73.876193
+1402904,"06/17/2014","Residence","201 Halleck St And Court St Corner","Unknown Material","Unknown","Unknown","Unknown","Unknown",,"Not closed",40.670042,-74.001832
+1402958,"06/18/2014","Feeder Goethals Sub","3rd Ave And 51st Street","Dielectric Fluid",400,"Soil","Unknown","Commercial/Industrial",,"01/15/15",40.647029,-74.015027
+1402964,"06/18/2014","Manhole 74874","91st St/Colonial Rd","Dielectric Fluid",7,"Unknown","Unknown","Commercial/Industrial",,"09/26/14",40.630559,-74.03407
+1402966,"06/18/2014","Gravel Lot","500 Kent Ave","Nitric Acid",0.13,"Unknown","Human Error","Commercial/Industrial",,"06/18/14",40.706541,-73.968292
+1402967,"06/18/2014","Manhole 74873","91st St/Colonial Rd","Dielectric Fluid",7,"Unknown","Unknown","Commercial/Industrial",,"09/26/14",40.630559,-74.03407
+1402982,"06/18/2014","On Street","Cross Intersection Of John St And Jay St","Other","Unknown","Unknown","Unknown","Unknown",,"06/20/14",40.692338,-73.987342
+1402983,"06/18/2014","Sample Jar","500 Kent Ave","Nitric Acid",0.13,"Unknown","Human Error","Commercial/Industrial",,"06/18/14",40.706541,-73.968292
+1403004,"06/19/2014","Newtown Creek Sheen","437 Mcguinness Blvd- Pulaski Bridge","Unknown Petroleum","Unknown","Surface Water","Unknown","Unknown",,"06/19/14",40.73923,-73.952594
+1403039,"06/20/2014","Vault 3002","Wortmen St. / Linwood St","Unknown Material",10,"Unknown","Equipment Failure","Transformer",,"08/12/14",40.658006,-73.874069
+1403040,"06/20/2014","Vault 2998","Wortman Ave/Linwood St","Transformer Oil",15,"Soil","Equipment Failure","Transformer",,"08/12/14",40.658006,-73.874069
+1403049,"06/20/2014","Gravesend Bay","West 33 And Bayview Ave","Unknown Petroleum","Unknown","Surface Water","Unknown","Commercial/Industrial","Gravesend Bay","06/20/14",40.581123,-74.000605
+1403050,"06/20/2014","Stillwell Creek","West 33rd St @BAYVIEW Ave","Unknown Petroleum","Unknown","Surface Water","Deliberate","Institutional, Educational, Gov., Other","Stillwell Creek","06/20/14",40.581123,-74.000605
+1403062,"06/20/2014","Coney Island Creek","West 33rd St And Bayview Avenue","Unknown Material","Unknown","Groundwater, Surface Water ","Unknown","Unknown","Coney Island Creek","06/20/14",40.581123,-74.000605
+1403065,"06/20/2014","Manhole 23728","Lexington Ave/Bedford Ave","Unknown Petroleum",0.1,"Soil","Unknown","Commercial/Industrial",,"07/09/14",40.699994,-73.957234
+1403069,"06/20/2014","Roadway","West 7 St And Ocean Parkway","Hydraulic Oil",2,"Sewer","Equipment Failure","Commercial Vehicle",,"07/09/14",40.650345,-73.974601
+1403129,"06/23/2014","Basement","245 Clinton Ave","#2 Fuel Oil","Unknown","Unknown","Tank Test Failure","Institutional, Educational, Gov., Other",,"10/07/14",40.690509,-73.967773
+1403137,"06/23/2014","Street","4th Ave And 1st St","Other","Unknown","Soil","Deliberate","Unknown",,"06/23/14",40.6752,-73.984782
+1403137,"06/23/2014","Street","4th Ave And 1st St","Blood","Unknown","Soil","Deliberate","Unknown",,"06/23/14",40.6752,-73.984782
+1403144,"06/23/2014","Business","499 Ocean Pkway","#4 Fuel Oil","Unknown","Unknown","Tank Test Failure","Commercial/Industrial",,"Not closed",40.636352,-73.972264
+1403147,"06/23/2014","Heartland Brewery","510 Waverly Ave","Wastewater","Unknown","Soil","Deliberate","Commercial/Industrial",,"06/23/14",40.682396,-73.965924
+1403162,"06/23/2014","Back Yard","183 Irwin Street","Other","Unknown","Soil, Groundwater","Deliberate","Private Dwelling",,"06/23/14",40.57833,-73.943333
+1403179,"06/24/2014","Manhole 57217","28 Fountain Ave","Unknown Petroleum",20,"Unknown","Unknown","Institutional, Educational, Gov., Other",,"11/24/14",40.679379,-73.87666
+1403180,"06/24/2014","Ups","104 -01 Foster Ave","Diesel",5,"Sewer","Equipment Failure","Commercial/Industrial",,"09/10/14",40.650284,-73.902761
+1403191,"06/24/2014","Cumberland Farms","3602 Snyder Ave","Gasoline",4,"Unknown","Equipment Failure","Gasoline Station Or Other Pbs Facility",,"09/05/14",40.648998,-73.943253
+1403193,"06/24/2014","Side Walk","2 Fountain Ave","Diesel","Unknown","Unknown","Equipment Failure","Commercial/Industrial",,"06/24/14",40.679588,-73.876559
+1403242,"06/25/2014","Mineral Oil Spill","241-247 Huron Street","Mineral Oil","Unknown","Soil, Groundwater","Housekeeping","Commercial/Industrial",,"08/26/14",40.733584,-73.951202
+1403254,"06/25/2014","Gulf Gas Station","1988 Coney Island Avenue","Gasoline","Unknown","Soil","Equipment Failure","Gasoline Station Or Other Pbs Facility",,"Not closed",40.608751,-73.962495
+1403275,"06/25/2014","Linfoun Service Station","2492 Linden Blvd","Gasoline","Unknown","Soil","Equipment Failure","Gasoline Station Or Other Pbs Facility",,"Not closed",40.666576,-73.871672
+1403291,"06/25/2014","Chemical Explosion At Polytechnic University","6 Metrotech Center","Unknown Hazardous Material","Unknown","Unknown","Unknown","Institutional, Educational, Gov., Other",,"08/25/14",40.678178,-73.944158
+1403334,"06/27/2014","On The Beach","West Of 33rd St And Bayview","Raw Sewage","Unknown","Unknown","Unknown","Institutional, Educational, Gov., Other",,"06/27/14",40.581123,-74.000605
+1403377,"06/28/2014","Drum Run","533 Dahill Road","Cooking Oil","Unknown","Unknown","Abandoned Drums","Unknown",,"07/16/14",40.634581,-73.978611
+1403412,"06/30/2014","Business","236 Butler St","#4 Fuel Oil"," #2 Fuel Oil"," #6 Fuel Oil","Equipment Failure","Commercial/Industrial",,"07/11/14",40.681481,-73.985532
+1403414,"06/30/2014","Construction Site - Former Mgp","94 N 13th Street","Unknown Material","Unknown","Unknown","Unknown","Commercial/Industrial",,"06/30/14",40.722409,-73.956926
+1403537,"07/02/2014","Basement","682 Argyle Rd","#2 Fuel Oil",2,"Unknown","Equipment Failure","Private Dwelling",,"11/14/14",40.632548,-73.964957
+1403553,"07/03/2014","Drum Run","9814 Ditimas","Waste Oil/Used Oil",55,"Soil","Abandoned Drums","Unknown",,"07/16/14",40.652063,-73.907589
+1403606,"07/03/2014","Owls Head","6700 Share Road","Raw Sewage","Unknown","Surface Water","Storm","Unknown","Ny Upper Bay","07/07/14",40.641886,-74.034062
+1403636,"07/05/2014","Roadway","Intersection Of Linen Blvd And Junius","Hydraulic Oil",20,"Unknown","Unknown","Unknown",,"07/07/14",40.657322,-73.900272
+1403697,"07/07/2014","Drum Run","1234 62nd St","Waste Oil/Used Oil",2,"Soil","Unknown","Private Dwelling",,"07/16/14",40.628425,-74.001192
+1403769,"07/08/2014","Pole 67357","57 Commerce Street","Dielectric Fluid","Unknown","Unknown","Equipment Failure","Commercial/Industrial",,"08/12/14",40.680141,-74.007669
+1403772,"07/08/2014","Soil","420 Columbia St","#2 Fuel Oil",50,"Soil","Equipment Failure","Commercial/Industrial",,"07/18/14",40.677168,-74.007093
+1403931,"07/11/2014","Freon Loss","2340 Ocean Pkwy","Freon","Unknown","Air, Indoor Air","Deliberate","Commercial/Industrial",,"07/11/14",40.593291,-73.964933
+1403992,"07/14/2014","Plymouth Substation","Hudson Ave And John St","Unknown Petroleum",0.01,"Unknown","Unknown","Unknown",,"08/15/14",40.704234,-73.981022
+1404024,"07/14/2014","Ground","233 Nichols Ave","Other","Unknown","Unknown","Deliberate","Private Dwelling",,"07/14/14",40.685119,-73.868488
+1404038,"07/15/2014","Sewage Treatment Plant","6700 Shore Rd","Raw Sewage",50,"Unknown","Storm","Commercial Vehicle","New York Lower Harbor","07/15/14",40.641886,-74.034062
+1404070,"07/15/2014","Excavation Near Sidewalk","59 Walton St","#2 Fuel Oil","Unknown","Soil, Groundwater","Equipment Failure","Commercial/Industrial",,"Not closed",40.701568,-73.950511
+1404110,"07/16/2014","Basement Of K017","215 Heyward St","Hydraulic Oil","Unknown","Soil","Equipment Failure","Institutional, Educational, Gov., Other",,"12/17/14",40.704121,-73.953339
+1404128,"07/16/2014","Basement Tank Room - Ttf","494 Dumont Ave","#2 Fuel Oil","Unknown","Unknown","Tank Test Failure","Institutional, Educational, Gov., Other",,"Not closed",40.66509,-73.900511
+1404169,"07/17/2014","Contaminated Soil Around Ust","73 South Oxford St","#2 Fuel Oil","Unknown","Soil","Equipment Failure","Private Dwelling",,"02/23/15",40.68745,-73.973426
+1404171,"07/17/2014","Drum Run (abandoned Drums)","Corner Of Bay 19th Street And Cropsey Avenue","Unknown Petroleum",35,"Unknown","Abandoned Drums","Unknown",,"08/11/14",40.602291,-74.006781
+1404195,"07/17/2014","Costruction Site","113 Flat Bush Ave Ext","#2 Fuel Oil","Unknown","Soil","Equipment Failure","Commercial/Industrial",,"07/18/14",40.695825,-73.984271
+1404285,"07/21/2014","Basement Of Residence","150 Grand Street","#2 Fuel Oil","Unknown","Soil","Unknown","Private Dwelling",,"09/15/14",40.714599,-73.962213
+1404286,"07/21/2014","Pole Top 60549","Vanderbuilt Ave West Side Division Place","Dielectric Fluid",0.13,"Unknown","Equipment Failure","Unknown",,"08/15/14",40.720827,-73.938133
+1404293,"07/21/2014","Residential","100 Eldert Lane","#2 Fuel Oil",3,"Indoor Air","Equipment Failure","Private Dwelling",,"08/12/14",40.688837,-73.867691
+1404309,"07/21/2014","Sheepshead Bay","Emmons Ave (NEAR Ocean Ave)","Unknown Hazardous Material","Unknown","Surface Water","Housekeeping","Unknown","Sheepshead Bay","08/18/14",40.583555,-73.948123
+1404318,"07/22/2014","Street And Sewer","Flatlands Ave And Remsen St","Antifreeze",2,"Sewer","Equipment Failure","Commercial Vehicle",,"07/22/14",40.658901,-73.926926
+1404404,"07/23/2014","Gowanus Creek","9th St","Unknown Petroleum","Unknown","Surface Water","Unknown","Unknown","Gowanus Creek","07/24/14",40.669388,-73.986753
+1404420,"07/23/2014","Drum Run","309 Tompkins Ave","Waste Oil/Used Oil","Unknown","Soil","Abandoned Drums","Institutional, Educational, Gov., Other",,"08/11/14",40.687304,-73.944718
+1404438,"07/24/2014","Active Construction Site In Oer Program","42 West St","#2 Fuel Oil","Unknown","Soil","Other","Commercial/Industrial",,"Not closed",40.728043,-73.958836
+1404487,"07/25/2014","Front Stoop","551 1st St","#2 Fuel Oil","Unknown","Unknown","Other","Private Dwelling",,"08/11/14",40.669817,-73.973653
+1404552,"07/28/2014","Ps 98 K","1401 Emmons Ave","#4 Fuel Oil","Unknown","Soil","Equipment Failure","Institutional, Educational, Gov., Other",,"Not closed",40.583467,-73.953973
+1404588,"07/29/2014","Farragut Sub Station","89 John St","Dielectric Fluid",0.25,"Unknown","Equipment Failure","Commercial/Industrial",,"10/02/14",40.704375,-73.984956
+1404640,"07/30/2014","Power Plant Air Emission","3rd Ave And 24th St","Nitrogen Dioxide",1,"Air","Equipment Failure","Commercial/Industrial",,"07/30/14",40.662345,-73.999629
+1404698,"07/31/2014","Residents","227 45 Street","#2 Fuel Oil","Unknown","Soil","Equipment Failure","Private Dwelling",,"08/08/14",40.651672,-74.013213
+1404708,"08/01/2014","Manhole 3613","1321 Rogers Ave","Unknown Petroleum",6,"Unknown","Unknown","Unknown",,"08/18/14",40.637602,-73.950744
+1404726,"08/01/2014","Vault 7469","53 East Of 16 Ave","Transformer Oil",5,"Unknown","Equipment Failure","Commercial/Industrial",,"10/02/14",40.64916,-73.964681
+1404735,"08/01/2014","Abandoned Building","280 Franklin St","Other","Unknown","Unknown","Vandalism","Commercial/Industrial",,"Not closed",40.735899,-73.958263
+1404754,"08/01/2014","Owls Head Waste Water Treatment","6700 Shore Road","Sludge","Unknown","Surface Water, Sewer","Unknown","Institutional, Educational, Gov., Other","Upper New York Bay","08/04/14",40.641886,-74.034062
+1404872,"08/05/2014","Newtown Creek","Paidge Ave/","Unknown Material","Unknown","Surface Water","Unknown","Institutional, Educational, Gov., Other","Newtown Creek","08/05/14",40.73701,-73.951194
+1404879,"08/05/2014","Verizon Truck","Row Near 321 Richardson St","Hydrostatic + Oil",30,"Unknown","Equipment Failure","Commercial Vehicle",,"08/07/14",40.720039,-73.93834
+1404884,"08/05/2014","On Water","Newtown Creek","Unknown Petroleum","Unknown","Surface Water","Unknown","Institutional, Educational, Gov., Other","Newtown Creek","08/15/14",40.724245,-73.940656
+1404948,"08/06/2014","Owlshead Waste Water Treatment","6700 Shore Rd Pkwy","Raw Sewage",50,"Unknown","Equipment Failure","Commercial/Industrial",,"08/07/14",40.626447,-74.039701
+1404990,"08/07/2014","Hospital","506 6th Street/ 7th Ave","Hydraulic Oil",5,"Unknown","Equipment Failure","Commercial Vehicle",,"08/08/14",40.63104,-74.016047
+1404997,"08/07/2014","Mta Sidewalk Vent","12 Union Ave","Unknown Non-Petro/Non-Haz Material","Unknown","Unknown","Unknown","Unknown",,"08/11/14",40.700623,-73.950253
+1405008,"08/08/2014","Outside","225 Third Street","Unknown Petroleum","Unknown","Soil, Groundwater","Unknown","Commercial/Industrial",,"Not closed",40.67614,-73.98925
+1405025,"08/08/2014","Drum Run","Macdonald Ave And Ave I","Waste Oil/Used Oil",55,"Unknown","Abandoned Drums","Commercial/Industrial",,"09/12/14",40.626001,-73.976102
+1405038,"08/08/2014","Construction Site","317-335 Saratoga Ave","Unknown Petroleum","Unknown","Soil","Other","Commercial/Industrial",,"10/14/14",40.674864,-73.916617
+1405056,"08/09/2014","Road Way","2900 Flatbush Ave","Hydraulic Oil",1,"Unknown","Traffic Accident","Commercial Vehicle",,"11/24/14",40.59934,-73.91159
+1405069,"08/10/2014","Man Hole 65528 And Vault 3992","South Side Of Hawthorne Street West Of Bedford Ave","Unknown Hazardous Material",10,"Unknown","Unknown","Commercial/Industrial",,"10/03/14",40.699994,-73.957234
+1405149,"08/12/2014","St Matthew Church - Ttf","450 67th St","#2 Fuel Oil","Unknown","Unknown","Tank Test Failure","Commercial/Industrial",,"10/14/14",40.635909,-74.02126
+1405181,"08/13/2014","Owl's Head Waste Water Treatment Plant","6700 Shore Rd","Raw Sewage","Unknown","Unknown","Equipment Failure","Commercial/Industrial",,"08/15/14",40.641886,-74.034062
+1405218,"08/13/2014","Transformer Pole 37481","757 E86th St","Dielectric Fluid",0.25,"Soil","Equipment Failure","Unknown",,"Not closed",40.638831,-73.90912
+1405259,"08/14/2014","38th St Yard","3801 9th Ave","Diesel",3,"Soil","Equipment Failure","Commercial/Industrial",,"08/20/14",40.646329,-73.994677
+1405263,"08/14/2014","Roadway","Mcguiness Blvd And Green Point Ave","#4 Fuel Oil",15,"Unknown","Equipment Failure","Commercial Vehicle",,"09/03/14",40.730432,-73.951581
+1405267,"08/14/2014","Mta Manhole","North 7th St And Kent Ave","Dielectric Fluid",0.5,"Unknown","Equipment Failure","Commercial/Industrial",,"10/03/14",40.720302,-73.961698
+1405277,"08/14/2014","Tank Test Fail","2913 Foster Ave","#2 Fuel Oil","Unknown","Unknown","Tank Test Failure","Commercial/Industrial",,"Not closed",40.638838,-73.948632
+1405398,"08/18/2014","Mta Lot Adjacent To Railway","807 East 92nd Street","Unknown Petroleum","Unknown","Soil","Unknown","Non Major Facility > 1,100 Gal",,"Not closed",40.6483,-73.91239
+1405465,"08/20/2014","Residence","413 Miller Ave","Sulfuric Acid",18,"Unknown","Unknown","Private Dwelling",,"08/20/14",40.670733,-73.89054
+1405479,"08/20/2014","63109 Manhole","East 4th And Kings Hwy","Dielectric Fluid",0.75,"Soil","Equipment Failure","Commercial/Industrial",,"10/06/14",40.60455,-73.969117
+1405517,"08/20/2014","Mta Bus","Lee Ave And Wilson Ave","Transmission Fluid",10,"Soil","Equipment Failure","Commercial Vehicle",,"08/21/14",40.706468,-73.960771
+1405540,"08/20/2014","Street/Roadway","Lee Ave And Wilson Street","Transformer Oil",15,"Unknown","Equipment Failure","Commercial Vehicle",,"08/21/14",40.706468,-73.960771
+1405564,"08/22/2014","In Front Of","431 Kent Ave","Unknown Petroleum","Unknown","Unknown","Equipment Failure","Commercial/Industrial",,"08/26/14",40.708608,-73.967831
+1405582,"08/22/2014","Man Hole 1589","Northeast Adams St / Johnson St","Unknown Petroleum",30,"Unknown","Unknown","Unknown",,"10/06/14",40.694772,-73.989104
+1405635,"08/24/2014","Roadway","Quinen Rd And West 7th Street","Gasoline",3,"Unknown","Unknown","Passenger Vehicle",,"08/25/14",40.605828,-73.980302
+1405655,"08/25/2014","Curb Side - Drum Run","5013 Ave I","Waste Oil/Used Oil",20,"Unknown","Abandoned Drums","Unknown",,"09/12/14",40.63078,-73.927551
+1405708,"08/26/2014","260-262 Van Brunt Llc","260 Van Brunt St","Unknown Petroleum","Unknown","Soil","Unknown","Commercial/Industrial",,"12/02/14",40.680554,-74.009571
+1405770,"08/27/2014","Road Way/ Drain","Kings High Way And East 93 Street","Diesel",3,"Sewer","Equipment Failure","Commercial Vehicle",,"08/27/14",40.699251,-73.987436
+1405805,"08/28/2014","Brooklyn Bridge Park Peer 2","150 Furman Street","Storm Water","Unknown","Surface Water","Unknown","Unknown","Hudson River","08/29/14",40.701358,-73.995667
+1405818,"08/29/2014","Man Hole 55952","238 Starr St","Wastewater",2,"Unknown","Unknown","Commercial/Industrial",,"11/25/14",40.705657,-73.922182
+1405818,"08/29/2014","Man Hole 55952","238 Starr St","Unknown Petroleum",6,"Unknown","Unknown","Commercial/Industrial",,"11/25/14",40.705657,-73.922182
+1405830,"08/29/2014","Kingsborough","2001 Oriental Blvd","Hydraulic Oil",15,"Sewer","Equipment Failure","Commercial Vehicle",,"08/29/14",40.578349,-73.934465
+1405859,"09/01/2014","Valentino Pier","Coffey St And Ferris St","Unknown Petroleum","Unknown","Surface Water","Unknown","Unknown",,"09/02/14",40.678114,-74.016893
+1405877,"09/02/2014","Fuel Oil Spill At Chai Tots Daycare Center","70 Prospect Park West","#2 Fuel Oil","Unknown","Unknown","Equipment Failure","Commercial/Industrial",,"02/27/15",40.668539,-73.973802
+1405878,"09/02/2014","Soil","1785 Prospect Pl","#2 Fuel Oil","Unknown","Soil","Other","Commercial/Industrial",,"Not closed",40.672827,-73.918095
+1405932,"09/03/2014","Con Ed Manhole 607702","25th Ave / Harway Ave","Dielectric Fluid",2,"Soil","Unknown","Unknown",,"11/25/14",40.590554,-73.988909
+1405934,"09/03/2014","Con Ed- 2nd Loss At Same Location","Manhole Tm 2408 25th Ave / Harway Ave","Unknown Petroleum",10,"Soil","Unknown","Unknown",,"11/25/14",40.590554,-73.988909
+1405977,"09/04/2014","Vault Vs 3228","Cortielia Rd And Ocean Ave","Transformer Oil",0.5,"Soil","Equipment Failure","Commercial/Industrial",,"11/25/14",40.648653,-73.960729
+1406025,"09/04/2014","Border Of Sidewalk","390 10th Ave","#2 Fuel Oil","Unknown","Soil","Unknown","Unknown",,"09/25/14",40.699534,-73.969693
+1406027,"09/04/2014","Feeder Cable - Manhole 73533","Plymouth St West Of Bridge St","Dielectric Fluid",10,"Soil","Equipment Failure","Unknown",,"12/05/14",40.69762,-73.984969
+1406053,"09/05/2014","H Lot","Clymer Street/ Kent Ave","Diesel",140,"Soil","Other","Commercial Vehicle",,"Not closed",40.704079,-73.967224
+1406153,"09/09/2014","Service Box","14-12 41st Street","Unknown Hazardous Material","Unknown","Unknown","Equipment Failure","Commercial/Industrial",,"Not closed",40.596803,-73.986017
+1406164,"09/09/2014","Between 13th And 14th St (by Harbor Freight)","Hamilton Pl","Waste Oil/Used Oil","Unknown","Soil","Equipment Failure","Commercial/Industrial",,"09/12/14",40.670902,-73.996863
+1406201,"09/10/2014","Soil And Groundwater","98 Third Ave","Unknown Petroleum","Unknown","Soil, Groundwater","Equipment Failure","Gasoline Station Or Other Pbs Facility",,"Not closed",40.683276,-73.982294
+1406202,"09/10/2014","Soil","613 Bushwick Ave","Unknown Petroleum","Unknown","Soil","Equipment Failure","Gasoline Station Or Other Pbs Facility",,"Not closed",40.698569,-73.934215
+1406210,"09/10/2014","Manhole On Both Sides","Kent Ave Bet North 11th And 12th St","Unknown Material","Unknown","Unknown","Unknown","Commercial/Industrial",,"Not closed",40.667374,-73.98781
+1406241,"09/11/2014","Man Hole /farragut Sub","89 John St","Unknown Petroleum",6,"Unknown","Unknown","Commercial/Industrial",,"12/05/14",40.704375,-73.984956
+1406288,"09/12/2014","Private Residence","57 Glen St","#2 Fuel Oil","Unknown","Soil","Equipment Failure","Private Dwelling",,"09/16/14",40.680793,-73.873184
+1406325,"09/13/2014","Man Hole #3506","Bedford Ave/ Glenwood Road","Unknown Petroleum",0.25,"Soil","Unknown","Unknown",,"12/05/14",40.633083,-73.953003
+1406345,"09/14/2014","Vault 4081","602 Surf Ave","Dielectric Fluid",0.01,"Unknown","Equipment Failure","Transformer",,"Not closed",40.57427,-73.975917
+1406369,"09/15/2014","Vacant Factory","11 Spencer St","Perchlorine, Toluene","Unknown","Soil, Groundwater","Other","Commercial/Industrial",,"Not closed",40.698676,-73.955885
+1406399,"09/09/2014","Report Of Illegal Dumping And Spill","57 Hazel Court","Unknown Petroleum","Unknown","Unknown","Unknown","Non Major Facility > 1,100 Gal",,"09/16/14",40.592389,-73.930112
+1406415,"09/16/2014","Tank Test Failure At Commercial Building","46 Crown St","#2 Fuel Oil","Unknown","Unknown","Tank Test Failure","Commercial/Industrial",,"01/29/15",40.667148,-73.959831
+1406429,"09/16/2014","Construction Site","224 Richardson St","#2 Fuel Oil","Unknown","Soil","Human Error","Commercial/Industrial",,"Not closed",40.718854,-73.942171
+1406432,"09/16/2014","Ttf","300 10th St","#2 Fuel Oil","Unknown","Unknown","Tank Test Failure","Commercial/Industrial",,"11/13/14",40.669435,-73.989077
+1406534,"09/19/2014","Former Gas Station","469 Troy Ave","Waste Oil/Used Oil","Unknown","Unknown","Tank Test Failure","Commercial/Industrial",,"Not closed",40.66265,-73.937144
+1406577,"09/20/2014","Drum Run","653 Euclid Ave","Unknown Hazardous Material","Unknown","Unknown","Abandoned Drums","Unknown",,"10/02/14",40.670946,-73.870504
+1406594,"09/22/2014","City Owned Tree Ifo 335 E52nd St","335 E52nd St (LINDEN & Church Ave)","Unknown Material","Unknown","Soil","Deliberate","Unknown",,"09/24/14",40.65082,-73.946867
+1406652,"09/23/2014","Kings Plaza Loading Dock C","5100 Kings Plaza","Diesel",100,"Unknown","Equipment Failure","Commercial/Industrial",,"09/29/14",40.610344,-73.920917
+1406666,"09/23/2014","Drum Run","2352 West 8th Street","Unknown Petroleum","Unknown","Unknown","Abandoned Drums","Unknown",,"10/02/14",40.590375,-73.978629
+1406682,"09/24/2014","Plymouth St Sub Station","36 Gold St","Dielectric Fluid",1,"Unknown","Equipment Failure","Commercial/Industrial",,"Not closed",40.704052,-73.982616
+1406689,"09/24/2014","Farragut Sub Station","89 John St","Dielectric Fluid",1,"Soil","Equipment Failure","Commercial/Industrial",,"Not closed",40.704375,-73.984956
+1406692,"09/24/2014","Drum Run","Clarkson Ave And Albany Ave","Unknown Petroleum","Unknown","Unknown","Abandoned Drums","Unknown",,"10/02/14",40.656053,-73.939555
+1406793,"09/28/2014","Roadway","Crosby Ave/Bay 49th St","Antifreeze",1,"Sewer","Equipment Failure","Commercial Vehicle",,"10/02/14",40.588324,-73.985215
+1406805,"09/29/2014","Roadway","Linden Blvd/Van Sicklen Ave","Diesel",53,"Unknown","Traffic Accident","Commercial Vehicle",,"09/29/14",40.596789,-73.975039
+1406811,"09/29/2014","Outside/ Gowanus Canal","Third St /","Unknown Petroleum","Unknown","Unknown","Unknown","Unknown","Gowanus Canal","09/29/14",40.676125,-73.991435
+1406924,"10/01/2014","Supreme Court House","360 Adams St","#2 Fuel Oil","Unknown","Unknown","Tank Test Failure","Institutional, Educational, Gov., Other",,"Not closed",40.693901,-73.989279
+1406927,"10/01/2014","Junior High # 243 - Ttf","1401 Emmon Ave","#2 Fuel Oil,  #4 Fuel Oil","Unknown","Unknown","Tank Test Failure","Commercial/Industrial",,"Not closed",40.583467,-73.953973
+1406981,"10/02/2014","Concrete","315 Ave W","Hydraulic Oil",5,"Unknown","Equipment Failure","Commercial Vehicle",,"12/09/14",40.592826,-73.971306
+1406988,"10/03/2014","Drum Run","617 Central Ave","Gasoline",32,"Unknown","Abandoned Drums","Commercial/Industrial",,"10/06/14",40.688674,-73.908174
+1406997,"10/03/2014","Brooklyn Army Terminal- Parking Lot","63rd Street And 1st Ave","#6 Fuel Oil","Unknown","Unknown","Unknown","Commercial/Industrial",,"02/03/15",40.642456,-74.025607
+1407041,"10/06/2014","To Roadway","Coney Island Ave And Quinton Ave","Other",1,"Soil, Sewer","Equipment Failure","Commercial Vehicle",,"10/06/14",40.607838,-73.961915
+1407044,"10/06/2014","Greenwood Substation","258 23rd St","Unknown Petroleum",10,"Unknown","Unknown","Commercial/Industrial",,"12/10/14",40.659739,-73.993806
+1407055,"10/06/2014","Sanitation Garage","105-02 Aveune B","Motor Oil","Unknown","Unknown","Tank Test Failure","Commercial/Industrial",,"Not closed",40.647383,-73.919893
+1407068,"10/06/2014","Former Gas Station","599 New York Ave","Gasoline","Unknown","Unknown","Other","Gasoline Station Or Other Pbs Facility",,"Not closed",40.659791,-73.947386
+1407076,"10/06/2014","Residents","441 Prospect Place","#2 Fuel Oil",7,"Unknown","Equipment Failure","Private Dwelling",,"10/07/14",40.676395,-73.961547
+1407145,"10/08/2014","Vacant Lot (commercial)","510 Driggs Ave","Unknown Petroleum","Unknown","Soil, Groundwater","Unknown","Commercial/Industrial",,"Not closed",40.717984,-73.955877
+1407177,"10/09/2014","Subway","St. Johns Pl/Flat Bush Ave","Diesel",1,"Sewer","Equipment Failure","Commercial Vehicle",,"10/10/14",40.671482,-73.947563
+1407252,"10/11/2014","Bypass","6700 Shaw Road Parkway","Raw Sewage","Unknown","Unknown","Other","Unknown",,"10/14/14",40.626447,-74.039701
+1407271,"10/13/2014","Newtown Creek","Appolow And Bridge Water St","Unknown Petroleum","Unknown","Surface Water","Unknown","Unknown","Newtown Creek","10/14/14",40.728093,-73.93821
+1407344,"10/15/2014","Ps3","50 Jefferson Ave","#6 Fuel Oil","Unknown","Soil","Unknown","Institutional, Educational, Gov., Other",,"12/17/14",40.682293,-73.955204
+1407383,"10/16/2014","Gas Station/ 278 Fuel Stop","392 Leonard St","Diesel",2,"Unknown","Unknown","Gasoline Station Or Other Pbs Facility",,"11/03/14",40.718398,-73.948074
+1407478,"10/20/2014","Residence","577 Warren Street","Gasoline","Unknown","Soil","Deliberate","Private Dwelling",,"11/20/14",40.681738,-73.981209
+1407504,"10/20/2014","Building","111 58th Street","Gasoline","Unknown","Soil, Groundwater","Unknown","Commercial/Industrial",,"Not closed",40.645884,-74.023197
+1407592,"10/23/2014","Apt Building Silver Shores","141 Meserole Ave","#2 Fuel Oil","Unknown","Soil, Air","Unknown","Commercial/Industrial",,"11/25/14",40.727755,-73.951393
+1407672,"10/24/2014","72 Police Station","830 4th Ave","Transmission Fluid",2,"Groundwater","Unknown","Commercial Vehicle",,"Not closed",40.658261,-74.000973
+1407682,"10/25/2014","Manhole 64664","Burgen St/ Underhill Ave","Unknown Petroleum","Unknown","Soil","Unknown","Unknown",,"Not closed",40.677066,-73.965984
+1407696,"10/25/2014","Private Residence","23 Himrod Street","#2 Fuel Oil","Unknown","Unknown","Equipment Failure","Private Dwelling",,"11/28/14",40.694628,-73.925586
+1407699,"10/26/2014","Manhole 65438","3rd Ave 23st","Unknown Petroleum",6,"Unknown","Unknown","Commercial/Industrial",,"01/23/15",40.678178,-73.944158
+1407699,"10/26/2014","Manhole 65438","3rd Ave 23st","Other",300,"Unknown","Unknown","Commercial/Industrial",,"01/23/15",40.678178,-73.944158
+1407700,"10/26/2014","Man Hole #65436","3rd Ave 8th Street","Unknown Petroleum",6,"Unknown","Unknown","Unknown",,"12/10/14",40.699381,-73.97422
+1407752,"10/28/2014","Corner Of Arlington And Hemlock","469 Arlington","Waste Oil/Used Oil","Unknown","Soil","Deliberate","Private Dwelling",,"11/05/14",40.681606,-73.879481
+1407757,"10/28/2014","Residence","2954 Nostrand Ave","#2 Fuel Oil","Unknown","Soil","Equipment Failure","Private Dwelling",,"03/23/15",40.612441,-73.944508
+1407765,"10/28/2014","Drum Run - 5 Abandoned 5 Gal Pails","Union Street","Waste Oil/Used Oil",25,"Soil","Abandoned Drums","Institutional, Educational, Gov., Other",,"11/14/14",40.679532,-73.988491
+1407782,"10/28/2014","Tank Test Failure","2626 Homecrest Ave","#6 Fuel Oil","Unknown","Unknown","Tank Test Failure","Private Dwelling",,"Not closed",40.586929,-73.956979
+1407796,"10/28/2014","Roadway And Sewer","Boerum Pl And Schermerhorn St","Transmission Fluid",3,"Sewer","Equipment Failure","Commercial Vehicle",,"10/31/14",40.690333,-73.989645
+1407819,"10/29/2014","Sidewalk","2600 Atlantic Ave","Hydraulic Oil","Unknown","Soil","Equipment Failure","Commercial/Industrial",,"12/17/14",40.675448,-73.898171
+1407861,"10/30/2014","Manhole 57784","16th Ave & 78th St","Transformer Oil",0.01,"Soil","Equipment Failure","Commercial/Industrial",,"01/23/15",40.614594,-74.002614
+1407866,"10/30/2014","57767 Manhole","16th Ave And 76th St","Dielectric Fluid",0.5,"Unknown","Equipment Failure","Commercial/Industrial",,"12/10/14",40.615714,-74.001453
+1407866,"10/30/2014","57767 Manhole","16th Ave And 76th St","Other",50,"Unknown","Equipment Failure","Commercial/Industrial",,"12/10/14",40.615714,-74.001453
+1407922,"10/31/2014","Floyd Bennett Field","Flatbush Ave/ Aviation Road","Unknown Petroleum","Unknown","Soil, Groundwater","Unknown","Unknown",,"11/03/14",40.582825,-73.885511
+1407950,"11/02/2014","Man Hole 65474","Flat Land Ave And Schenck Ave","Dielectric Fluid",1,"Unknown","Equipment Failure","Commercial/Industrial",,"01/23/15",40.667388,-73.887084
+1407965,"11/03/2014","Floyd Bennett Field Beach","Aviation Rd","Unknown Petroleum","Unknown","Soil, Groundwater, Surface Water","Unknown","Unknown","Jamaica Bay","11/03/14",40.582825,-73.885511
+1407968,"11/03/2014","Estella Lopez","1526 Neptune Ave","Unknown Petroleum","Unknown","Soil ","Unknown","Private Dwelling",,"11/03/14",40.578876,-73.983953
+1408006,"11/03/2014","Marty's Pharmacy","9422 Ave L","#2 Fuel Oil","Unknown","Soil","Equipment Failure","Commercial/Industrial",,"03/17/15",40.637553,-73.896998
+1408024,"11/04/2014","Manhole 5743","Prospect Park W And 4 St","Dielectric Fluid","Unknown","Soil","Equipment Failure","Commercial/Industrial",,"01/23/15",40.667637,-73.974367
+1408100,"11/05/2014","Ems Station #35","332 Metropolitan Ave","Diesel",12,"Unknown","Human Error","Institutional, Educational, Gov., Other",,"11/06/14",40.714179,-73.956992
+1408128,"11/06/2014","Outside","16 Bridgewater St","Diesel",10,"Unknown","Equipment Failure","Commercial Vehicle",,"11/24/14",40.727215,-73.934756
+1408157,"11/07/2014","Pole 5356","439 Lincoln Ave","Dielectric Fluid",0.06,"Unknown","Equipment Failure","Commercial/Industrial",,"01/23/15",40.679322,-73.86795
+1408164,"11/07/2014","Residence","320 Linden Blvd","#2 Fuel Oil","Unknown","Soil","Equipment Failure","Private Dwelling",,"11/20/14",40.652441,-73.947475
+1408186,"11/07/2014","Sub Station","89 John Street","Dielectric Fluid",800,"Surface Water","Unknown","Unknown","Hudson River","11/10/14",40.704375,-73.984956
+1408201,"11/09/2014","Eastbound","Bqe Eastbound Exit 20a","Diesel",50,"Unknown","Traffic Accident","Commercial Vehicle",,"11/10/14",40.678178,-73.944158
+1408202,"11/09/2014","Upper And Lower","Atlanta Avenue","Diesel",90,"Unknown","Traffic Accident","Commercial Vehicle",,"11/10/14",40.687476,-73.986844
+1408268,"11/11/2014","Tank Room","646 Wyona St","#2 Fuel Oil","Unknown","Soil","Equipment Failure","Private Dwelling",,"Not closed",40.662449,-73.890635
+1408406,"11/14/2014","Basement Of Fire House","2312 65th St","Diesel",12,"Unknown","Equipment Failure","Commercial/Industrial",,"11/17/14",40.612148,-73.979138
+1408417,"11/15/2014","Drum Run","Central Ave And Pilling St","Waste Oil/Used Oil, Transmission Fluid","Unknown","Unknown","Unknown","Institutional, Educational, Gov., Other",,"12/16/14",40.686595,-73.90498
+1408430,"11/16/2014","F Line Train Station","4th Ave/9 St","Gasoline, Lacquer Thinner, Paint","Unknown","Sewer","Other","Commercial/Industrial",,"11/17/14",40.684173,-73.978379
+1408436,"11/16/2014","Paint Storage Room","4th Ave And 10th Street","Paint","Unknown","Unknown","Other","Commercial/Industrial",,"11/17/14",40.669784,-73.98929
+1408437,"11/16/2014","Drum Run","82 Furman Ave","Waste Oil/Used Oil","Unknown","Unknown","Unknown","Institutional, Educational, Gov., Other",,"12/15/14",40.683209,-73.905952
+1408442,"11/16/2014","Residents","1263 East 89th Street","#2 Fuel Oil",5,"Unknown","Equipment Failure","Private Dwelling",,"03/06/15",40.633761,-73.899721
+1408460,"11/17/2014","Ps 32 Brooklyn","317 Hoyt Street","#4 Fuel Oil",100,"Soil","Equipment Failure","Institutional, Educational, Gov., Other",,"Not closed",40.680431,-73.991704
+1408472,"11/17/2014","Ground","1815 Ocean Ave","#2 Fuel Oil","Unknown","Unknown","Unknown","Commercial/Industrial",,"Not closed",40.617602,-73.954382
+1408543,"11/19/2014","Drill Pier 9 Red Hook","70 Hamilton Street","Other","Unknown","Unknown","Other","Unknown",,"11/19/14",40.68451,-74.010962
+1408555,"11/19/2014","Soil Contamination","110 Jamaica Avenue","Gasoline","Unknown","Soil","Other","Commercial/Industrial",,"Not closed",40.678467,-73.896133
+1408582,"11/20/2014","Nyc Transit","40 Sand St","Diesel",100,"Soil","Equipment Failure","Commercial Vehicle",,"11/24/14",40.699832,-73.989294
+1408617,"11/21/2014","Commercial Warehouse","834 Lexington Ave","Unknown Petroleum","Unknown","Soil, Groundwater","Unknown","Commercial/Industrial",,"Not closed",40.690363,-73.9254
+1408628,"11/21/2014","Construction Site","Pacific Street/ Vanderbuilt","Gasoline","Unknown","Soil","Unknown","Gasoline Station Or Other Pbs Facility",,"Not closed",40.68124,-73.967461
+1408629,"11/21/2014","Construction Site","Cherry Street Between Gardner And Scott","Lube Oil",3,"Soil","Equipment Failure","Commercial Vehicle",,"11/28/14",40.678178,-73.944158
+1408636,"11/22/2014","Parking Lot","800 East 17th Street","#2 Fuel Oil",15,"Soil, Groundwater","Equipment Failure","Commercial Vehicle",,"Not closed",40.631184,-73.960914
+1408652,"11/23/2014","Man Hole #66936","719 Ave I","Dielectric Fluid","Unknown","Unknown","Deliberate","Unknown",,"01/23/15",40.627016,-73.968917
+1408673,"11/24/2014","Former Junkyard","1086-1100 Rockaway Ave","Unknown Petroleum","Unknown","Soil, Groundwater","Unknown","Commercial/Industrial",,"Not closed",40.652458,-73.906483
+1408710,"11/25/2014","Soil","1111 Bedford Ave","Unknown Petroleum","Unknown","Soil","Unknown","Gasoline Station Or Other Pbs Facility",,"12/05/14",40.685636,-73.954197
+1408721,"11/25/2014","Brooklyn Army Terminal","158 58th St","Unknown Material","Unknown","Soil","Unknown","Unknown","Hudson River","11/26/14",40.645114,-74.022536
+1408732,"11/25/2014","Brooklyn Army Terminal","140 58th St","Diesel",20,"Unknown","Equipment Failure","Commercial Vehicle",,"Not closed",40.644865,-74.023959
+1408738,"11/25/2014","Abandoned Drums","Vansinderen Ave & Riverdale Ave","Unknown Petroleum",150,"Unknown","Abandoned Drums","Commercial/Industrial",,"12/15/14",40.662261,-73.900061
+1408751,"11/25/2014","Soil","418 Kent Ave","Diesel","Unknown","Soil, Groundwater","Unknown","Commercial/Industrial",,"Not closed",40.709792,-73.968838
+1408768,"11/26/2014","Abacus Federal Saving","5518 8th Ave","#2 Fuel Oil","Unknown","Soil, Sewer","Equipment Failure","Commercial/Industrial",,"Not closed",40.638065,-74.007231
+1408896,"12/02/2014","Sb32349","Ralph Ave And Chauncey St","Unknown Petroleum",0.25,"Unknown","Unknown","Commercial/Industrial",,"01/23/15",40.681211,-73.922406
+1408932,"12/03/2014","Drum On Sidewalk - Drum Run","Mcdonald Ave At Ryder Ave","Unknown Petroleum","Unknown","Soil","Abandoned Drums","Unknown",,"12/15/14",40.612565,-73.973729
+1408936,"12/03/2014","Dead End - Drum Run","Furman Ave & Bushwick Ave","Waste Oil/Used Oil","Unknown","Unknown","Abandoned Drums","Unknown",,"12/15/14",40.682802,-73.906376
+1408996,"12/05/2014","Newtown Creek","Mcguinness Blvd/Under Bridge","Unknown Petroleum","Unknown","Surface Water","Unknown","Unknown","Newtown Creek","12/05/14",40.678178,-73.944158
+1408998,"12/05/2014","Roadway","37 St Off Fort Hamilton Parkway","Diesel",2,"Unknown","Equipment Failure","Commercial Vehicle",,"12/05/14",40.613126,-74.030863
+1409010,"12/05/2014","Apart","949 Bedford Ave","Unknown Petroleum","Unknown","Unknown","Unknown","Commercial/Industrial",,"Not closed",40.691602,-73.955218
+1409052,"12/07/2014","Construction Site, Exposed Soil","6002 Fort Hamilton Parkway","Unknown Petroleum","Unknown","Soil","Other","Institutional, Educational, Gov., Other",,"01/09/15",40.63301,-74.006219
+1409060,"12/08/2014","Mta/Bus Depot","38th St And 5th Ave","Gasoline","Unknown","Soil, Groundwater","Unknown","Commercial/Industrial",,"Not closed",40.65183,-74.003327
+1409067,"12/08/2014","Owls Head Wastewater Treatment","6700 Shore Rd","#2 Fuel Oil",100,"Unknown","Equipment Failure","Institutional, Educational, Gov., Other",,"12/08/14",40.641886,-74.034062
+1409147,"12/09/2014","Commercial Property","1080 Wyckoff","Unknown Petroleum",200,"Soil","Unknown","Unknown",,"02/03/15",40.694385,-73.902538
+1409164,"12/10/2014","Drum Run","724 Central Ave","Waste Oil/Used Oil",500,"Unknown","Other","Commercial/Industrial",,"03/02/15",40.68658,-73.904985
+1409173,"12/10/2014","Vaulted Tank","583 Knickerbocker Ave","#2 Fuel Oil","Unknown","Unknown","Equipment Failure","Private Dwelling",,"03/17/15",40.6967,-73.91416
+1409181,"12/10/2014","Unknown Residence","1316 Ave N","#2 Fuel Oil",2,"Soil","Tank Test Failure","Private Dwelling",,"Not closed",40.615245,-73.960802
+1409219,"12/11/2014","To Street","67 Stanhope St","#2 Fuel Oil",10,"Soil","Equipment Failure","Commercial/Industrial",,"12/29/14",40.696371,-73.925011
+1409226,"12/11/2014","Unknown School","1010 Ave I","#4 Fuel Oil","Unknown","Soil","Tank Test Failure","Private Dwelling",,"Not closed",40.62694,-73.966354
+1409282,"12/12/2014","Residents","167 Dekalb Ave","#2 Fuel Oil",5,"Unknown","Equipment Failure","Private Dwelling",,"12/15/14",40.689633,-73.973081
+1409399,"12/15/2014","5923 17 Ave","Unknown","Unknown Material","Unknown","Air","Unknown","Private Dwelling",,"Not closed",40.623648,-73.989169
+1409417,"12/17/2014","Oil Tank Room","119 East 19th St","Unknown Petroleum","Unknown","Unknown","Equipment Failure","Private Dwelling",,"12/18/14",40.646429,-73.961181
+1409529,"12/22/2014","Drum Run","803 Forbell St","Diesel","Unknown","Unknown","Abandoned Drums","Commercial/Industrial",,"03/02/15",40.664202,-73.860378
+1409582,"12/23/2014","Carruzzo Residence","438 15th St","Unknown Material","Unknown","Unknown","Unknown","Private Dwelling",,"12/29/14",40.661677,-73.981812
+1409596,"12/23/2014","Keene Residence","625 East 95th St","#2 Fuel Oil","Unknown","Unknown","Equipment Failure","Private Dwelling",,"Not closed",40.653045,-73.913571
+1409622,"12/24/2014","Soil","440 15th St","#2 Fuel Oil","Unknown","Soil","Equipment Failure","Private Dwelling",,"Not closed",40.661642,-73.981739
+1409645,"12/26/2014","Combo Building","794 Washingstion Ave","#2 Fuel Oil",40,"Unknown","Human Error","Private Dwelling",,"12/29/14",40.674166,-73.963367
+1409661,"12/27/2014","Bqe Ramp","Bqe Westbound On Ramp","Diesel",15,"Unknown","Traffic Accident","Commercial Vehicle",,"12/27/14",40.654409,-74.00785
+1409694,"12/29/2014","Petroleum Contaminated Groundwater","207 North 8th Street","Gasoline","Unknown","Groundwater","Unknown","Unknown",,"Not closed",40.717456,-73.955184
+1409712,"12/30/2014","Private Resd","2015 Linden Blvd","#2 Fuel Oil",4,"Soil","Human Error","Private Dwelling",,"01/09/15",40.660056,-73.88815
+1409724,"12/31/2014","Private Resd","2925 W 19th St","#2 Fuel Oil",5,"Soil","Equipment Failure","Private Dwelling",,"Not closed",40.575935,-73.985706
+1409728,"12/31/2014","Ttf - Is #14 School","2424 Vatchelder St","#4 Fuel Oil","Unknown","Unknown","Tank Test Failure","Institutional, Educational, Gov., Other",,"Not closed",40.593489,-73.938138
+1409732,"12/31/2014","Man Hole 6296","604 Wast 4 St","Unknown Petroleum",0.13,"Unknown","Unknown","Commercial/Industrial",,"Not closed",40.637333,-73.975596
+1409760,"01/02/2015","Sidewalk","440 15th St","#2 Fuel Oil","Unknown","Unknown","Housekeeping","Private Dwelling",,"01/02/15",40.661642,-73.981739
+1409800,"01/05/2015","Air","1202 Mcdonald Ave","Pce","Unknown","Soil, Air","Unknown","Commercial/Industrial",,"Not closed",40.623963,-73.976245
+1409809,"01/05/2015","Residence","642 Putnam Ave","#2 Fuel Oil",5,"Unknown","Human Error","Commercial Vehicle",,"Not closed",40.685409,-73.936011
+1409832,"01/06/2015","Floyd Bennett Field","50 Aviation Rd/Building 273","#2 Fuel Oil","Unknown","Soil","Equipment Failure","Commercial/Industrial",,"Not closed",40.594647,-73.883486
+1409836,"01/06/2015","Apt Building","119 East 19 Th St","#2 Fuel Oil",10,"Soil","Equipment Failure","Private Dwelling",,"01/13/15",40.646429,-73.961181
+1409867,"01/07/2015","Home","946 Bushwick Ave","#2 Fuel Oil","Unknown","Soil","Human Error","Private Dwelling",,"01/07/15",40.692295,-73.92382
+1409891,"01/08/2015","Apartment","66 Cooper","#2 Fuel Oil",1.5,"Air","Equipment Failure","Private Dwelling",,"01/20/15",40.685222,-73.909505
+1409893,"01/08/2015","Commercial/Residential Building","154 Graham Ave","Tetrachloroethylene (pce)","Unknown","Air ","Unknown","Commercial/Industrial",,"01/29/15",40.706875,-73.942809
+1409894,"01/08/2015","Residence","719 Greene Ave","#2 Fuel Oil","Unknown","Unknown","Unknown","Private Dwelling",,"02/23/15",40.689899,-73.939811
+1409975,"01/10/2015","Apartment Building","221 East 18th Street","#2 Fuel Oil",5,"Soil","Human Error","Private Dwelling",,"Not closed",40.645897,-73.962105
+1409981,"01/10/2015","Drum Run","89 Furman Ave","#2 Fuel Oil","Unknown","Unknown","Abandoned Drums","Unknown",," 01/15/2015",40.683405,-73.906124
+1410004,"01/12/2015","Fuel Oil Spill At St. Fortunata Church","2609 Linden Blvd","#2 Fuel Oil",200,"Soil","Unknown","Gasoline Station Or Other Pbs Facility",,"Not closed",40.669033,-73.868122
+1410017,"01/12/2015","Multi-Use Building"," Apartment And Laundromat, 4101-11 13th Ave","#2 Fuel Oil",20,"Unknown","Equipment Failure","Commercial/Industrial",,"Not closed",40.639216,-73.987442
+1410031,"01/13/2015","Roadway","53 Varick Ave","Diesel",10,"Unknown","Traffic Accident","Commercial Vehicle",,"01/13/15",40.707593,-73.927431
+1410050,"01/13/2015","School","29 Fort Greene Pl","#6 Fuel Oil",50,"Unknown","Equipment Failure","Institutional, Educational, Gov., Other",,"01/22/15",40.688873,-73.97641
+1410051,"01/13/2015","School","S Elliott Place/Dekalb Ave","Unknown Petroleum",70,"Sewer","Equipment Failure","Institutional, Educational, Gov., Other",,"01/14/15",40.68975,-73.976026
+1410058,"01/14/2015","Commercial Property","1181 Flushing Ave","Unknown Petroleum","Unknown","Soil, Groundwater","Other","Gasoline Station Or Other Pbs Facility",,"Not closed",40.706534,-73.925224
+1410068,"01/14/2015","Commercial Building","194 Schenck Ave","Other","Unknown","Soil","Unknown","Commercial/Industrial",,"02/27/15",40.676181,-73.889623
+1410084,"01/14/2015","Gowanus Power Plant","730 3rd Ave","Nitrogen Dioxide",1,"Unknown","Equipment Failure","Commercial/Industrial",,"01/14/15",40.664748,-74.002298
+1410090,"01/14/2015","Construction Site","550 Vanderbilt Avenue","Unknown Petroleum","Unknown","Soil","Unknown","Commercial/Industrial",,"Not closed",40.680227,-73.96796
+1410116,"01/15/2015","Former Gas Station","120 Union Ave","Unknown Petroleum","Unknown","Soil","Unknown","Private Dwelling",,"Not closed",40.703983,-73.949928
+1410121,"01/15/2015","Con Ed 65513 Manhole/ Farragut Substaton","89 John St","Unknown Petroleum",7,"Unknown","Unknown","Unknown",,"Not closed",40.704375,-73.984956
+1410192,"01/18/2015","Costco","976 3rd Ave","Cooking Grease",30,"Unknown","Equipment Failure","Commercial/Industrial",,"01/20/15",40.655481,-74.009074
+1410229,"01/20/2015","Pole Top","2032 East 35th Street","Dielectric Fluid","Unknown","Unknown","Equipment Failure","Transformer",,"Not closed",40.608523,-73.931627
+1410284,"01/21/2015","Worksite","400 Bay 41st Street","Hydraulic Oil","Unknown","Unknown","Equipment Failure","Commercial/Industrial",,"Not closed",40.589343,-73.99596
+1410331,"01/22/2015","Apt Building/Apt 1a","234 North 9 St","Unknown Petroleum","Unknown","Unknown","Unknown","Private Dwelling",,"Not closed",40.717286,-73.954359
+1410366,"01/23/2015","Mobil Station","6000 Shore Pkwy","Gasoline","Unknown","Soil","Unknown","Gasoline Station Or Other Pbs Facility",,"01/23/15",40.592534,-73.908198
+1410440,"01/26/2015","Residence","376 Lewis Ave","#2 Fuel Oil",190,"Unknown","Equipment Failure","Private Dwelling",,"03/23/15",40.682631,-73.935
+1410470,"01/28/2015","Ground","378 Lewis Ave","#2 Fuel Oil",150,"Soil","Equipment Failure","Commercial/Industrial",,"01/28/15",40.682505,-73.935254
+1410482,"01/28/2015","Kings County Em. Res.","One Hunters Point Plaza","Material Not Identified","Unknown",,"Other","Unknown",,"Not closed",40.738919,-73.932323
+1410541,"01/29/2015","Ps251 School","1037 East 54th St","#4 Fuel Oil","Unknown","Unknown","Tank Test Failure","Institutional, Educational, Gov., Other",,"Not closed",40.631273,-73.923848
+1410602,"01/30/2015","Across Road From","244 Albany Ave","#2 Fuel Oil",5,"Unknown","Equipment Failure","Commercial/Industrial",,"02/03/15",40.672269,-73.939445
+1410625,"02/02/2015","Basement","1044 East 38th Street","#2 Fuel Oil",30,"Unknown","Equipment Failure","Private Dwelling",,"Not closed",40.629637,-73.939882
+1410645,"02/03/2015","B-11","810 Pacific St","Diesel",25,"Unknown","Equipment Failure","Commercial Vehicle",,"02/03/15",40.68085,-73.968318
+1410678,"02/04/2015","Private Home","5021 Clarendon Road","Gasoline","Unknown","Unknown","Unknown","Private Dwelling",,"02/11/15",40.644746,-73.928794
+1410746,"02/06/2015","Basement","925 Union St","#2 Fuel Oil","Unknown","Unknown","Tank Test Failure","Private Dwelling",,"Not closed",40.673466,-73.972212
+1410758,"02/07/2015","Pole 63292","1117 East 57th St","Transformer Oil",0.25,"Unknown","Equipment Failure","Transformer",,"Not closed",40.625702,-73.920501
+1410761,"02/07/2015","Owls Head Wwtp","6700 Shore Rd","Transformer Oil",7,"Unknown","Equipment Failure","Institutional, Educational, Gov., Other",,"02/09/15",40.641886,-74.034062
+1410814,"02/10/2015","Eastern District High School","850 Grand Street","#4 Fuel Oil","Unknown","Unknown","Housekeeping","Private Dwelling",,"Not closed",40.711881,-73.940338
+1410864,"02/12/2015","Salon","1728 86th Street","#2 Fuel Oil",10,"Air","Human Error","Commercial/Industrial",,"02/12/15",40.607858,-74.004145
+1410874,"02/12/2015","Residence","2453 East 13th Street","#2 Fuel Oil","Unknown","Soil","Equipment Failure","Private Dwelling",,"02/17/15",40.590705,-73.956551
+1410973,"02/18/2015","Manhole Tm1653, Tm1754, Tm1802, & Bc1653","621 Court St","Unknown Petroleum",16,"Unknown","Unknown","Transformer",,"Not closed",40.670959,-74.001373
+1410980,"02/18/2015","Daycare Center","987 Lafayette Ave","#2 Fuel Oil",8,"Unknown","Unknown","Commercial/Industrial",,"Not closed",40.692245,-73.932657
+1411031,"02/20/2015","Brownsville Substation","247 Williams Ave","Dielectric Fluid",400,"Soil","Other","Commercial/Industrial",,"Not closed",40.669442,-73.899019
+1411087,"02/22/2015","Midtown Creek","Manhattan Ave Boat Launch","Unknown Petroleum","Unknown","Surface Water","Unknown","Unknown","Midtown Creek","03/02/15",40.738977,-73.955699
+1411103,"02/23/2015","Red Hook Term.","17 Commercial Warf/Berth 10","Unknown Material",5.5,"Surface Water","Unknown","Vessel","Butter Milk Channel","02/23/15",40.678178,-73.944158
+1411125,"02/23/2015","Drum Run","Glenmore And Vermont St","Unknown Petroleum","Unknown","Unknown","Unknown","Unknown",,"03/19/15",40.673437,-73.894282
+1411164,"02/24/2015","Newtown Creek","Under Polaski Bridge","Unknown Petroleum","Unknown","Surface Water","Other","Unknown","Newtown Creek","02/24/15",40.678178,-73.944158
+1411215,"02/25/2015","Gulf Gas Station","260 Hamilton Ave","Diesel","Unknown","Soil, Surface Water","Equipment Failure","Gasoline Station Or Other Pbs Facility",,03/03/15,40.677093,-74.0026
+1411218,"02/25/2015","Guld Gas Station","260 Hamiliton Ave","Diesel","Unknown","Unknown","Housekeeping","Gasoline Station Or Other Pbs Facility",,"02/25/15",40.677093,-74.0026
+1411260,"02/27/2015","Arc Terminals","25 Paidge Ave","Gasoline",6,"Unknown","Equipment Failure","Commercial/Industrial",,"03/02/15",40.737441,-73.951971
+1411277,"02/27/2015","Drum Run","181 Patchen Ave","Unknown Hazardous Material","Unknown","Unknown","Abandoned Drums","Unknown",,"03/19/15",40.685127,-73.92623
+1411290,"02/27/2015","Kosciusko Bridge (under Brooklyn Aproach)","Kosciusko Bridge","Other",5,"Surface Water","Housekeeping","Commercial/Industrial","Newtown Creek","03/02/15",40.728471,-73.928344
+1411306,"02/28/2015","Curb And Driveway","7401 21st Ave","#2 Fuel Oil",20,"Soil","Housekeeping","Commercial Vehicle",,"03/03/15",40.610109,-73.988941
+1411318,"03/02/2015","Soil","Van Sinderan Blvd And E New York Ave","Dielectric Fluid",2,"Soil","Equipment Failure","Commercial/Industrial",,"Not closed",40.665514,-73.926391
+1411330,"03/02/2015","Regulator","79th Street East Of Bell Parkway","Raw Sewage","Unknown","Unknown","Other","Commercial/Industrial",,"03/04/15",40.584072,-73.96626
+1411344,"03/03/2015","Drum Run","Furman Ave And Bushwick Ave","Waste Oil/Used Oil",270,"Unknown","Abandoned Drums","Commercial/Industrial",,"03/19/15",40.682802,-73.906376
+1411355,"03/03/2015","Vacant Commerical Property (gas Station)","6317 Fort Hamilton Parkway","Gasoline","Unknown","Soil","Equipment Failure","Gasoline Station Or Other Pbs Facility",,"Not closed",40.631108,-74.007959
+1411368,"03/04/2015","Commercial Property","703 Brighton Beach","Unknown Petroleum","Unknown","Soil","Other","Commercial/Industrial",,"03/10/15",40.578095,-73.960503
+1411384,"03/04/2015","Tom Aliquo","1543 West 6th St","#2 Fuel Oil","Unknown","Unknown","Equipment Failure","Private Dwelling",,"Not closed",40.609605,-73.97964
+1411396,"03/05/2015","Man Holecovers","Norman Ave To Jewel Ave","Gasoline","Unknown","Groundwater","Human Error","Institutional, Educational, Gov., Other",,"03/12/15",40.728755,-73.947679
+1411416,"03/05/2015","Residence","415 Monroe Street","#2 Fuel Oil",5,"Unknown","Other","Private Dwelling",,"Not closed",40.686792,-73.940914
+1411495,"03/09/2015","Building","133 Bayard St","Unknown Material",5,"Unknown","Unknown","Unknown",,"03/12/15",40.719835,-73.946959
+1411497,"03/09/2015","Soil","133 Bayard St","#2 Fuel Oil",5,"Soil","Equipment Failure","Private Dwelling",,"Not closed",40.719835,-73.946959
+1411530,"03/10/2015","Service Box","635 Sackett Street","#2 Fuel Oil",18,"Unknown","Unknown","Unknown",,"Not closed",40.678289,-73.983173
+1411553,"03/11/2015","Oil Depot","Smith Street And Garnett Street","Unknown Petroleum","Unknown","Air","Unknown","Unknown",,"03/17/15",40.674112,-73.998073
+1411666,"03/14/2015","Drum Run","Furman Ave Btwn Bushwick And Deadend","Unknown Petroleum","Unknown","Unknown","Housekeeping","Commercial/Industrial",,"03/16/15",40.678178,-73.944158
+1411674,"03/14/2015","Hess Station# 32507","1630 Bushwick Ave","Waste Oil/Used Oil","Unknown","Unknown","Vandalism","Commercial/Industrial",,"03/16/15",40.680244,-73.902707
+1411691,"03/15/2015","Manhole","West St And Quay St","Unknown Petroleum","Unknown","Unknown","Unknown","Commercial/Industrial",,"Not closed",40.726172,-73.958653
+1411705,"03/16/2015","Basement","135 Bayard St","#2 Fuel Oil","Unknown","Soil, Groundwater","Equipment Failure","Private Dwelling",,"03/20/15",40.719902,-73.946901
+1411729,"03/16/2015","Phase 2","65 Eckford St","Unknown Material","Unknown","Soil","Unknown","Commercial/Industrial",,"Not closed",40.722071,-73.948211
+1411735,"03/16/2015","Construction Site","203 Jay St","Dielectric Fluid",5500,"Soil","Human Error","Commercial/Industrial",,"Not closed",40.697938,-73.986627
+1411740,"03/16/2015","Road Way","202 Jay St","Dielectric Fluid",800,"Soil , Groundwater , Sewer, Subway","Equipment Failure","Commercial/Industrial",,"03/16/15",40.698625,-73.986962
+1411760,"03/17/2015","Drum Run","316 Fountain Ave","Waste Oil/Used Oil",150,"Unknown","Abandoned Drums","Unknown",,"03/19/15",40.671921,-73.874802
+1411768,"03/17/2015","To Roadway","Ifo 210 Varick Ave","Diesel",15,"Unknown","Traffic Accident","Commercial Vehicle",,"03/17/15",40.71357,-73.929245
+1411803,"03/17/2015","M/V Grey Shark","Gravesend Bay","Bunker C Oil","Unknown","Surface Water","Unknown","Vessel",,"03/18/15",40.593121,-74.009447
+1411808,"03/18/2015","341 East 19th Realty","341 East 19th St","#2 Fuel Oil","Unknown","Unknown","Tank Test Failure","Commercial/Industrial",,"Not closed",40.641787,-73.960322
+1411822,"03/18/2015","Manhole 69589","568 Vanderbilt Ave","Unknown Petroleum",750,"Unknown","Unknown","Commercial/Industrial",,"Not closed",40.679665,-73.968482
+1411862,"03/19/2015","Transmission Feeder #41t Gowanis Subst","27th St & 3rd Ave","Dielectric Fluid",10,"Soil","Equipment Failure","Transformer",,"Not closed",40.660457,-74.001026
+1411911,"03/20/2015","Mhany Llc","659 Pennsylvania Ave","Unknown Petroleum","Unknown","Soil","Unknown","Commercial/Industrial",,"Not closed",40.661275,-73.892266
+1411938,"03/21/15","Manhole 5929","1631 63rd St And 17th Ave","Diesel",0.5,"Unknown","Other","Commercial Vehicle",,"Not closed",40.6227,-73.992494
+1411962,"03/23/15","Con Edison Valve Pit #7","Manhattan Ave And Commercial Ave","Unknown Material",4,"Soil","Equipment Failure","Commercial/Industrial",,"Not closed",40.737897,-73.955533
+1411965,"03/23/15","Fuel Oil Spill To Roadway","Vandervoort Ave And Grand St","#2 Fuel Oil",10,"Unknown","Equipment Failure","Tank Truck",,"03/24/15",40.713786,-73.933178
+1411970,"03/23/15","Contaminated Soil In Excavation","524 Coney Island Avenue","#4 Fuel Oil",5,"Soil","Other","Institutional, Educational, Gov., Other",,"Not closed",40.644753,-73.970768
+1412085,"03/25/15","Nyc Police Facility","W 6th St & Neptune Ave","Unknown Material","Unknown","Soil","Unknown","Institutional, Educational, Gov., Other",,"Not closed",40.580018,-73.974895
+1412138,"03/26/2015","Dep Sewage Treatment Plant","12266 Flatland Ave","Sludge",50,"Unknown","Equipment Failure","Institutional, Educational, Gov., Other","Hendrix St Canal","03/27/15",40.652416,-73.879078
+1412154,"03/27/15","In Tracks","Nostrand Ave And Eastern Pkwy","Other",55,"Unknown","Equipment Failure","Commercial/Industrial",,"Not Closed",40.669895,-73.950497
+1412169,"03/27/15","Whitman Housing","102 Cumberland Walk","#2 Fuel Oil",50,"Soil","Human Error","Institutional, Educational, Gov., Other",,"Not Closed",40.69487,-73.974691
+1412258,"03/31/15","Manhole 66203","19th St/10th Ave","Unknown Petroleum",6,"Unknown","Unknown","Unknown",,"Not Closed",40.655546,-73.981517
+1500030,"04/01/15","Residence","553 Macdonough Street","#2 Fuel Oil","Unknown","Unknown","Equipment Failure","Private Dwelling",,"04/03/15",40.683497,-73.923967
+1500053,"04/02/15","Unknown 966 -988 Alabama Ave","966 -988 Alabama Ave","Diesel","Unknown","Unknown","Unknown","Commercial/Industrial",,"Not Closed",40.652601,-73.889459
+1500129,"04/06/15","Unit Sub Station/Mill Ave Substation","2134 Mill Ave","Unknown Petroleum",7,"Soil","Unknown","Commercial/Industrial",,"Not Closed",40.614755,-73.913231
+1500242,"04/09/15","Vault","East 4th Street And Church Ave","Unknown Material",25,"Unknown","Unknown","Unknown",,"Not Closed",40.643996,-73.976574
+1500264,"04/09/2015","Unknown Facility","460 McGuinness Blvd","Unknown Petroleum",5,"Soil, Sewer","Equipment Failure","Commercial Vehicle",,"Not Closed",40.738257,-73.952981
+,"03/31/2014","Transformer","East 81st. St. Flatland Ave","Dielectric Fluid",1.5,"Unknown","Equipment Failure","Major Facility (mosf) > 400,000 Gal",,"05/01/14",40.661102,-73.862476
